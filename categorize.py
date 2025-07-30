@@ -12,7 +12,7 @@ OPENAI_KEY = "SECRET"
 
 
 README_URL = "https://raw.githubusercontent.com/choubari/Awesome-Muslims/master/README.md"
-OUTPUT_FILE = "awesome_muslims_projects.md"
+OUTPUT_FILE = "README.md"
 
 CATEGORIES = {
     "Quran": ["quran", "mushaf"],
@@ -28,7 +28,7 @@ def get_project_info(url):
     functions = [
       {
         "name": "parse_link",
-        "description": "Parse a URL and extract structured metadata. The required description field is a single line description of this project. No technical details, just the goal and value. The top2 field describes the top 2 differentiators, the top 2 features and/or edges. The deployement is one of: Web, Desktop, Mobile, TV, others ",
+        "description": "Parse a URL and extract structured metadata. The required description field is a single line description of this project with no '*' allowed. No technical details, just the goal and value. The top2 field is a single line with '👍' as a bullet symbol to describes the top 2 differentiators, the top 2 features and/or edges. The deployement is one of: (🌐, 🖥️, 📱, 📺, 🛠️) for Web, Desktop, Mobile, TV, others ",
         "parameters": {
           "type": "object",
           "properties": {
@@ -141,17 +141,17 @@ tree = dict(
 
 
 # 5. Write Markdown
-md = "# 📚 Open Source Islamic Projects (from Awesome-Muslims)\n\n# Table of Contents\n\n- [Prayer Times](#prayer-times)\n- [Quran](#quran)\n- [Islamic Calendar](#islamic-calendar)\n- [Hadith](#hadith)\n- [Azkar & Dua](#azkar--dua)\n- [Other](#other)\n\n"
+md = "# 📚 Open Source Islamic Projects (from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/))\n\n# Table of Contents\n\n- [Prayer Times](#prayer-times)\n- [Quran](#quran)\n- [Islamic Calendar](#islamic-calendar)\n- [Hadith](#hadith)\n- [Azkar & Dua](#azkar--dua)\n- [Other](#other)\n\n"
 for category, langs in tree.items():
     total = sum(len(items) for items in tree[category].values())
     md += f"## {category} ({total} projects)\n"
     for lang, repos in langs.items():
         md += f"### {lang}\n"
         for r in repos:
-            md += f"- **[{r['name']}]({r['html_url']})** – ⭐ {r['stars']}\n"
-            md += f"  *{r['description']}"
-            md += f"  *{re.sub(r'\b(1\.|2\.)', '👍', r['top2']).replace('\n', ' ')}\n"
-            md += f"  *Deployment:* {r['deployment']}\n\n"
+            md += f"{r['deployment']}"
+            md += f" **[{r['name']}]({r['html_url']})** ⭐ {r['stars']} –"
+            md += f"  {r['description']}"
+            md += f"  {re.sub(r'\b(1\.|2\.|\*)', '👍', r['top2']).replace('\n', ' ')}\n\n"
 
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     f.write(md)
