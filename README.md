@@ -4,10 +4,10 @@
 
 - [Prayer Times](#prayer-times)
 - [Quran](#quran)
-- [Other](#other)
 - [Islamic Calendar](#islamic-calendar)
 - [Hadith](#hadith)
 - [Azkar & Dua](#azkar--dua)
+- [Other](#other)
     
 ## **Prayer Times**
 
@@ -427,6 +427,121 @@
   * **Fast Web Quran Reader:** A server-rendered (Next.js) web app that loads Quran pages quickly and can be used like a native app thanks to PWA capabilities (offline reading, add-to-home-screen functionality).  
   * **Responsive and Configurable:** TailwindCSS is used for a flexible design that works on desktop, tablet, and mobile browsers. The application likely offers features such as different themes, easy navigation by page or surah, and possibly search, all while keeping performance and bundle size in mind for a smooth user experience.
 
+## **Islamic Calendar**
+
+### **Java**
+
+* [**HijriDatePicker**](https://github.com/alhazmy13/HijriDatePicker) – ⭐ 147  
+  *Deployment:* Android library  
+  *Description:* Material Date & Time Picker (Dual Gregorian-Hijri picker for Android).  
+  *Features:*  
+  * A custom DatePicker component that allows users to select dates in both Gregorian and Hijri calendars seamlessly, styled according to Google’s Material Design for consistency in Android apps.  
+  * Developers can easily plug it into forms where Islamic date selection is needed (e.g., picking a date for Ramadan events or birthdays in Hijri). It handles the conversion internally and can return both corresponding dates. Supports Android 5.0+ and is localized for Arabic right-to-left layout when showing Hijri dates.
+
+### **JavaScript**
+
+* [**Hijri.js**](https://github.com/xsoh/Hijri.js) – ⭐ 81  
+  *Deployment:* JavaScript library  
+  *Description:* A tool for the Islamic calendar (Hijri) in JavaScript.  
+  *Features:*  
+  * Provides functions to convert between Gregorian and Hijri dates accurately, likely based on known algorithms or tables (could include support for different moon-sighting criteria or use Umm al-Qura calculations).  
+  * May also include utility to get current Hijri date, add or subtract days in the Hijri calendar, and format Hijri dates. This library enables web developers to easily include Hijri calendar functionality in web apps (like displaying today’s Hijri date or scheduling events on the Islamic calendar).  
+* [**hijri-date-picker**](https://github.com/abublihi/hijri-date-picker) – ⭐ 27  
+  *Deployment:* Web component (React)  
+  *Description:* A simple and reusable React component for a Hijri date picker.  
+  *Features:*  
+  * Allows users to pick dates in Hijri format through a visual calendar widget. Likely also shows the equivalent Gregorian date or allows toggling between calendars for convenience.  
+  * The component is designed to be easily dropped into any React application, with props to configure initial date, localization (perhaps Arabic labels), and styling. It simplifies the process of selecting Islamic dates (e.g., selecting Ramadan 1st or Eid day) in web forms.
+
+### **Python**
+
+* [**hijridate**](https://github.com/dralshehri/hijridate) – ⭐ 72  
+  *Deployment:* Python library  
+  *Description:* Accurate Hijri-Gregorian date converter based on the Umm al-Qura calendar.  
+  *Features:*  
+  * Uses the official Umm al-Qura calendar data (the system used by Saudi Arabia, known for accuracy for civil purposes) to convert dates, ensuring that the conversions match the widely recognized calendar in the Muslim world.  
+  * Provides simple Python API: given a Gregorian date it returns the corresponding Hijri date and vice versa. It likely covers a range of years as defined by available Umm al-Qura data. Also, it might adjust for day boundaries and timezone differences properly. Ideal for applications that need to display Islamic dates or calculate age in Hijri, etc., with precision.
+
+## **Hadith**
+
+### **JavaScript**
+
+* [**hadiths**](https://github.com/fawazahmed0/hadiths) – ⭐ 14  
+  *Deployment:* Data (JSON) / Static API  
+  *Description:* Hadith collections in multiple languages and with multiple authenticity grades.  
+  *Features:*  
+  * Aggregates hadith texts from various sources (possibly the major six books and others) and provides them in a structured format, including translations in different languages.  
+  * Each hadith entry likely includes its grading (e.g., Sahih, Hasan, Da’if) and reference info. The project probably provides an easy way to fetch or search these hadith via JSON files or a simple static API, enabling developers to incorporate hadith content into apps without dealing with scraping or databases.  
+* [**check-hadith-native**](https://github.com/adelpro/check-hadith-native) – ⭐ 3  
+  *Deployment:* Mobile app (React Native)  
+  *Description:* Check Hadith (Nabawi) authenticity using the Dorar API (React Native version).  
+  *Features:*  
+  * Allows a user to input or search for a phrase from a hadith and then uses the Al-Dorar al-Sunniah API to retrieve information about that hadith – including its source, text, and authenticity grading.  
+  * Mobile-friendly interface for quick fact-checking of hadiths on the go. It likely displays multiple results if a phrase matches several hadiths and shows details so the user can verify if a circulating hadith is authentic (Sahih) or not.
+
+### **Unknown**
+
+* [**hadith-api**](https://github.com/fawazahmed0/hadith-api) – ⭐ 337  
+  *Deployment:* Web API / Data service  
+  *Description:* Free Hadith API service with multiple languages and multiple grades.  
+  *Features:*  
+  * Exposes hadith data via a RESTful API, allowing queries for hadith by collection (Bukhari, Muslim, etc.), by number, or by keywords, returning the hadith text in various languages.  
+  * Includes authenticity grades from scholars for each hadith when available, so developers can filter or display the status of hadith. It covers multiple collections and provides a unified interface to access a wealth of hadith literature without setting up one’s own database.  
+* [**Open-Hadith-Data**](https://github.com/mhashim6/Open-Hadith-Data) – ⭐ 172  
+  *Deployment:* Dataset  
+  *Description:* Open Hadith Library of the databases of 9 different books (including the Six Major Books of Hadith).  
+  *Features:*  
+  * Provides the content of nine important hadith collections (such as the Sihah Sitta: Bukhari, Muslim, Tirmidhi, Abu Dawood, Nasa’i, Ibn Majah, and perhaps others like Muwatta, Musnad Ahmad, etc.) in a structured and open format.  
+  * This data can be in SQL, JSON, or CSV form, and includes the hadith text (Arabic, and possibly translations), references (book, hadith number), and potentially gradings or commentary. It’s a treasure trove for developers and researchers, enabling offline access and analysis of hadith corpora without legal or technical barriers.
+
+### **Kotlin**
+
+* [**SunnahAssistant**](https://github.com/saidmsaid81/SunnahAssistant) – ⭐ 12  
+  *Deployment:* Android app  
+  *Description:* An Android app for setting reminders that help you become a better person (by following Sunnah practices).  
+  *Features:*  
+  * Allows users to set personalized reminders for various Sunnah acts – for example, fasting on Mondays and Thursdays, praying Duha, reading Qur’an daily, or giving charity regularly. The app might come pre-loaded with common good deeds and sunnah tasks to choose from.  
+  * Tracks and encourages consistency: it could have features like streaks or gentle nudges if a user misses a practice. Essentially, it’s like a habit tracker specifically tailored to Islamic Sunnah habits, helping users gradually incorporate more good practices in daily life.
+
+### **TypeScript**
+
+* [**hadith-json**](https://github.com/AhmedBaset/hadith-json) – ⭐ 154  
+  *Deployment:* Dataset (JSON)  
+  *Description:* Database of Prophet’s hadiths: includes 50,884 hadiths from 17 books, among them the nine books.  
+  *Features:*  
+  * A massive compilation of hadith in JSON format, covering far more than the six canonical collections – it spans 17 books which likely include not just Bukhari, Muslim, etc., but also collections like Musnad Ahmad, Sunan Darimi, or others.  
+  * Each hadith entry in the JSON presumably contains the book name, hadith number, Arabic text, and perhaps English translation and authenticity. Having all this in JSON makes it easy to index, search, or integrate into apps and analysis tools directly, saving countless hours of data entry.
+
+### **HTML**
+
+* [**check-hadith**](https://github.com/adelpro/check-hadith) – ⭐ 6  
+  *Deployment:* Web application (PWA)  
+  *Description:* Check Hadith Nabawi with Dorar API (web version).  
+  *Features:*  
+  * A lightweight web interface where users can input a hadith or a part of it (in Arabic, likely) and the app will query the Dorar API to find matches. It then displays the hadith text, its source (which book and reference), and the authenticity grading as given by Dorar’s scholars.  
+  * Likely works as a Progressive Web App, meaning it can be installed on mobile home screens, works offline to some extent (maybe caching recent queries), and has a simple, mobile-friendly UI (since this complements the React Native version, the functionality is similar, just accessible via browser).
+
+## **Azkar & Dua**
+
+### **JavaScript**
+
+* [**hisnmuslim\_app**](https://github.com/rn0x/hisnmuslim_app) – ⭐ 16  
+  *Deployment:* Web app (Cordova/HTML/JS)  
+  *Description:* **حصن المسلم (Hisn al-Muslim)** – an app based on the famous book “Fortress of the Muslim” which compiles authentic duas (supplications) from the Quran and Sunnah.  
+  *Features:*  
+  * Contains a comprehensive collection of Azkar and Duas categorized for various occasions: morning, evening, after prayers, before eating, travel, illness, etc., all in Arabic (often with translation and transliteration).  
+  * Provides a user-friendly interface (likely Arabic text with optional translations) and possibly features like search or favorites. As a web app, it might be cross-platform and could be packaged via Cordova for mobile. It ensures you have the proper supplication for any situation readily available.
+
+### **Java**
+
+* [**Azkar-App**](https://github.com/AbdelrahmanBayoumi/Azkar-App) – ⭐ 115  
+  *Deployment:* Desktop application (Java)  
+  *Description:* Desktop Application 💻 for calculating Muslim prayer times 🕌, with Morning and Night Azkar 🤲 and notifications for random Azkar pop-ups at specific times.  
+  *Features:*  
+  * **Prayer Times on PC:** Computes and displays daily prayer times for a chosen location on the desktop, with the ability to set alarms or notifications at those times (so your computer can remind you or play Adhan).  
+  * **Azkar with Notifications:** Includes the collection of Morning (after Fajr) and Evening (after Asr/Maghrib) Azkar. It not only lets you read them, but also can send a notification with a random dhikr (remembrance) or dua at certain intervals or times of day, prompting you to remember Allah during work. It likely sits in the system tray, running in the background to gently remind users of Azkar.
+
+
 ## **Other**
 
 ### **TypeScript**
@@ -611,117 +726,3 @@
   *Features:*  
   * **Daily Prayer Schedule:** Shows the five daily prayer times for the user’s location (likely auto-detected or set) prominently on the dashboard, along with countdowns or highlights for the next prayer.  
   * **Integrated Info:** Also displays today’s date in both Gregorian and Hijri, which helps in tracking Islamic dates. Additionally, it pulls local weather information so users have worldly context (weather forecast) along with spiritual timings. The site’s goal is to be the browser start page for a Muslim user, concentrating useful daily info (possibly also including things like a Quran verse of the day or a hadith).
-
-## **Islamic Calendar**
-
-### **Java**
-
-* [**HijriDatePicker**](https://github.com/alhazmy13/HijriDatePicker) – ⭐ 147  
-  *Deployment:* Android library  
-  *Description:* Material Date & Time Picker (Dual Gregorian-Hijri picker for Android).  
-  *Features:*  
-  * A custom DatePicker component that allows users to select dates in both Gregorian and Hijri calendars seamlessly, styled according to Google’s Material Design for consistency in Android apps.  
-  * Developers can easily plug it into forms where Islamic date selection is needed (e.g., picking a date for Ramadan events or birthdays in Hijri). It handles the conversion internally and can return both corresponding dates. Supports Android 5.0+ and is localized for Arabic right-to-left layout when showing Hijri dates.
-
-### **JavaScript**
-
-* [**Hijri.js**](https://github.com/xsoh/Hijri.js) – ⭐ 81  
-  *Deployment:* JavaScript library  
-  *Description:* A tool for the Islamic calendar (Hijri) in JavaScript.  
-  *Features:*  
-  * Provides functions to convert between Gregorian and Hijri dates accurately, likely based on known algorithms or tables (could include support for different moon-sighting criteria or use Umm al-Qura calculations).  
-  * May also include utility to get current Hijri date, add or subtract days in the Hijri calendar, and format Hijri dates. This library enables web developers to easily include Hijri calendar functionality in web apps (like displaying today’s Hijri date or scheduling events on the Islamic calendar).  
-* [**hijri-date-picker**](https://github.com/abublihi/hijri-date-picker) – ⭐ 27  
-  *Deployment:* Web component (React)  
-  *Description:* A simple and reusable React component for a Hijri date picker.  
-  *Features:*  
-  * Allows users to pick dates in Hijri format through a visual calendar widget. Likely also shows the equivalent Gregorian date or allows toggling between calendars for convenience.  
-  * The component is designed to be easily dropped into any React application, with props to configure initial date, localization (perhaps Arabic labels), and styling. It simplifies the process of selecting Islamic dates (e.g., selecting Ramadan 1st or Eid day) in web forms.
-
-### **Python**
-
-* [**hijridate**](https://github.com/dralshehri/hijridate) – ⭐ 72  
-  *Deployment:* Python library  
-  *Description:* Accurate Hijri-Gregorian date converter based on the Umm al-Qura calendar.  
-  *Features:*  
-  * Uses the official Umm al-Qura calendar data (the system used by Saudi Arabia, known for accuracy for civil purposes) to convert dates, ensuring that the conversions match the widely recognized calendar in the Muslim world.  
-  * Provides simple Python API: given a Gregorian date it returns the corresponding Hijri date and vice versa. It likely covers a range of years as defined by available Umm al-Qura data. Also, it might adjust for day boundaries and timezone differences properly. Ideal for applications that need to display Islamic dates or calculate age in Hijri, etc., with precision.
-
-## **Hadith**
-
-### **JavaScript**
-
-* [**hadiths**](https://github.com/fawazahmed0/hadiths) – ⭐ 14  
-  *Deployment:* Data (JSON) / Static API  
-  *Description:* Hadith collections in multiple languages and with multiple authenticity grades.  
-  *Features:*  
-  * Aggregates hadith texts from various sources (possibly the major six books and others) and provides them in a structured format, including translations in different languages.  
-  * Each hadith entry likely includes its grading (e.g., Sahih, Hasan, Da’if) and reference info. The project probably provides an easy way to fetch or search these hadith via JSON files or a simple static API, enabling developers to incorporate hadith content into apps without dealing with scraping or databases.  
-* [**check-hadith-native**](https://github.com/adelpro/check-hadith-native) – ⭐ 3  
-  *Deployment:* Mobile app (React Native)  
-  *Description:* Check Hadith (Nabawi) authenticity using the Dorar API (React Native version).  
-  *Features:*  
-  * Allows a user to input or search for a phrase from a hadith and then uses the Al-Dorar al-Sunniah API to retrieve information about that hadith – including its source, text, and authenticity grading.  
-  * Mobile-friendly interface for quick fact-checking of hadiths on the go. It likely displays multiple results if a phrase matches several hadiths and shows details so the user can verify if a circulating hadith is authentic (Sahih) or not.
-
-### **Unknown**
-
-* [**hadith-api**](https://github.com/fawazahmed0/hadith-api) – ⭐ 337  
-  *Deployment:* Web API / Data service  
-  *Description:* Free Hadith API service with multiple languages and multiple grades.  
-  *Features:*  
-  * Exposes hadith data via a RESTful API, allowing queries for hadith by collection (Bukhari, Muslim, etc.), by number, or by keywords, returning the hadith text in various languages.  
-  * Includes authenticity grades from scholars for each hadith when available, so developers can filter or display the status of hadith. It covers multiple collections and provides a unified interface to access a wealth of hadith literature without setting up one’s own database.  
-* [**Open-Hadith-Data**](https://github.com/mhashim6/Open-Hadith-Data) – ⭐ 172  
-  *Deployment:* Dataset  
-  *Description:* Open Hadith Library of the databases of 9 different books (including the Six Major Books of Hadith).  
-  *Features:*  
-  * Provides the content of nine important hadith collections (such as the Sihah Sitta: Bukhari, Muslim, Tirmidhi, Abu Dawood, Nasa’i, Ibn Majah, and perhaps others like Muwatta, Musnad Ahmad, etc.) in a structured and open format.  
-  * This data can be in SQL, JSON, or CSV form, and includes the hadith text (Arabic, and possibly translations), references (book, hadith number), and potentially gradings or commentary. It’s a treasure trove for developers and researchers, enabling offline access and analysis of hadith corpora without legal or technical barriers.
-
-### **Kotlin**
-
-* [**SunnahAssistant**](https://github.com/saidmsaid81/SunnahAssistant) – ⭐ 12  
-  *Deployment:* Android app  
-  *Description:* An Android app for setting reminders that help you become a better person (by following Sunnah practices).  
-  *Features:*  
-  * Allows users to set personalized reminders for various Sunnah acts – for example, fasting on Mondays and Thursdays, praying Duha, reading Qur’an daily, or giving charity regularly. The app might come pre-loaded with common good deeds and sunnah tasks to choose from.  
-  * Tracks and encourages consistency: it could have features like streaks or gentle nudges if a user misses a practice. Essentially, it’s like a habit tracker specifically tailored to Islamic Sunnah habits, helping users gradually incorporate more good practices in daily life.
-
-### **TypeScript**
-
-* [**hadith-json**](https://github.com/AhmedBaset/hadith-json) – ⭐ 154  
-  *Deployment:* Dataset (JSON)  
-  *Description:* Database of Prophet’s hadiths: includes 50,884 hadiths from 17 books, among them the nine books.  
-  *Features:*  
-  * A massive compilation of hadith in JSON format, covering far more than the six canonical collections – it spans 17 books which likely include not just Bukhari, Muslim, etc., but also collections like Musnad Ahmad, Sunan Darimi, or others.  
-  * Each hadith entry in the JSON presumably contains the book name, hadith number, Arabic text, and perhaps English translation and authenticity. Having all this in JSON makes it easy to index, search, or integrate into apps and analysis tools directly, saving countless hours of data entry.
-
-### **HTML**
-
-* [**check-hadith**](https://github.com/adelpro/check-hadith) – ⭐ 6  
-  *Deployment:* Web application (PWA)  
-  *Description:* Check Hadith Nabawi with Dorar API (web version).  
-  *Features:*  
-  * A lightweight web interface where users can input a hadith or a part of it (in Arabic, likely) and the app will query the Dorar API to find matches. It then displays the hadith text, its source (which book and reference), and the authenticity grading as given by Dorar’s scholars.  
-  * Likely works as a Progressive Web App, meaning it can be installed on mobile home screens, works offline to some extent (maybe caching recent queries), and has a simple, mobile-friendly UI (since this complements the React Native version, the functionality is similar, just accessible via browser).
-
-## **Azkar & Dua**
-
-### **JavaScript**
-
-* [**hisnmuslim\_app**](https://github.com/rn0x/hisnmuslim_app) – ⭐ 16  
-  *Deployment:* Web app (Cordova/HTML/JS)  
-  *Description:* **حصن المسلم (Hisn al-Muslim)** – an app based on the famous book “Fortress of the Muslim” which compiles authentic duas (supplications) from the Quran and Sunnah.  
-  *Features:*  
-  * Contains a comprehensive collection of Azkar and Duas categorized for various occasions: morning, evening, after prayers, before eating, travel, illness, etc., all in Arabic (often with translation and transliteration).  
-  * Provides a user-friendly interface (likely Arabic text with optional translations) and possibly features like search or favorites. As a web app, it might be cross-platform and could be packaged via Cordova for mobile. It ensures you have the proper supplication for any situation readily available.
-
-### **Java**
-
-* [**Azkar-App**](https://github.com/AbdelrahmanBayoumi/Azkar-App) – ⭐ 115  
-  *Deployment:* Desktop application (Java)  
-  *Description:* Desktop Application 💻 for calculating Muslim prayer times 🕌, with Morning and Night Azkar 🤲 and notifications for random Azkar pop-ups at specific times.  
-  *Features:*  
-  * **Prayer Times on PC:** Computes and displays daily prayer times for a chosen location on the desktop, with the ability to set alarms or notifications at those times (so your computer can remind you or play Adhan).  
-  * **Azkar with Notifications:** Includes the collection of Morning (after Fajr) and Evening (after Asr/Maghrib) Azkar. It not only lets you read them, but also can send a notification with a random dhikr (remembrance) or dua at certain intervals or times of day, prompting you to remember Allah during work. It likely sits in the system tray, running in the background to gently remind users of Azkar.
