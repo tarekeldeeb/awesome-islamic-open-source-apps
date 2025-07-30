@@ -141,7 +141,7 @@ tree = dict(
 
 
 # 5. Write Markdown
-md = "# 📚 Open Source Islamic Projects (from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/))\n\n# Table of Contents\n\n- [Prayer Times](#prayer-times)\n- [Quran](#quran)\n- [Islamic Calendar](#islamic-calendar)\n- [Hadith](#hadith)\n- [Azkar & Dua](#azkar--dua)\n- [Other](#other)\n\n"
+md = "# 📚 Open Source Islamic Projects\n\nAuto-Categorized, then sorted by ⭐s.\n\nSource: (from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/))\n\n## Table of Contents\n\n- [Prayer Times](#prayer-times)\n- [Quran](#quran)\n- [Islamic Calendar](#islamic-calendar)\n- [Hadith](#hadith)\n- [Azkar & Dua](#azkar--dua)\n- [Other](#other)\n\n"
 for category, langs in tree.items():
     total = sum(len(items) for items in tree[category].values())
     md += f"## {category} ({total} projects)\n"
