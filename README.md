@@ -1,4 +1,9 @@
-# 📚 Open Source Islamic Projects (from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/))
+# 📚 Open Source Islamic Projects 
+
+Auto-Categorized, then sorted by ⭐s.
+
+Source: 
+[Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/)
 
 ## Table of Contents
 
