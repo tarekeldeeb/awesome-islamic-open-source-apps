@@ -14,6 +14,7 @@ Source:
 - [Azkar & Dua](#azkar--dua)
 - [Other](#other)
 
+<a name="quran"></a>
 ## Quran (37 projects)
 ### Python
 🛠️ **[alfanous](https://github.com/Alfanous-team/alfanous)** ⭐ 267 –  Alfanous is an Arabic search engine and open-source software project for the Arabic Language.  👍 Comprehensive Arabic search engine, Open-source software project
@@ -101,6 +102,7 @@ Source:
 ### Ruby
 🛠️ **[quran.com-api](https://github.com/quran/quran.com-api)** ⭐ 1027 –  Quran.com API for accessing Quran data  👍 Provides access to Quranic data, Supports multiple languages
 
+<a name="prayer-times"></a>
 ## Prayer Times (37 projects)
 ### Kotlin
 📱 **[Prayer-Times-Android-Azan](https://github.com/ahmedeltaher/Prayer-Times-Android-Azan)** ⭐ 373 –  An Android application for prayer times and Azan notifications.  👍 Provides accurate prayer times and Azan notifications, Supports multiple cities and calculation methods
@@ -189,6 +191,7 @@ Source:
 ### C
 🌐 **[next-prayer](https://github.com/AbdeltwabMF/next-prayer)** ⭐ 54 –  An application to display the next prayer time for Muslims  👍 Provides accurate prayer time information, Simple and easy to use interface
 
+<a name="other"></a>
 ## Other (9 projects)
 ### Java
 📱 **[MuslimMateAndroid](https://github.com/fekracomputers/MuslimMateAndroid)** ⭐ 32 –  MuslimMateAndroid is an Islamic app that provides daily prayer times, Qibla direction, and Islamic calendar.  👍 Offers daily prayer times and Qibla direction, Provides Islamic calendar
@@ -216,6 +219,7 @@ Source:
 ### Python
 🌐 **[qpc-fonts](https://github.com/nuqayah/qpc-fonts)** ⭐ 99 –  A collection of open-source fonts specifically designed for Quranic purposes  👍 Includes fonts optimized for reading the Quran, Offers a variety of calligraphic styles
 
+<a name="hadith"></a>
 ## Hadith (8 projects)
 ### Unknown
 🌐 **[hadith-api](https://github.com/fawazahmed0/hadith-api)** ⭐ 337 –  A RESTful API for Islamic Hadiths  👍 Provides a collection of authenticated Hadiths, Allows filtering by book and chapter
@@ -239,6 +243,7 @@ Source:
 ### Kotlin
 📱 **[SunnahAssistant](https://github.com/saidmsaid81/SunnahAssistant)** ⭐ 12 –  Sunnah Assistant is a mobile app that helps users follow the teachings of Prophet Muhammad (PBUH)  👍 Provides daily notifications for sunnah actions, Includes references to hadiths
 
+<a name="islamic-calendar"></a>
 ## Islamic Calendar (4 projects)
 ### JavaScript
 🌐 **[Hijri.js](https://github.com/xsoh/Hijri.js)** ⭐ 81 –  JavaScript library for Hijri date conversion  👍 Accurate Hijri date conversion, 🌐 Web deployment
@@ -251,6 +256,7 @@ Source:
 ### Python
 🛠️ **[hijridate](https://github.com/dralshehri/hijridate)** ⭐ 72 –  Hijri Date Converter Library for Dart  👍 Easy conversion between Hijri and Gregorian dates, Supports different calendar systems
 
+<a name="azkar--dua"></a>
 ## Azkar & Dua (2 projects)
 ### JavaScript
 📱 **[hisnmuslim_app](https://github.com/rn0x/hisnmuslim_app)** ⭐ 16 –  Mobile application for Islamic prayers and supplications  👍 Includes a collection of Islamic prayers and supplications, Provides reminders for prayer times
