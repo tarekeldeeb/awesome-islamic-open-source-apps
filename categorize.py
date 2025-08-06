@@ -24,6 +24,7 @@ import threading
 import itertools
 import sys
 import time
+import textwrap
 
 import requests
 from collections import defaultdict
@@ -251,10 +252,9 @@ def do_default():
     )
 
     # Step 6: Write Markdown
-    md = """# 📚 Awesome Islamic Open-source Apps\n\n
-    Auto-Categorized, then sorted by ⭐s.\n\nSource: from 
-    [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) 
-    and other Github lists.\n\n## Table of Contents\n\n"""
+    md = textwrap.dedent("# 📚 Awesome Islamic Open-source Apps\n\nAuto-Categorized, then sorted by ⭐s.\n\n"
+    "Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and other Github lists."
+    "\n\n## Table of Contents")
     for category in tree:
         anchor = category.lower().replace(" ", "-")
         md += f"- [{category}](#{anchor})\n"
