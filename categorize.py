@@ -5,6 +5,10 @@ from openai import OpenAI
 import json
 import os
 import argparse
+import threading
+import itertools
+import sys
+import time
 
 # Fetch secrets from environment
 TOKEN = os.getenv("GITHUB_TOKEN", "")
@@ -18,14 +22,38 @@ CACHE_FILE = "repo_cache.json"
 
 
 CATEGORIES = {
-    "Quran": ["quran", "mushaf"],
-    "Prayer Times": ["adhan", "athan", "prayer", "times", "salat", "namaz", "salah", "qibla"],
-    "Hadith": ["hadith", "sunnah"],
-    "Azkar & Dua": ["azkar", "adhkar", "dua", "hisn"],
-    "Islamic Calendar": ["hijri", "calendar"],
-    "Library": ["library", "developers", "api"],
-    "Other": []
+    "Quranic Text and Reading": ['quran', 'qurani', 'verses', 'mushaf', 'surah'],
+    "Hadith Collection and Study": ['hadith', 'sunnah', 'narration', 'sayings', 'prophet'],
+    "Prayer Times Calculation and Display": ['prayer', 'salat', 'mussalla', 'mosque', 'azan'],
+    "Islamic Events and Reminders": ['reminder', 'event', 'ramadan', 'eid', 'hijri'],
+    "Quranic Learning and Study Tools": ['learn', 'study', 'recite', 'tafsir', 'translation'],
+    "Islamic Resources and Community": ['community', 'muslim', 'resource', 'hub', 'open'],
+    "Hadith Search and API": ['api', 'search', 'repository', 'collect', 'retrieve'],
+    "Qibla Direction and Finder": ['qibla', 'direction', 'compass', 'finder', 'kaaba'],
+    "Dua Collection and Reminders": ['dua', 'supplication', 'adhkar', 'remembrance', 'azkar'],
+    "Other": ['other', 'misc', 'general', 'various', 'assorted']
 }
+
+class Spinner:
+    def __init__(self, message="Loading..."):
+        self.spinner = itertools.cycle(['|', '/', '-', '\\'])
+        self.stop_running = False
+        self.message = message
+
+    def start(self):
+        def run():
+            while not self.stop_running:
+                sys.stdout.write(f"\r{self.message} {next(self.spinner)}")
+                sys.stdout.flush()
+                time.sleep(0.1)
+            sys.stdout.write('\r' + ' ' * (len(self.message) + 2) + '\r')  # Clear line
+
+        self.thread = threading.Thread(target=run)
+        self.thread.start()
+
+    def stop(self):
+        self.stop_running = True
+        self.thread.join()
 
 def get_project_info(url):
     functions = [
@@ -137,7 +165,9 @@ def do_default():
         print(f"🔍 [{i}/{len(links)}] Fetching {link}")
         if link in cache:
             print("   ⚡ Using cached version")
-            projects.append(cache[link])
+            d = cache[link]
+            d["category"]: classify_category(d["name"], d["description"])
+            projects.append(d)
         else:
             info = fetch_repo(link)
             if info:
@@ -152,17 +182,24 @@ def do_default():
         for lang in tree[cat]:
             tree[cat][lang].sort(key=lambda x: x["stars"], reverse=True)
         tree[cat] = dict(sorted(tree[cat].items(), key=lambda item: len(item[1]), reverse=True))
-    tree = dict(sorted(tree.items(), key=lambda item: sum(len(lst) for lst in item[1].values()), reverse=True))
-
+    tree = dict(
+        sorted(
+            tree.items(),
+            key=lambda item: (
+                float('inf') if item[0].lower() == "other" else -sum(len(lst) for lst in item[1].values())
+            )
+        )
+    )
+    
     # Step 6: Write Markdown
-    md = "# 📚 Open Source Islamic Projects\n\nAuto-Categorized, then sorted by ⭐s.\n\nSource: (from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/))\n\n## Table of Contents\n\n"
+    md = "# 📚 Open Source Islamic Projects\n\nAuto-Categorized, then sorted by ⭐s.\n\nSource: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and other Github lists.\n\n## Table of Contents\n\n"
     for category in tree:
         anchor = category.lower().replace(" ", "-")
         md += f"- [{category}](#{anchor})\n"
     md += "\n"
     for category, langs in tree.items():
         total = sum(len(items) for items in langs.values())
-        md += f"## {category} ({total} projects)\n"
+        md += f"<a name='{category.lower().replace(" ", "-")}'></a>\n## {category} ({total} projects)\n"
         for lang, repos in langs.items():
             md += f"### {lang}\n"
             for r in repos:
@@ -186,33 +223,53 @@ def propose_categories_from_cache():
     with open(CACHE_FILE, "r", encoding="utf-8") as f:
         cached = json.load(f)
 
-    # Format: name: description
-    items = [
-        f"- {v['name']}: {v.get('description', '')}" for v in cached.values()
-    ]
-    joined = "\n".join(items[:1000])  # Limit to 100? for token size
+    spinner = Spinner("🧠 Categorizing projects with GPT...")
+    spinner.start()
+    
+    try:
+        # Format: name: description
+        items = [
+            f"- {v['name']}: {v.get('description', '')}" for v in cached.values()
+        ]
+        joined = "\n".join(items[:300])  # Limit to 100? for token size
 
-    client = OpenAI(api_key=OPENAI_KEY)
-    messages = [
-        {
-            "role": "system",
-            "content": "You are an expert taxonomist and product categorizer for open source Islamic software projects.",
-        },
-        {
-            "role": "user",
-            "content": f"""The following is a list of Islamic open source projects with their names and descriptions. Group them into exactly 9 smart and intuitive categories (plus an 'Other' bucket). Each category should include a short title and a few example apps from the list. Be smart — use purpose, audience, or deployment as hints.\n\n{joined}""",
-        },
-    ]
+        client = OpenAI(api_key=OPENAI_KEY)
+        messages = [
+            {
+                "role": "system",
+                "content": (
+                    "You are an expert product categorizer for open-source Islamic software. "
+                    "Your task is to output two sections:\n\n"
+                    "1. A concise list of **exactly 10 categories** (9 + 'Other'), each with a name and 3–5 example project names from the list below.\n\n"
+                    "2. A valid Python dictionary named `CATEGORIES = { ... }` where:\n"
+                    "   - Each key is one of the category names.\n"
+                    "   - Each value is a list of **unique keywords** for classification (e.g., ['quran', 'mushaf']).\n"
+                    "   - **No keyword may appear in more than one category.** All keywords must be lowercase.\n"
+                    "   - Keywords should be generalizable triggers found in project names or descriptions.\n\n"
+                    "⚠️ Do not reuse the same keyword in more than one category. The dictionary will be used for strict matching."
+                )
+            },
+            {
+                "role": "user",
+                "content": (
+                    f"The following is a list of Islamic open source projects with their names and descriptions:\n\n{joined}\n\n"
+                    "Please propose categories and generate the CATEGORIES dictionary as described above."
+                )
+            },
+        ]
 
-    response = client.chat.completions.create(
-        model="gpt-4",
-        messages=messages
-    )
+        response = client.chat.completions.create(
+            model="gpt-4",
+            messages=messages
+        )
+    finally:
+        spinner.stop()
+
     print("🧠 Proposed Categories:\n")
     print(response.choices[0].message.content)
     
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Awesome Islamic Open-source Apps -- Fetch and Catogorizer")
+    parser = argparse.ArgumentParser(description="Awesome Islamic Open-source Apps -- Fetch and Catogorize")
     parser.add_argument("--propose-categories", action="store_true", help="Analyze cache and propose 9 categories + Other")
 
     args = parser.parse_args()
