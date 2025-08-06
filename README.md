@@ -55,11 +55,11 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 
 🖥️ **[Quran-Hadith-Poster](https://github.com/XredaX/Quran-Hadith-Poster)** ⭐ 3 – A project that generates posters with verses from the Quran and Hadiths.  👍 Allows users to create customized posters with selected verses. Supports both English and Arabic languages.
 
-🌐 **[quran-frontend](https://github.com/devforislam/quran-frontend)** ⭐ 1 – A frontend application for reading the Quran  👍 Provides Arabic text of the Quran with translation, Allows users to search and navigate Quranic verses
-
 📱 **[Quran-Companion](https://github.com/luffyxgoku/Quran-Companion)** ⭐ 1 – Quran Companion is a mobile app for Muslims to enhance their Quran study experience.  👍 Provides audio recitations and translations, Offers daily reminders for Quran reading
 
 🖥️ **[Ngadji-Aplikasi-Baca-Al-Quran](https://github.com/volumeee/Ngadji-Aplikasi-Baca-Al-Quran)** ⭐ 1 – An application for reading the Quran  👍 Provides a user-friendly interface, Offers features for reading the Quran with translations
+
+🌐 **[quran-frontend](https://github.com/devforislam/quran-frontend)** ⭐ 1 – A frontend application for reading the Quran  👍 Provides Arabic text of the Quran with translation, Allows users to search and navigate Quranic verses
 
 🌐 **[Hefzmoyaser-the-Holy-Quran](https://github.com/alaaamer99/Hefzmoyaser-the-Holy-Quran)** ⭐ 0 – Hefzmoyaser-the-Holy-Quran  👍 Provides a digital version of the Holy Quran with various features for better accessibility and learning experience, Offers translations and recitations in multiple languages
 
@@ -86,17 +86,17 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 
 🌐 **[alquran-dart](https://github.com/ariefsn/alquran-dart)** ⭐ 2 – Dart API for Al-Qur'an  👍 Provides an API to interact with Al-Qur'an data, Supports both Indonesian and English translation
 
-🌐 **[Quran-Mp3](https://github.com/zaihcodes/Quran-Mp3)** ⭐ 1 – Quran Mp3 is a project that provides audio recitations of the Quran.  👍 Provides audio recitations of the Quran, Easy navigation features
-
 🌐 **[adhkar](https://github.com/Ibnyahyah/adhkar)** ⭐ 1 – A collection of morning and evening dhikr (remembrance) from the Quran and Sunnah  👍 Contains authentic supplications from the Quran and Sunnah 👍 User-friendly interface for easy access
 
 📱 **[al_muslim](https://github.com/sayedyounis00/al_muslim)** ⭐ 1 – Al-Muslim is an Islamic Flutter app that helps Muslims to read Quran, listen to Azan, and find Qibla direction.  👍 Offers Quran reading and Azan listening features, Helps find Qibla direction
 
+🌐 **[Quran-Mp3](https://github.com/zaihcodes/Quran-Mp3)** ⭐ 1 – Quran Mp3 is a project that provides audio recitations of the Quran.  👍 Provides audio recitations of the Quran, Easy navigation features
+
+📱 **[hidayah](https://github.com/A7medabdelaty/hidayah)** ⭐ 0 – Hidayah is a Quran mobile application with features to facilitate reading and understanding the Quran.  👍 User-friendly interface, Translation feature
+
 📱 **[simple_quran_app](https://github.com/zaihcodes/simple_quran_app)** ⭐ 0 – A simple Quran app for reading and listening to the Quran.  👍 Provides both reading and listening functionalities, User-friendly interface
 
 📱 **[quran-app](https://github.com/ahsxndev/quran-app)** ⭐ 0 – A Quran application for Android devices  👍 Provides translation in multiple languages, Offers audio recitations
-
-📱 **[hidayah](https://github.com/A7medabdelaty/hidayah)** ⭐ 0 – Hidayah is a Quran mobile application with features to facilitate reading and understanding the Quran.  👍 User-friendly interface, Translation feature
 
 ### Python
 🌐 **[alfanous](https://github.com/Alfanous-team/alfanous)** ⭐ 267 – Alfanous is a search engine that uses natural language processing techniques to search the Quran and provide results, developed by Alfanous-team.  👍 Provides advanced search capabilities using natural language processing. 👍 Supports searching and retrieving information from the Quran.
@@ -113,9 +113,9 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 
 🌐 **[quranbot](https://github.com/HazemMeqdad/quranbot)** ⭐ 9 – Quranbot is a Telegram bot that simplifies access to the Quran.  👍 Provides quick access to Quranic verses, Supports multiple languages
 
-🌐 **[quran-bot](https://github.com/ibnaleem/quran-bot)** ⭐ 3 – A Quran bot for Telegram that provides verses, translations, and tafsir  👍 Provides Quran verses, translations, and tafsir on Telegram 👍 Uses data from the Quran API
-
 🛠️ **[quran.py](https://github.com/ibnaleem/quran.py)** ⭐ 3 – Quran.py is a Python package to access and analyze the Quranic text.  👍 Provides access to Quranic text data, Supports text analysis
+
+🌐 **[quran-bot](https://github.com/ibnaleem/quran-bot)** ⭐ 3 – A Quran bot for Telegram that provides verses, translations, and tafsir  👍 Provides Quran verses, translations, and tafsir on Telegram 👍 Uses data from the Quran API
 
 🛠️ **[Styings-Quran-Bot](https://github.com/StyingDev/Styings-Quran-Bot)** ⭐ 1 – A Quran bot for Telegram and Discord  👍 Provides daily Quran verses and translations, Supports multiple languages
 
@@ -146,9 +146,9 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 
 🖥️ **[iqra](https://github.com/binsarjr/iqra)** ⭐ 1 – An open-source Quran reader application  👍 Provides easy access to the Quranic text, Allows users to bookmark and save favorite verses
 
-🌐 **[random-quran-verse](https://github.com/awhumayun/random-quran-verse)** ⭐ 0 – Generate random Quran verses  👍 Provides random verses from the Quran, Supports multiple translations
-
 📱 **[Al-Deen](https://github.com/yeasin2002/Al-Deen)** ⭐ 0 – Al-Deen is a comprehensive and user-friendly Islamic educational app for learning the Quran and Sunnah.  👍 Offers extensive Quranic and Sunnah content, User-friendly interface
+
+🌐 **[random-quran-verse](https://github.com/awhumayun/random-quran-verse)** ⭐ 0 – Generate random Quran verses  👍 Provides random verses from the Quran, Supports multiple translations
 
 📱 **[MySurah-Ionic-App](https://github.com/aimaniskndar/MySurah-Ionic-App)** ⭐ 0 – MySurah is an Ionic app for reading and listening to Surahs from the Quran  👍 Features beautiful UI design, includes audio recitations
 
@@ -173,18 +173,18 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 
 🛠️ **[quran.com-docker](https://github.com/islamic-works/quran.com-docker)** ⭐ 1 – Docker images for Quran.com  👍 Easy deployment with Docker, Customizable configurations
 
-🌐 **[Quran-for-sleep-helper](https://github.com/Dkdj77/Quran-for-sleep-helper)** ⭐ 0 – Quran for sleep helper project on GitHub  👍 Helps users fall asleep peacefully with Quran recitations, Offers a variety of soothing Quran audio tracks
-
 🌐 **[quran-api](https://github.com/AchmadEko003/quran-api)** ⭐ 0 – A RESTful API for the Quran with multiple translations and recitations.  👍 Provides multiple translations and recitations of the Quran, RESTful API architecture
+
+🌐 **[Quran-for-sleep-helper](https://github.com/Dkdj77/Quran-for-sleep-helper)** ⭐ 0 – Quran for sleep helper project on GitHub  👍 Helps users fall asleep peacefully with Quran recitations, Offers a variety of soothing Quran audio tracks
 
 ### HTML
 🌐 **[quran](https://github.com/fawazahmed0/quran)** ⭐ 17 – A tool for reading the Quran with features like translations, tafseer, and search functionalities  👍 Provides translations and tafseer, Allows searching for verses
 
 🌐 **[Quranipfs](https://github.com/adelpro/Quranipfs)** ⭐ 15 – QuranIPFS is a decentralized application that allows users to read and listen to the Quran using IPFS technology.  👍 Decentralized application using IPFS technology, Allows users to read and listen to the Quran
 
-🌐 **[QuranicVisualization](https://github.com/ymorsi7/QuranicVisualization)** ⭐ 1 – Quranic Visualization is a web application to visualize the Holy Quranic texts enhancing the user's understanding.  👍 Quranic text visualization, Interactive user experience
-
 🌐 **[qurantab-landing-page](https://github.com/Dev-Nawaf/qurantab-landing-page)** ⭐ 1 – QuranTab Landing Page Repository  👍 Responsive design, Interactive Content
+
+🌐 **[QuranicVisualization](https://github.com/ymorsi7/QuranicVisualization)** ⭐ 1 – Quranic Visualization is a web application to visualize the Holy Quranic texts enhancing the user's understanding.  👍 Quranic text visualization, Interactive user experience
 
 🌐 **[Quran-Tab-landing-page](https://github.com/KhaledKhoderDev/Quran-Tab-landing-page)** ⭐ 1 – A landing page for Quran Tab with interactive features  👍 Interactive Quran display, Responsive design
 
@@ -229,11 +229,6 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 
 🌐 **[al_auran_al_karim](https://github.com/zaihcodes/al_auran_al_karim)** ⭐ 0 – Al-Auran Al-Karim is a collection of Quranic verses and their translations in multiple languages  👍 Contains Quranic verses and translations in multiple languages, Easy to access and search for specific verses
 
-### Ruby
-🌐 **[quran.com-api](https://github.com/quran/quran.com-api)** ⭐ 1028 – Quran.com API for accessing Quran text and translations  👍 Provides access to Quran text and translations, Easy to integrate into applications
-
-🌐 **[quran.com-frontend-v2](https://github.com/quran/quran.com-frontend-v2)** ⭐ 470 – Quran.com frontend v2 is a website for reading and studying the Quran online.  👍 Provides a user-friendly interface for reading and studying the Quran, Offers a variety of features such as translations, recitations, and annotations
-
 ### Swift
 📱 **[quran-ios](https://github.com/quran/quran-ios)** ⭐ 505 – The Quran for iOS app allows users to read and listen to the Quran on their iOS devices.  👍 Offers a user-friendly interface for reading and listening to the Quran, Provides translations in multiple languages
 
@@ -244,20 +239,62 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 
 🌐 **[E-Quran](https://github.com/AzaanUllah-Khan/E-Quran)** ⭐ 0 – E-Quran is an online platform for reading the Quran with translations and tafseer.  👍 Provides translations and tafseer of the Quran, User-friendly interface
 
+### Ruby
+🌐 **[quran.com-api](https://github.com/quran/quran.com-api)** ⭐ 1028 – Quran.com API for accessing Quran text and translations  👍 Provides access to Quran text and translations, Easy to integrate into applications
+
+🌐 **[quran.com-frontend-v2](https://github.com/quran/quran.com-frontend-v2)** ⭐ 470 – Quran.com frontend v2 is a website for reading and studying the Quran online.  👍 Provides a user-friendly interface for reading and studying the Quran, Offers a variety of features such as translations, recitations, and annotations
+
+### Perl
+🌐 **[quran.com-images](https://github.com/quran/quran.com-images)** ⭐ 448 – Images for Quran.com  👍 High-quality images of Quran pages, 🌐 Web deployment
+
 ### Vue
 🌐 **[Qurani-Web-App](https://github.com/RedaAwwad/Qurani-Web-App)** ⭐ 1 – Qurani is a web application that allows users to read and listen to the Quran with translation and tafsir.  👍 Provides the ability to read and listen to the Quran with translation and tafsir, User-friendly interface for easy navigation
 
 ### PHP
 🌐 **[QuranSafahat](https://github.com/osamz/QuranSafahat)** ⭐ 2 – A Quran reading web app with translation and tafsir.  👍 Features translation and tafsir
 
-### Perl
-🌐 **[quran.com-images](https://github.com/quran/quran.com-images)** ⭐ 448 – Images for Quran.com  👍 High-quality images of Quran pages, 🌐 Web deployment
-
 <a name='prayer-times-calculation-and-display'></a>
-## Prayer Times Calculation and Display (103 projects)
-### TypeScript
-🌐 **[al-azan](https://github.com/meypod/al-azan)** ⭐ 216 – A library for getting Islamic prayer times based on location using Go  👍 Easy to use API for getting prayer times 👍 Supports multiple calculation methods
+## Prayer Times Calculation and Display (101 projects)
+### JavaScript
+🌐 **[Muezzin](https://github.com/DBChoco/Muezzin)** ⭐ 156 – A web application to calculate prayer times based on the Islamic Institute of Hamburg  👍 Provides accurate prayer times calculation, Offers customization for different locations
 
+🛠️ **[prayer-time](https://github.com/NazmusSayad/prayer-time)** ⭐ 19 – A simple Python library to get prayer times for any location  👍 Easy to use and lightweight, Supports multiple calculation methods
+
+📱 **[hisnmuslim_app](https://github.com/rn0x/hisnmuslim_app)** ⭐ 16 – Islamic prayer times app with qibla compass  👍 Accurate prayer times calculation, Qibla compass feature
+
+🌐 **[Openadhan](https://github.com/adelpro/Openadhan)** ⭐ 8 – Open-source prayer times and adhan application  👍 Open-source, Customizable prayer times
+
+🌐 **[prayer-time](https://github.com/OpenIslamicApp/prayer-time)** ⭐ 5 – A web application for getting prayer times based on location  👍 Provides accurate prayer times based on location, 🌐 Web deployment
+
+🌐 **[IslamicBot](https://github.com/rn0x/IslamicBot)** ⭐ 5 – A Twitter bot that notifies users of prayer timings and Islamic events  👍 Real-time notifications, prayer timings
+
+🌐 **[next-salat](https://github.com/ayoubsousali/next-salat)** ⭐ 4 – A Next.js app with MongoDB and TypeScript for managing recipes  👍 Integrates Next.js, MongoDB, and TypeScript, Provides recipe management functionality
+
+📱 **[salati](https://github.com/slimaneakalie/salati)** ⭐ 3 – Salati is a prayer times app for Muslims  👍 Provides accurate prayer times, Offers notifications for prayer times
+
+📱 **[AthanApp](https://github.com/HamzaAlsarakbi/AthanApp)** ⭐ 2 – Athan app to remind Muslims of prayer times  👍 Quran audio player, Prayer times notification
+
+🌐 **[namaz-vakti-site](https://github.com/sanalzio/namaz-vakti-site)** ⭐ 2 – A website for displaying prayer times  👍 Provides prayer times information 👍 Allows users to search for prayer times by location
+
+🖥️ **[prayer-times-mosque-finder](https://github.com/jadmadi/prayer-times-mosque-finder)** ⭐ 1 – Prayer Times and Mosque Finder  👍 Provides accurate prayer times and helps find nearby mosques
+
+🌐 **[prayer-pattern-generator](https://github.com/bean-mhm/prayer-pattern-generator)** ⭐ 1 – Prayer pattern generator for Muslims  👍 Customizable pattern generation, Easy to use interface
+
+🌐 **[PrayersTime](https://github.com/abdallahsekrafi/PrayersTime)** ⭐ 0 – PrayersTime is an open-source project for managing and displaying prayer times.  👍 Provides accurate prayer times calculation, Supports multiple locations
+
+🛠️ **[prayer-times-api](https://github.com/ADIMYY/prayer-times-api)** ⭐ 0 – A Node.js API to get prayer times based on geographical coordinates  👍 Provides accurate prayer times 👍 Supports various calculation methods
+
+🌐 **[find-imam-taraweeh](https://github.com/Faopaw/find-imam-taraweeh)** ⭐ 0 – Find Imam Taraweeh is a web application for locating nearby mosques and their Taraweeh prayer times during Ramadan.  👍 Helps users find nearby mosques for Taraweeh prayer times, Provides information on Taraweeh prayer times during Ramadan
+
+🛠️ **[scacred_texts](https://github.com/Mosque-ICU/scacred_texts)** ⭐ 0 – Mosque-ICU/scacred_texts  👍 Islamic Texts Repository, Search and Navigation
+
+📱 **[My-Prayer](https://github.com/mahmouddwidar/My-Prayer)** ⭐ 0 – My Prayer is a simple Android application to remind Muslims of their daily prayers.  👍 Easy to use interface, Prayer time reminder feature
+
+🌐 **[PrayerTimes](https://github.com/CodeWithAlamin/PrayerTimes)** ⭐ 0 – Prayer Times App using Vue3 Composition API, Vuex4, Vite2, Tailwind CSS  👍 Vue3 Composition API, Vuex4
+
+📱 **[salatime](https://github.com/hamididv/salatime)** ⭐ 0 – A simple prayer times app for Ubuntu Touch and Android  👍 Displays prayer times based on location 👍 Supports Ubuntu Touch and Android
+
+### TypeScript
 🛠️ **[al-azan](https://github.com/meypod/al-azan)** ⭐ 216 – Al-Azan is an Islamic prayer times library for Python  👍 Accurate calculation of prayer times based on geographical location 👍 Easy to integrate and use in Python projects
 
 🌐 **[namaz-vakti-api](https://github.com/canbax/namaz-vakti-api)** ⭐ 74 – Namaz Vakti API for getting Turkish prayer times  👍 Open source, Provides accurate prayer times
@@ -278,60 +315,21 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 
 🖥️ **[prayer-times](https://github.com/AmrSaber/prayer-times)** ⭐ 3 – Prayer times app that calculates Muslim prayer times and qibla direction.  👍 Calculates accurate prayer times, Provides qibla direction
 
-🌐 **[masjid-info](https://github.com/aryadipanegara/masjid-info)** ⭐ 2 – A web application to provide information about mosques  👍 Real-time mosque information update, Accurate prayer times calculation
-
-📱 **[tahajud-prayer-app](https://github.com/heynzar/tahajud-prayer-app)** ⭐ 2 – A Tahajud prayer app to help Muslims track and perform the Tahajud prayer  👍 Tracks Tahajud prayer progress, Provides prayer time reminders
+🛠️ **[zero-deps-prayer-times](https://github.com/alwalxed/zero-deps-prayer-times)** ⭐ 2 – A simple prayer times calculation library with zero dependencies  👍 Lightweight and easy to use, No external dependencies required
 
 🛠️ **[salat-an-nabi-vscode](https://github.com/mahmoodhamdi/salat-an-nabi-vscode)** ⭐ 2 – Salat an-Nabi extension for Visual Studio Code  👍 Provides a convenient way to track daily prayers and share prayers with friends, Offers a variety of Islamic reminders and resources
 
-🛠️ **[zero-deps-prayer-times](https://github.com/alwalxed/zero-deps-prayer-times)** ⭐ 2 – A simple prayer times calculation library with zero dependencies  👍 Lightweight and easy to use, No external dependencies required
+📱 **[tahajud-prayer-app](https://github.com/heynzar/tahajud-prayer-app)** ⭐ 2 – A Tahajud prayer app to help Muslims track and perform the Tahajud prayer  👍 Tracks Tahajud prayer progress, Provides prayer time reminders
 
-🛠️ **[mussala-module](https://github.com/islamic-works/mussala-module)** ⭐ 1 – A module for calculating prayer times and direction based on the user's location and the current date in Islam  👍 Provides accurate prayer times calculation based on location and date, Supports multiple calculation methods for different schools of thought
-
-🛠️ **[praye.js](https://github.com/Mesteery/praye.js)** ⭐ 1 – A JavaScript library for handling prayers  👍 Real-time prayer management, Easy-to-use API
+🌐 **[masjid-info](https://github.com/aryadipanegara/masjid-info)** ⭐ 2 – A web application to provide information about mosques  👍 Real-time mosque information update, Accurate prayer times calculation
 
 🛠️ **[salattrails](https://github.com/usmanisofficial/salattrails)** ⭐ 1 – A tool for creating and managing textual adventures  👍 Open-source, easy to use
 
+🛠️ **[praye.js](https://github.com/Mesteery/praye.js)** ⭐ 1 – A JavaScript library for handling prayers  👍 Real-time prayer management, Easy-to-use API
+
+🛠️ **[mussala-module](https://github.com/islamic-works/mussala-module)** ⭐ 1 – A module for calculating prayer times and direction based on the user's location and the current date in Islam  👍 Provides accurate prayer times calculation based on location and date, Supports multiple calculation methods for different schools of thought
+
 🌐 **[Dua](https://github.com/aumirza/Dua)** ⭐ 0 – Dua is a web application to help users find Islamic prayers.  👍 Provides a database of Islamic prayers, Allows users to search and filter prayers
-
-### JavaScript
-🌐 **[Muezzin](https://github.com/DBChoco/Muezzin)** ⭐ 156 – A web application to calculate prayer times based on the Islamic Institute of Hamburg  👍 Provides accurate prayer times calculation, Offers customization for different locations
-
-🛠️ **[prayer-time](https://github.com/NazmusSayad/prayer-time)** ⭐ 19 – A simple Python library to get prayer times for any location  👍 Easy to use and lightweight, Supports multiple calculation methods
-
-📱 **[hisnmuslim_app](https://github.com/rn0x/hisnmuslim_app)** ⭐ 16 – Islamic prayer times app with qibla compass  👍 Accurate prayer times calculation, Qibla compass feature
-
-🌐 **[Openadhan](https://github.com/adelpro/Openadhan)** ⭐ 8 – Open-source prayer times and adhan application  👍 Open-source, Customizable prayer times
-
-🌐 **[IslamicBot](https://github.com/rn0x/IslamicBot)** ⭐ 5 – A Twitter bot that notifies users of prayer timings and Islamic events  👍 Real-time notifications, prayer timings
-
-🌐 **[prayer-time](https://github.com/OpenIslamicApp/prayer-time)** ⭐ 5 – A web application for getting prayer times based on location  👍 Provides accurate prayer times based on location, 🌐 Web deployment
-
-🌐 **[next-salat](https://github.com/ayoubsousali/next-salat)** ⭐ 4 – A Next.js app with MongoDB and TypeScript for managing recipes  👍 Integrates Next.js, MongoDB, and TypeScript, Provides recipe management functionality
-
-📱 **[salati](https://github.com/slimaneakalie/salati)** ⭐ 3 – Salati is a prayer times app for Muslims  👍 Provides accurate prayer times, Offers notifications for prayer times
-
-🌐 **[namaz-vakti-site](https://github.com/sanalzio/namaz-vakti-site)** ⭐ 2 – A website for displaying prayer times  👍 Provides prayer times information 👍 Allows users to search for prayer times by location
-
-📱 **[AthanApp](https://github.com/HamzaAlsarakbi/AthanApp)** ⭐ 2 – Athan app to remind Muslims of prayer times  👍 Quran audio player, Prayer times notification
-
-🖥️ **[prayer-times-mosque-finder](https://github.com/jadmadi/prayer-times-mosque-finder)** ⭐ 1 – Prayer Times and Mosque Finder  👍 Provides accurate prayer times and helps find nearby mosques
-
-🌐 **[prayer-pattern-generator](https://github.com/bean-mhm/prayer-pattern-generator)** ⭐ 1 – Prayer pattern generator for Muslims  👍 Customizable pattern generation, Easy to use interface
-
-📱 **[salatime](https://github.com/hamididv/salatime)** ⭐ 0 – A simple prayer times app for Ubuntu Touch and Android  👍 Displays prayer times based on location 👍 Supports Ubuntu Touch and Android
-
-📱 **[My-Prayer](https://github.com/mahmouddwidar/My-Prayer)** ⭐ 0 – My Prayer is a simple Android application to remind Muslims of their daily prayers.  👍 Easy to use interface, Prayer time reminder feature
-
-🌐 **[PrayerTimes](https://github.com/CodeWithAlamin/PrayerTimes)** ⭐ 0 – Prayer Times App using Vue3 Composition API, Vuex4, Vite2, Tailwind CSS  👍 Vue3 Composition API, Vuex4
-
-🌐 **[find-imam-taraweeh](https://github.com/Faopaw/find-imam-taraweeh)** ⭐ 0 – Find Imam Taraweeh is a web application for locating nearby mosques and their Taraweeh prayer times during Ramadan.  👍 Helps users find nearby mosques for Taraweeh prayer times, Provides information on Taraweeh prayer times during Ramadan
-
-🛠️ **[scacred_texts](https://github.com/Mosque-ICU/scacred_texts)** ⭐ 0 – Mosque-ICU/scacred_texts  👍 Islamic Texts Repository, Search and Navigation
-
-🛠️ **[prayer-times-api](https://github.com/ADIMYY/prayer-times-api)** ⭐ 0 – A Node.js API to get prayer times based on geographical coordinates  👍 Provides accurate prayer times 👍 Supports various calculation methods
-
-🌐 **[PrayersTime](https://github.com/abdallahsekrafi/PrayersTime)** ⭐ 0 – PrayersTime is an open-source project for managing and displaying prayer times.  👍 Provides accurate prayer times calculation, Supports multiple locations
 
 ### Kotlin
 📱 **[Prayer-Times-Android-Azan](https://github.com/ahmedeltaher/Prayer-Times-Android-Azan)** ⭐ 373 – Prayer Times Android App for Muslims  👍 Calculates prayer times accurately, Supports multiple calculation methods
@@ -367,41 +365,28 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 
 🌐 **[Salah-Prayer-Times-3](https://github.com/AmanaEstates/Salah-Prayer-Times-3)** ⭐ 17 – A web application for displaying prayer times  👍 Provides accurate prayer times based on location data, Can calculate prayer times for any city worldwide
 
-🌐 **[Salah-Prayer-Times-1](https://github.com/AmanaEstates/Salah-Prayer-Times-1)** ⭐ 1 – AmanaEstates/Salah-Prayer-Times-1  👍 Tracks Salah prayer times, 🌐 Web deployment
-
 🖥️ **[imsakia](https://github.com/prayertimesinfo/imsakia)** ⭐ 1 – Islamic prayer times in various countries, with a global API for developers  👍 Provides Islamic prayer times for various countries, Global API for developers
 
-🖥️ **[PrayerTimeDisplay](https://github.com/esaeed1/PrayerTimeDisplay)** ⭐ 0 – Python script to display prayer times on an e-ink display using Raspberry Pi  👍 Raspberry Pi compatible, E-ink display support
+🌐 **[Salah-Prayer-Times-1](https://github.com/AmanaEstates/Salah-Prayer-Times-1)** ⭐ 1 – AmanaEstates/Salah-Prayer-Times-1  👍 Tracks Salah prayer times, 🌐 Web deployment
 
 📱 **[Salah-Prayer-Times-2](https://github.com/AmanaEstates/Salah-Prayer-Times-2)** ⭐ 0 – A prayer times app for Muslims  👍 Provides accurate prayer times, Allows customization of location and calculation method
+
+🖥️ **[PrayerTimeDisplay](https://github.com/esaeed1/PrayerTimeDisplay)** ⭐ 0 – Python script to display prayer times on an e-ink display using Raspberry Pi  👍 Raspberry Pi compatible, E-ink display support
 
 ### Java
 🖥️ **[PrayerTimes](https://github.com/HouariZegai/PrayerTimes)** ⭐ 181 – Prayer Times app for Muslims  👍 Provides prayer times based on location, Allows customization of calculation methods
 
 📱 **[jago-sholat](https://github.com/amirisback/jago-sholat)** ⭐ 20 – Jago Sholat is a Flutter application to help Muslims perform their daily prayers.  👍 Provides prayer times and notifications, Offers qibla direction finder
 
-🖥️ **[PrayerTimes-JavaFx](https://github.com/yassindaboussi/PrayerTimes-JavaFx)** ⭐ 5 – Prayer Times application with JavaFx  👍 Islamic prayer times calculation, 🌐 Desktop deployment
-
 🛠️ **[NamazTimings](https://github.com/salman660/NamazTimings)** ⭐ 5 – A Python library for accessing Muslim prayer times  👍 Provides accurate prayer timings based on location data, Supports calculation for multiple methods and time adjustments
+
+🖥️ **[PrayerTimes-JavaFx](https://github.com/yassindaboussi/PrayerTimes-JavaFx)** ⭐ 5 – Prayer Times application with JavaFx  👍 Islamic prayer times calculation, 🌐 Desktop deployment
 
 🖥️ **[Tahajjud-Calculator-1.1](https://github.com/AlkaffAhamed/Tahajjud-Calculator-1.1)** ⭐ 3 – A Tahajjud Prayer Time Calculator  👍 Includes calculation for recommended Tahajjud prayer timings, Allows users to enter custom prayer time offsets
 
 📱 **[PrayerTime_Library](https://github.com/SultanAyubi360/PrayerTime_Library)** ⭐ 1 – PrayerTime Library for Android applications  👍 Accurate prayer timings calculation, Easy integration with Android applications
 
 🌐 **[Sujood](https://github.com/RaneemLoay/Sujood)** ⭐ 0 – A web application that allows users to find directions to the nearest mosque for prayer  👍 Implements geolocation to find nearest mosque 👍 Provides step-by-step directions for navigation
-
-### Python
-🌐 **[api](https://github.com/sunnah-com/api)** ⭐ 380 – Open-source API for Islamic prayer times and Qibla direction  👍 Provides accurate prayer times and Qibla direction 👍 Supports various methods to calculate prayer times
-
-🛠️ **[adhanpy](https://github.com/alphahm/adhanpy)** ⭐ 29 – Python implementation of Islamic prayer times library  👍 Calculation of accurate prayer times based on location and date, Support for various calculation methods
-
-🛠️ **[albayan](https://github.com/tecwindow/albayan)** ⭐ 8 – Albayan is a library for generating accurate and highly customizable Islamic prayer times in multiple languages and calculation methods.  👍 Accurate and customizable Islamic prayer times generation, Multi-language and calculation method support
-
-🛠️ **[PrayerTimeNotifier](https://github.com/PoloMalone/PrayerTimeNotifier)** ⭐ 2 – PrayerTimeNotifier is a tool to notify users about prayer times  👍 Provides notifications for prayer times, Supports multiple locations for prayer times
-
-🛠️ **[prayer_times](https://github.com/RastalDev/prayer_times)** ⭐ 2 – A Python library for calculating prayer times based on multiple algorithms  👍 Support for multiple calculation algorithms, Easy to use API
-
-🌐 **[prayer_times_integration](https://github.com/BigSlick76/prayer_times_integration)** ⭐ 0 – A project for integrating prayer times into an application  👍 Provides accurate prayer times data, Easy integration into applications
 
 ### HTML
 🌐 **[PrayerTime](https://github.com/AwusA/PrayerTime)** ⭐ 4 – PrayerTime is a simple Islamic prayer time calculator  👍 Accurate prayer time calculations, 🌐 Web deployment
@@ -416,27 +401,29 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 
 🖥️ **[Namaz](https://github.com/Ikhlasulov/Namaz)** ⭐ 0 – Islamic prayer times in Uzbekistan  👍 Provides accurate prayer times for Uzbekistan 👍 Displays prayer times for five daily prayers
 
+### Python
+🌐 **[api](https://github.com/sunnah-com/api)** ⭐ 380 – Open-source API for Islamic prayer times and Qibla direction  👍 Provides accurate prayer times and Qibla direction 👍 Supports various methods to calculate prayer times
+
+🛠️ **[adhanpy](https://github.com/alphahm/adhanpy)** ⭐ 29 – Python implementation of Islamic prayer times library  👍 Calculation of accurate prayer times based on location and date, Support for various calculation methods
+
+🛠️ **[albayan](https://github.com/tecwindow/albayan)** ⭐ 8 – Albayan is a library for generating accurate and highly customizable Islamic prayer times in multiple languages and calculation methods.  👍 Accurate and customizable Islamic prayer times generation, Multi-language and calculation method support
+
+🛠️ **[PrayerTimeNotifier](https://github.com/PoloMalone/PrayerTimeNotifier)** ⭐ 2 – PrayerTimeNotifier is a tool to notify users about prayer times  👍 Provides notifications for prayer times, Supports multiple locations for prayer times
+
+🛠️ **[prayer_times](https://github.com/RastalDev/prayer_times)** ⭐ 2 – A Python library for calculating prayer times based on multiple algorithms  👍 Support for multiple calculation algorithms, Easy to use API
+
+🌐 **[prayer_times_integration](https://github.com/BigSlick76/prayer_times_integration)** ⭐ 0 – A project for integrating prayer times into an application  👍 Provides accurate prayer times data, Easy integration into applications
+
 ### Unknown
 🛠️ **[Pray-Times](https://github.com/abodehq/Pray-Times)** ⭐ 225 – Pray Times is a project that calculates Islamic prayer times for a given location.  👍 Provides accurate prayer time calculation, Supports various calculation methods
 
 📱 **[IslamicClockOfficial](https://github.com/sayyid5416/IslamicClockOfficial)** ⭐ 2 – Islamic Clock is an android app that displays Islamic prayer times and a digital clock with a unique design.  👍 Displays Islamic prayer times, Unique design for digital clock
 
-🌐 **[salat-now](https://github.com/giorno06/salat-now)** ⭐ 0 – A web app that helps you find the nearest lunch spot  👍 Real-time search functionality, Customizable search filters
+🌐 **[Prayer-Times](https://github.com/Metanome/Prayer-Times)** ⭐ 0 – A library for calculating Islamic prayer times  👍 Supports calculation of prayer times based on different methods and locations, 🌐 Available for deployment on the Web
 
 🛠️ **[PrayerTime_Library](https://github.com/johnnyerazo/PrayerTime_Library)** ⭐ 0 – A library for calculating prayer times  👍 Provides accurate prayer times calculation, Supports multiple calculation methods
 
 📱 **[Al-Hudud](https://github.com/HamzaaAkmal/Al-Hudud)** ⭐ 0 – Al-Hudud is an Android application for Islamic prayer times and qibla direction.  👍 Provides accurate prayer times based on location 👍 Offers qibla direction for accurate prayer orientation
-
-🌐 **[Prayer-Times](https://github.com/Metanome/Prayer-Times)** ⭐ 0 – A library for calculating Islamic prayer times  👍 Supports calculation of prayer times based on different methods and locations, 🌐 Available for deployment on the Web
-
-### Swift
-🖥️ **[adhan-swift](https://github.com/batoulapps/adhan-swift)** ⭐ 198 – A Swift library for calculating Islamic prayer times  👍 Accurate calculation of prayer times, Support for various calculation methods
-
-📱 **[PrayerTimes-Swift](https://github.com/ashikahmad/PrayerTimes-Swift)** ⭐ 61 – Prayer Times app for iOS written in Swift  👍 Open-source, Supports prayer time calculation
-
-📱 **[Prayer](https://github.com/FlineDev/Prayer)** ⭐ 35 – A simple prayer time application  👍 Prayer time calculation, Adhan notification
-
-📱 **[muslim-data-ios](https://github.com/my-prayers/muslim-data-ios)** ⭐ 28 – An iOS app for Muslim prayers  👍 Provides accurate prayer times, Allows users to track their prayer habits
 
 ### Dart
 🌐 **[adhan-dart](https://github.com/iamriajul/adhan-dart)** ⭐ 100 – A Dart library for calculating Islamic prayer times  👍 Accurate prayer time calculations, 🌐 Available for Web deployment
@@ -446,6 +433,15 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 📱 **[Azkark-Flutter](https://github.com/youssef7ussien/Azkark-Flutter)** ⭐ 28 – Azkark-Flutter is a Flutter application for keeping track of daily prayers and Azkar  👍 Islamic prayer times, daily Azkar reminders
 
 📱 **[Flutter-Khatma-Clone](https://github.com/Kind-Unes/Flutter-Khatma-Clone)** ⭐ 6 – Flutter Khatma Clone is a mobile application built with Flutter that mimics the features of an Islamic prayer beads counter (Tasbeeh).  👍 Islamic prayer beads counter functionality, Beautiful UI design
+
+### Swift
+🖥️ **[adhan-swift](https://github.com/batoulapps/adhan-swift)** ⭐ 198 – A Swift library for calculating Islamic prayer times  👍 Accurate calculation of prayer times, Support for various calculation methods
+
+📱 **[PrayerTimes-Swift](https://github.com/ashikahmad/PrayerTimes-Swift)** ⭐ 61 – Prayer Times app for iOS written in Swift  👍 Open-source, Supports prayer time calculation
+
+📱 **[Prayer](https://github.com/FlineDev/Prayer)** ⭐ 35 – A simple prayer time application  👍 Prayer time calculation, Adhan notification
+
+📱 **[muslim-data-ios](https://github.com/my-prayers/muslim-data-ios)** ⭐ 28 – An iOS app for Muslim prayers  👍 Provides accurate prayer times, Allows users to track their prayer habits
 
 ### C#
 🌐 **[Adhan-csharp](https://github.com/davidpet86/Adhan-csharp)** ⭐ 17 – Adhan-csharp is a library for calculating Islamic prayer times.  👍 Accurate calculation of prayer times, 🌐 Available for Web deployment
@@ -467,14 +463,14 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 ### Vue
 🌐 **[salat-vue](https://github.com/elattariyassine/salat-vue)** ⭐ 15 – A Vue.js project to display prayer times for Muslims  👍 Real-time prayer times updates, 🌐 Web deployment
 
+### Svelte
+📱 **[mawaqeet](https://github.com/omer73364/mawaqeet)** ⭐ 1 – A timetable application for prayer times with iOS and Android versions.  👍 Cross-platform support, Accurate prayer times calculation
+
 ### CSS
 🌐 **[TimeForSalahWebsite](https://github.com/buildwithmalik/TimeForSalahWebsite)** ⭐ 13 – A website for tracking prayer times  👍 Provides accurate prayer times 👍 User-friendly design
 
 ### Rust
 🌐 **[praye.rs](https://github.com/Mesteery/praye.rs)** ⭐ 2 – A website for sharing and reading prayers  👍 Community-driven platform, Prayer sharing and reading
-
-### Svelte
-📱 **[mawaqeet](https://github.com/omer73364/mawaqeet)** ⭐ 1 – A timetable application for prayer times with iOS and Android versions.  👍 Cross-platform support, Accurate prayer times calculation
 
 ### ActionScript
 🛠️ **[as3-praytimes](https://github.com/manjav/as3-praytimes)** ⭐ 0 – AS3 Prayer Times Calculation Library  👍 Open source, highly configurable
@@ -488,25 +484,25 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 
 🌐 **[TheMuslimGarden.github.io](https://github.com/TheMuslimGarden/TheMuslimGarden.github.io)** ⭐ 2 – The Muslim Garden is a platform that provides Islamic resources and tools for Muslims around the world.  👍 Community-driven content curation, User-friendly interface
 
-🌐 **[islamiaat.github.io](https://github.com/islamiaat/islamiaat.github.io)** ⭐ 1 – Islamiaat website hosted on GitHub  👍 Collection of Islamic resources, Beautiful UI design
+📱 **[athkaralmuslim](https://github.com/samsal81/athkaralmuslim)** ⭐ 1 – Athkar AlMuslim is an Islamic Android Application...  👍 Complete collection of Islamic Athkar and adhkaar with audio  👍 Easy to navigate and user-friendly interface
 
 🌐 **[The-Lantern-Islamic-Foundation](https://github.com/stanley-meruo/The-Lantern-Islamic-Foundation)** ⭐ 1 – The Lantern Islamic Foundation project on GitHub  👍 Open-source Islamic app, Easy navigation
 
-📱 **[athkaralmuslim](https://github.com/samsal81/athkaralmuslim)** ⭐ 1 – Athkar AlMuslim is an Islamic Android Application...  👍 Complete collection of Islamic Athkar and adhkaar with audio  👍 Easy to navigate and user-friendly interface
-
-🌐 **[zakat-calculator](https://github.com/abdulwahed98/zakat-calculator)** ⭐ 0 – A zakat calculator project on Github  👍 Open-source project, Easy to use
-
-🌐 **[MuslimEverywhere](https://github.com/IB2M-Official/MuslimEverywhere)** ⭐ 0 – An application to help Muslims follow daily practices and routines easily  👍 Multifunctional features, User-friendly interface
-
-🌐 **[Zakat-Calculator](https://github.com/ZakatCalculator2025/Zakat-Calculator)** ⭐ 0 – Zakat Calculator for Muslims  👍 Easy-to-use interface, Detailed breakdown of zakat calculation
+🌐 **[islamiaat.github.io](https://github.com/islamiaat/islamiaat.github.io)** ⭐ 1 – Islamiaat website hosted on GitHub  👍 Collection of Islamic resources, Beautiful UI design
 
 🌐 **[thedevelopermuslim.github.io](https://github.com/TheDeveloperMuslim/thedevelopermuslim.github.io)** ⭐ 0 – The Developer Muslim - Personal portfolio website  👍 Portfolio website for showcasing projects and skills, Built with HTML, CSS, JS
 
-🌐 **[2021IslamicateWorldCourse](https://github.com/OpenITI/2021IslamicateWorldCourse)** ⭐ 0 – OpenITI 2021 Islamicate World Course  👍 Open-access syllabus, Islamicate studies
-
 🌐 **[RADIORAMADHAN](https://github.com/RAMADHANWORLD/RADIORAMADHAN)** ⭐ 0 – RADIORAMADHAN is an open source internet radio streaming application.  👍 Provides internet radio streaming functionality, Open source and customizable
 
+🌐 **[zakat-calculator](https://github.com/abdulwahed98/zakat-calculator)** ⭐ 0 – A zakat calculator project on Github  👍 Open-source project, Easy to use
+
+🌐 **[Zakat-Calculator](https://github.com/ZakatCalculator2025/Zakat-Calculator)** ⭐ 0 – Zakat Calculator for Muslims  👍 Easy-to-use interface, Detailed breakdown of zakat calculation
+
 🌐 **[hajj.fyi](https://github.com/deen-fyi/hajj.fyi)** ⭐ 0 – A platform to provide information and resources for Hajj pilgrimage  👍 Provides comprehensive information about Hajj pilgrimage, Offers resources for Hajj preparation
+
+🌐 **[2021IslamicateWorldCourse](https://github.com/OpenITI/2021IslamicateWorldCourse)** ⭐ 0 – OpenITI 2021 Islamicate World Course  👍 Open-access syllabus, Islamicate studies
+
+🌐 **[MuslimEverywhere](https://github.com/IB2M-Official/MuslimEverywhere)** ⭐ 0 – An application to help Muslims follow daily practices and routines easily  👍 Multifunctional features, User-friendly interface
 
 ### JavaScript
 🌐 **[Islamiah](https://github.com/feri-irawan/Islamiah)** ⭐ 77 – Islamiah project on Github  👍 Islamic content, community-driven
@@ -519,9 +515,9 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 
 🌐 **[islamic-app](https://github.com/islamic-works/islamic-app)** ⭐ 1 – Islamic App is an open-source application for Islamic content and resources.  👍 Provides access to a wide range of Islamic content, Allows users to access resources for learning about Islam
 
-🌐 **[dua](https://github.com/OpenIslamicApp/dua)** ⭐ 0 – OpenIslamicApp is an open-source Islamic app for Muslims around the world to access Islamic content and services.  👍 Includes a wide range of Islamic content and services, Open-source for community contribution
-
 🌐 **[OpenIslamicApp.github.io](https://github.com/OpenIslamicApp/OpenIslamicApp.github.io)** ⭐ 0 – OpenIslamicApp is a platform for Islamic apps, tools, and resources.  👍 Provides a collection of Islamic apps, tools, and resources.👍 Open source, community-driven development.
+
+🌐 **[dua](https://github.com/OpenIslamicApp/dua)** ⭐ 0 – OpenIslamicApp is an open-source Islamic app for Muslims around the world to access Islamic content and services.  👍 Includes a wide range of Islamic content and services, Open-source for community contribution
 
 ### Dart
 🌐 **[Sirat-E-Mustaqeem](https://github.com/muhammadtalhasultan/Sirat-E-Mustaqeem)** ⭐ 328 – Sirat-E-Mustaqeem repository on GitHub  👍 Islamic app with Quran and Hadith features, User-friendly interface
@@ -532,20 +528,11 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 
 🌐 **[zakat-charity-tracker](https://github.com/Hifza-Khalid/zakat-charity-tracker)** ⭐ 2 – Zakat charity tracker project on Github  👍 Open source project, Tracks zakat and charity donations
 
-🛠️ **[Mowsouat-al-ahadeeth](https://github.com/zaihcodes/Mowsouat-al-ahadeeth)** ⭐ 1 – Mowsouat-al-ahadeeth Github repository  👍 Comprehensive collection of hadiths, easy search functionality
-
 🛠️ **[kawtharuna](https://github.com/nabil-hfz/kawtharuna)** ⭐ 1 – Kawtharuna is an open-source library for working with Arabic poetry meters and rhyme schemes in Python  👍 Provides tools for analyzing Arabic poetry meters and rhyme schemes, Easy to use API for working with Arabic poetry
 
+🛠️ **[Mowsouat-al-ahadeeth](https://github.com/zaihcodes/Mowsouat-al-ahadeeth)** ⭐ 1 – Mowsouat-al-ahadeeth Github repository  👍 Comprehensive collection of hadiths, easy search functionality
+
 🌐 **[almoslim](https://github.com/fares303/almoslim)** ⭐ 0 – AlMoslim - Islamic community social media platform  👍 User-friendly interface, Islamic content sharing
-
-### Unknown
-🌐 **[Awesome-Muslims](https://github.com/choubari/Awesome-Muslims)** ⭐ 432 – A collection of resources highlighting the achievements of Muslims in various fields  👍 Curated list of Muslim achievers in different fields, 🚀 Open-source project for community contributions
-
-🌐 **[hisn_almuslim_json](https://github.com/rn0x/hisn_almuslim_json)** ⭐ 35 – A JSON version of Hisn AlMuslim  👍 Provides a JSON version of the popular Islamic book Hisn AlMuslim, Easy to access and use
-
-📱 **[Flutter-Islamic-Muslim-Application](https://github.com/Kind-Unes/Flutter-Islamic-Muslim-Application)** ⭐ 5 – A Flutter Islamic Muslim Application  👍 Offers a range of Islamic features and tools, Supports multiple languages
-
-🌐 **[Islamic-Resources](https://github.com/osam7a/Islamic-Resources)** ⭐ 0 – Islamic Resources is a collection of resources and tools for Muslims.  👍 Offers a wide range of resources for Muslims 👍 Provides tools for learning and practicing Islam
 
 ### Kotlin
 📱 **[LaamMuslimAndroid](https://github.com/luthfiarifin/LaamMuslimAndroid)** ⭐ 36 – LaamMuslimAndroid is an open-source Android application for Muslims to access Islamic content.  👍 Provides access to Islamic content, Easy to use interface
@@ -555,6 +542,15 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 🌐 **[islamic-toolkit-kmp](https://github.com/typ-AhmedSleem/islamic-toolkit-kmp)** ⭐ 2 – Islamic Toolkit KMP is a Kotlin Multiplatform project for Islamic tools and resources.  👍 Features comprehensive Islamic tools, Supports Kotlin Multiplatform
 
 🛠️ **[islamic-toolkit-kt](https://github.com/typ-AhmedSleem/islamic-toolkit-kt)** ⭐ 1 – Islamic Toolkit is a Kotlin Multiplatform project that provides various tools and utilities for Muslims.  👍 Provides tools and utilities for Muslims, Kotlin Multiplatform project
+
+### Unknown
+🌐 **[Awesome-Muslims](https://github.com/choubari/Awesome-Muslims)** ⭐ 432 – A collection of resources highlighting the achievements of Muslims in various fields  👍 Curated list of Muslim achievers in different fields, 🚀 Open-source project for community contributions
+
+🌐 **[hisn_almuslim_json](https://github.com/rn0x/hisn_almuslim_json)** ⭐ 35 – A JSON version of Hisn AlMuslim  👍 Provides a JSON version of the popular Islamic book Hisn AlMuslim, Easy to access and use
+
+📱 **[Flutter-Islamic-Muslim-Application](https://github.com/Kind-Unes/Flutter-Islamic-Muslim-Application)** ⭐ 5 – A Flutter Islamic Muslim Application  👍 Offers a range of Islamic features and tools, Supports multiple languages
+
+🌐 **[Islamic-Resources](https://github.com/osam7a/Islamic-Resources)** ⭐ 0 – Islamic Resources is a collection of resources and tools for Muslims.  👍 Offers a wide range of resources for Muslims 👍 Provides tools for learning and practicing Islam
 
 ### TypeScript
 🌐 **[muslim](https://github.com/abdenassar01/muslim)** ⭐ 9 – Muslim - islamic utility  👍 quran and hadith
@@ -575,26 +571,26 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 ### Python
 🌐 **[imam](https://github.com/ahmetmutlugun/imam)** ⭐ 3 – An open-source project for monitoring your shell commands' outputs with a web interface.  👍 Real-time monitoring of shell commands' outputs, Easy-to-use web interface
 
-📱 **[mf_muslim_azkar](https://github.com/rizmiware/mf_muslim_azkar)** ⭐ 0 – Muslim Azkar Flutter app with state management using MobX  👍 Cross-platform app, MobX state management
-
 🖥️ **[Digi-Tasbih](https://github.com/LoKiToon/Digi-Tasbih)** ⭐ 0 – A digital Tasbih counter for Muslims  👍 User-friendly interface, Simple and easy to use
+
+📱 **[mf_muslim_azkar](https://github.com/rizmiware/mf_muslim_azkar)** ⭐ 0 – Muslim Azkar Flutter app with state management using MobX  👍 Cross-platform app, MobX state management
 
 ### CSS
 🌐 **[Islamic-Phrase-Icons](https://github.com/owaisalhashimi/Islamic-Phrase-Icons)** ⭐ 5 – Islamic Phrase Icons repository on GitHub  👍 Provides a collection of Islamic phrase icons for use in projects., 👍 Offers a variety of Islamic religious symbols and phrases for design projects.
 
 🌐 **[MuslimDailyPrayList](https://github.com/monsterbrain/MuslimDailyPrayList)** ⭐ 1 – Muslim Daily Pray List  👍 Tracks daily prayers, Provides notifications for prayer times
 
-### C++
-🌐 **[hisn-al-muslim](https://github.com/zaihcodes/hisn-al-muslim)** ⭐ 0 – A collection of authentic Du'a and Zikr for Muslim  👍 Comprehensive collection of Du'a and Zikr, Easy navigation and search functionality
-
-### SCSS
-🌐 **[islamic-works.github.io](https://github.com/islamic-works/islamic-works.github.io)** ⭐ 1 – Islamic Works GitHub Page  👍 Provides Islamic resources and information 👍 Offers a platform for collaboration and contributions
-
 ### Swift
 📱 **[Arah-Kiblat](https://github.com/drawrs/Arah-Kiblat)** ⭐ 0 – Arah Kiblat is a Qibla direction app for Muslims  👍 Provides accurate Qibla direction, Supports various locations
 
+### C++
+🌐 **[hisn-al-muslim](https://github.com/zaihcodes/hisn-al-muslim)** ⭐ 0 – A collection of authentic Du'a and Zikr for Muslim  👍 Comprehensive collection of Du'a and Zikr, Easy navigation and search functionality
+
 ### C#
 📱 **[AllahIsWatchingMe](https://github.com/Abdesol/AllahIsWatchingMe)** ⭐ 1 – AllahIsWatchingMe is an open-source Android app that displays a 'God's sight' pattern with a message 'Allah Is Watching Me'.  👍 Unique concept of portraying 'God's sight' pattern on Android app, Eye-catching visual display
+
+### SCSS
+🌐 **[islamic-works.github.io](https://github.com/islamic-works/islamic-works.github.io)** ⭐ 1 – Islamic Works GitHub Page  👍 Provides Islamic resources and information 👍 Offers a platform for collaboration and contributions
 
 ### Crystal
 🌐 **[Aswad](https://github.com/aerphanas/Aswad)** ⭐ 0 – An open-source project for an Arabic Sentiment Analysis system  👍 Deep learning models for sentiment analysis, Arabic language support
@@ -604,15 +600,15 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 ### Python
 🛠️ **[Hadith-API](https://github.com/x0xman/Hadith-API)** ⭐ 15 – A Hadith API for retrieving Islamic Hadiths  👍 Provides a wide collection of verified Hadiths, Supports multiple languages
 
-🌐 **[Rejal-Al-Hadith](https://github.com/nnko0o/Rejal-Al-Hadith)** ⭐ 1 – A web application for browsing Hadith books  👍 Multilingual support, Search functionality
-
 🛠️ **[sahih-ai](https://github.com/that-one-arab/sahih-ai)** ⭐ 1 – A machine learning model for Hadith verification  👍 Open-source project, Machine learning based
+
+🌐 **[Rejal-Al-Hadith](https://github.com/nnko0o/Rejal-Al-Hadith)** ⭐ 1 – A web application for browsing Hadith books  👍 Multilingual support, Search functionality
 
 🛠️ **[sunnah.com_scraper](https://github.com/meeAtif/sunnah.com_scraper)** ⭐ 1 – A web scraper for sunnah.com  👍 Extracts data from sunnah.com, Automates the scraping process
 
-🌐 **[web-app](https://github.com/daily-islamic-hadith/web-app)** ⭐ 0 – A web app for daily Islamic Hadith  👍 Provides daily Islamic Hadith for readers 👍 User-friendly interface for easy navigation
-
 🛠️ **[home-assistant](https://github.com/daily-islamic-hadith/home-assistant)** ⭐ 0 – Daily Islamic Hadith sensor, for Home Assistant  👍 Real-time updates on Islamic Hadiths, Configurable to select type of Hadith (Sahih, Hasan, etc.)
+
+🌐 **[web-app](https://github.com/daily-islamic-hadith/web-app)** ⭐ 0 – A web app for daily Islamic Hadith  👍 Provides daily Islamic Hadith for readers 👍 User-friendly interface for easy navigation
 
 ### JavaScript
 🌐 **[dorar-hadith-api](https://github.com/AhmedElTabarani/dorar-hadith-api)** ⭐ 88 – A RESTful API for retrieving Hadith from the Dorar Hadith collection  👍 Provides access to a vast collection of Hadiths, Supports RESTful API for easy integration
@@ -623,9 +619,9 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 
 📱 **[check-hadith-native](https://github.com/adelpro/check-hadith-native)** ⭐ 3 – A NativeScript application that checks the authenticity of Hadiths  👍 Cross-platform compatibility, Secure verification process
 
-🛠️ **[hadith-blockchain](https://github.com/khaledbnmohamed/hadith-blockchain)** ⭐ 0 – An open-source project for storing Hadith data on the blockchain  👍 Decentralized storage of Hadith data, Smart contract implementation
-
 🌐 **[browser-extension](https://github.com/daily-islamic-hadith/browser-extension)** ⭐ 0 – A browser extension for daily Islamic Hadith  👍 Provides daily Islamic Hadiths, Customizable settings
+
+🛠️ **[hadith-blockchain](https://github.com/khaledbnmohamed/hadith-blockchain)** ⭐ 0 – An open-source project for storing Hadith data on the blockchain  👍 Decentralized storage of Hadith data, Smart contract implementation
 
 ### TypeScript
 🌐 **[hadith-api](https://github.com/gadingnst/hadith-api)** ⭐ 358 – Hadith API repository  👍 Provides an API for retrieving Hadiths 👍 Supports multiple Hadith collections
@@ -639,18 +635,11 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 ### Dart
 🌐 **[alhadithalnawawiforty](https://github.com/djamelzerrouki/alhadithalnawawiforty)** ⭐ 26 – Al Hadith al Nawawi's Forty Hadith is a collection of forty hadiths by Imam al-Nawawi  👍 Comprehensive collection of hadiths, Easy to navigate
 
-📱 **[nawawi_40_hadith_app](https://github.com/mahmoodhamdi/nawawi_40_hadith_app)** ⭐ 1 – An app for reading the 40 Hadith of Imam Nawawi  👍 Authentic collection of Hadith, User-friendly interface
-
 🌐 **[hadith-collection-pashto](https://github.com/Fazlullahmamond/hadith-collection-pashto)** ⭐ 1 – A collection of Hadith in Pashto language  👍 Contains a collection of Hadith in Pashto language, Easily accessible for Pashto-speaking audience
 
+📱 **[nawawi_40_hadith_app](https://github.com/mahmoodhamdi/nawawi_40_hadith_app)** ⭐ 1 – An app for reading the 40 Hadith of Imam Nawawi  👍 Authentic collection of Hadith, User-friendly interface
+
 🌐 **[hadeeth](https://github.com/zaihcodes/hadeeth)** ⭐ 0 – A collection of Hadith (sayings and actions of Prophet Muhammad) in English and Arabic.  👍 Includes Hadith in English and Arabic languages, Easy navigation and search functionality
-
-### HTML
-🛠️ **[SunnahGPT](https://github.com/hazemabdelkawy/SunnahGPT)** ⭐ 83 – SunnahGPT is a GPT model trained on Islamic Hadiths and Sunnah  👍 Enables generation of Islamic Hadiths and Sunnah text 👍 Provides a pre-trained GPT model specifically for Islamic content
-
-🌐 **[hadithmv.github.io](https://github.com/hadithmv/hadithmv.github.io)** ⭐ 15 – HadithMV is a website that provides collection of Hadith from Maldives  👍 Provides a collection of Hadith from Maldives, User-friendly interface
-
-🌐 **[check-hadith](https://github.com/adelpro/check-hadith)** ⭐ 6 – Check Hadith is a web application to verify the authenticity of Hadith narrators using sematic web technologies.  👍 Semantic web technologies, Narrator authenticity verification
 
 ### Unknown
 🌐 **[hadith-api](https://github.com/fawazahmed0/hadith-api)** ⭐ 339 – Hadith API for fetching Islamic Hadiths in multiple languages  👍 Multilingual support, Easy to use API
@@ -659,25 +648,32 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 
 🌐 **[SahabaArchive](https://github.com/alitheDev/SahabaArchive)** ⭐ 1 – An archive of resources related to the Sahaba (Companions of the Prophet Muhammad) in Islam  👍 Comprehensive collection of Sahaba-related resources, Easy navigation and search functionality
 
+### HTML
+🛠️ **[SunnahGPT](https://github.com/hazemabdelkawy/SunnahGPT)** ⭐ 83 – SunnahGPT is a GPT model trained on Islamic Hadiths and Sunnah  👍 Enables generation of Islamic Hadiths and Sunnah text 👍 Provides a pre-trained GPT model specifically for Islamic content
+
+🌐 **[hadithmv.github.io](https://github.com/hadithmv/hadithmv.github.io)** ⭐ 15 – HadithMV is a website that provides collection of Hadith from Maldives  👍 Provides a collection of Hadith from Maldives, User-friendly interface
+
+🌐 **[check-hadith](https://github.com/adelpro/check-hadith)** ⭐ 6 – Check Hadith is a web application to verify the authenticity of Hadith narrators using sematic web technologies.  👍 Semantic web technologies, Narrator authenticity verification
+
 ### Java
 🌐 **[Salawat](https://github.com/DBChoco/Salawat)** ⭐ 29 – An app for sending and tracking salawat on the Prophet Muhammad  👍 Provides a platform for sending salawat messages, Tracks the total count of salawat sent
 
 🌐 **[RandomHadithGenerator](https://github.com/sozenka/RandomHadithGenerator)** ⭐ 3 – A random Hadith generator using React and Tailwind CSS  👍 Generates random Hadith quotes, Built with React and Tailwind CSS
 
-### MDX
-🌐 **[LearnSeerahContent](https://github.com/SultanZain/LearnSeerahContent)** ⭐ 4 – Learn Seerah Content is a platform for learning about the life of Prophet Muhammad.  👍 Interactive learning experience, Versatile content formats
+### Vue
+🌐 **[Hadiths](https://github.com/ahmod001/Hadiths)** ⭐ 0 – Hadiths is a collection of hadiths (sayings and actions of Prophet Muhammad) in multiple languages.  👍 Comprehensive collection of hadiths, Multilingual support
 
 ### Shell
 🌐 **[verse-hadithDB](https://github.com/lazypwny751/verse-hadithDB)** ⭐ 3 – A database of hadiths in verse form  👍 Provides hadiths in verse form, Easy to search and browse
 
-### Vue
-🌐 **[Hadiths](https://github.com/ahmod001/Hadiths)** ⭐ 0 – Hadiths is a collection of hadiths (sayings and actions of Prophet Muhammad) in multiple languages.  👍 Comprehensive collection of hadiths, Multilingual support
-
-### Jupyter Notebook
-🌐 **[hadith-search](https://github.com/abdulmunimjemal/hadith-search)** ⭐ 0 – Hadith search engine for searching and displaying Islamic texts.  👍 Open source, Search functionality
+### MDX
+🌐 **[LearnSeerahContent](https://github.com/SultanZain/LearnSeerahContent)** ⭐ 4 – Learn Seerah Content is a platform for learning about the life of Prophet Muhammad.  👍 Interactive learning experience, Versatile content formats
 
 ### Kotlin
 🌐 **[SunnahAssistant](https://github.com/saidmsaid81/SunnahAssistant)** ⭐ 12 – A tool to help users learn and understand the Sunnah of Prophet Muhammad (peace be upon him).  👍 Provides curated collection of authentic Sunnah practices, User-friendly interface for easy navigation
+
+### Jupyter Notebook
+🌐 **[hadith-search](https://github.com/abdulmunimjemal/hadith-search)** ⭐ 0 – Hadith search engine for searching and displaying Islamic texts.  👍 Open source, Search functionality
 
 <a name='islamic-events-and-reminders'></a>
 ## Islamic Events and Reminders (27 projects)
@@ -694,13 +690,6 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 
 🖥️ **[MyDailyReminder](https://github.com/AhmedAlRawi0/MyDailyReminder)** ⭐ 1 – MyDailyReminder is a simple Python program that reminds you of your daily tasks by sending notifications to your desktop.  👍 Easy-to-use reminder system, Customizable tasks and reminders
 
-### Java
-📱 **[HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker)** ⭐ 147 – A customizable Hijri date picker for Android  👍 Supports both Gregorian and Hijri calendars, Customizable date format
-
-📱 **[Muslim-Athkar-Islamic-Reminders](https://github.com/ashraf789/Muslim-Athkar-Islamic-Reminders)** ⭐ 30 – Muslim Athkar Islamic Reminders app  👍 Offers a collection of Islamic dhikr (remembrance of Allah) and dua (supplications)  👍 Allows users to set reminders for daily prayers and dhikr
-
-🌐 **[me_azkar](https://github.com/islamstatus360/me_azkar)** ⭐ 1 – A collection of Islamic supplications and reminders  👍 Includes a variety of Azkar and supplications, Provides daily reminders for Islamic prayers
-
 ### HTML
 📱 **[Marhaban-Ya-Ramadhan](https://github.com/shabir-mp/Marhaban-Ya-Ramadhan)** ⭐ 6 – Marhaban Ya Ramadhan is an Android application for Islamic reminders and Duas during the holy month of Ramadan.  👍 Provides Islamic reminders and Duas, User-friendly interface
 
@@ -708,15 +697,12 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 
 🌐 **[BelBedu9](https://github.com/masterDev07/BelBedu9)** ⭐ 0 – BelBedu9 is a platform for managing the Bel Bedu 9 Marathon event  👍 Provides event management features, Allows participants to register for the marathon
 
-### Unknown
-📱 **[ramzan-quiz-app](https://github.com/Hifza-Khalid/ramzan-quiz-app)** ⭐ 2 – A Ramadan quiz app built using React Native  👍 Interactive quiz format, Random questions generation
+### Java
+📱 **[HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker)** ⭐ 147 – A customizable Hijri date picker for Android  👍 Supports both Gregorian and Hijri calendars, Customizable date format
 
-📱 **[Ramadan-Calendar-App](https://github.com/umar-amin/Ramadan-Calendar-App)** ⭐ 0 – Ramadan Calendar App  👍 Tracks daily fasting times, Provides a calendar with prayer times
+📱 **[Muslim-Athkar-Islamic-Reminders](https://github.com/ashraf789/Muslim-Athkar-Islamic-Reminders)** ⭐ 30 – Muslim Athkar Islamic Reminders app  👍 Offers a collection of Islamic dhikr (remembrance of Allah) and dua (supplications)  👍 Allows users to set reminders for daily prayers and dhikr
 
-### PHP
-🌐 **[laravel-hijri](https://github.com/Pharaonic/laravel-hijri)** ⭐ 13 – Laravel Hijri is a Laravel package for working with the Hijri calendar in PHP applications.  👍 Provides functionality to work with the Hijri calendar in Laravel applications, Easy to integrate and use
-
-🌐 **[php-hijri](https://github.com/Pharaonic/php-hijri)** ⭐ 7 – Hijri date implementation in PHP  👍 Provides functions to work with Hijri dates 👍 Includes conversion between Hijri and Gregorian dates
+🌐 **[me_azkar](https://github.com/islamstatus360/me_azkar)** ⭐ 1 – A collection of Islamic supplications and reminders  👍 Includes a variety of Azkar and supplications, Provides daily reminders for Islamic prayers
 
 ### Dart
 📱 **[Be-Muslim-App](https://github.com/Ahmed-Ibrahim-30/Be-Muslim-App)** ⭐ 6 – Be Muslim App is an Islamic app that provides users with daily reminders and guidance to practice Islam.  👍 Offers daily reminders and guidance for practicing Islam, User-friendly interface
@@ -728,14 +714,24 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 
 📱 **[hijri-week-calendar](https://github.com/khawarizmus/hijri-week-calendar)** ⭐ 7 – A Hijri week calendar for Flutter  👍 Provides a Hijri week calendar widget 👍 Supports Arabic and English languages
 
+### Unknown
+📱 **[ramzan-quiz-app](https://github.com/Hifza-Khalid/ramzan-quiz-app)** ⭐ 2 – A Ramadan quiz app built using React Native  👍 Interactive quiz format, Random questions generation
+
+📱 **[Ramadan-Calendar-App](https://github.com/umar-amin/Ramadan-Calendar-App)** ⭐ 0 – Ramadan Calendar App  👍 Tracks daily fasting times, Provides a calendar with prayer times
+
+### PHP
+🌐 **[laravel-hijri](https://github.com/Pharaonic/laravel-hijri)** ⭐ 13 – Laravel Hijri is a Laravel package for working with the Hijri calendar in PHP applications.  👍 Provides functionality to work with the Hijri calendar in Laravel applications, Easy to integrate and use
+
+🌐 **[php-hijri](https://github.com/Pharaonic/php-hijri)** ⭐ 7 – Hijri date implementation in PHP  👍 Provides functions to work with Hijri dates 👍 Includes conversion between Hijri and Gregorian dates
+
 ### Python
 🛠️ **[hijridate](https://github.com/dralshehri/hijridate)** ⭐ 72 – A library for manipulating Hijri dates in Python  👍 Provides functionalities to convert, manipulate, and format Hijri dates 👍 Supports both Hijri and Gregorian calendars
 
+### SCSS
+📱 **[Ramadan_Companion](https://github.com/HarisJamal28/Ramadan_Companion)** ⭐ 0 – A Ramadan companion app for Muslims  👍 Provides daily prayer timings and reminders, Offers Quran reading features
+
 ### CSS
 🌐 **[iftar.fyi](https://github.com/deen-fyi/iftar.fyi)** ⭐ 0 – A web application that provides iftar (breaking fast) times during Ramadan  👍 Provides accurate iftar times based on location, Allows users to search for iftar times in different cities
-
-### Ruby
-🛠️ **[hijri](https://github.com/RubyOnWorld/hijri)** ⭐ 0 – A Ruby library for manipulating Hijri (Islamic) dates and times  👍 Provides functionality for converting Gregorian dates to Hijri dates and vice versa, 👍 Supports various operations on Hijri dates such as addition and subtraction
 
 ### Shell
 🛠️ **[hijri.sh](https://github.com/gojigeje/hijri.sh)** ⭐ 4 – A simple command-line tool to convert Gregorian calendar dates to Hijri calendar dates  👍 Easy-to-use command-line tool, Fast conversion process
@@ -743,11 +739,11 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 ### Objective-C
 🌐 **[BSCalendarHijriGeorgian](https://github.com/bismasaeed00/BSCalendarHijriGeorgian)** ⭐ 12 – A calendar app to switch between Hijri and Georgian calendar  👍 Provides support for Hijri and Georgian calendars, Allows switching between calendars
 
+### Ruby
+🛠️ **[hijri](https://github.com/RubyOnWorld/hijri)** ⭐ 0 – A Ruby library for manipulating Hijri (Islamic) dates and times  👍 Provides functionality for converting Gregorian dates to Hijri dates and vice versa, 👍 Supports various operations on Hijri dates such as addition and subtraction
+
 ### C++
 📱 **[Muslim-Reminder-Application](https://github.com/cppLawyer/Muslim-Reminder-Application)** ⭐ 2 – Muslim Reminder Application  👍 Provides reminders for Muslim prayers and fasting, Supports multiple languages
-
-### SCSS
-📱 **[Ramadan_Companion](https://github.com/HarisJamal28/Ramadan_Companion)** ⭐ 0 – A Ramadan companion app for Muslims  👍 Provides daily prayer timings and reminders, Offers Quran reading features
 
 <a name='hadith-search-and-api'></a>
 ## Hadith Search and API (17 projects)
@@ -776,9 +772,6 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 
 🌐 **[read_me_when](https://github.com/yeasin50/read_me_when)** ⭐ 3 – A simple repository with a README file  👍 Easy to understand, Beginner friendly
 
-### HTML
-🌐 **[islamstatus360-links](https://github.com/islamstatus360/islamstatus360-links)** ⭐ 0 – A collection of useful Islamic links  👍 Provides a collection of Islamic links, Easily accessible
-
 ### PHP
 🛠️ **[semakhadis-api](https://github.com/semakhadis/semakhadis-api)** ⭐ 5 – A RESTful API using Express.js for managing users and tasks  👍 Implements user and task management features, 👍 Uses Express.js for building the API
 
@@ -791,18 +784,14 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 ### EJS
 🛠️ **[isline](https://github.com/kopen1/isline)** ⭐ 1 – Isoline is a Python library for isAPI  👍 Provides functions to interact with isAPI, Supports numerous operations related to isoline calculations
 
+### HTML
+🌐 **[islamstatus360-links](https://github.com/islamstatus360/islamstatus360-links)** ⭐ 0 – A collection of useful Islamic links  👍 Provides a collection of Islamic links, Easily accessible
+
 ### CSS
 🌐 **[duas-for-salah-and-supplication](https://github.com/blueray453/duas-for-salah-and-supplication)** ⭐ 0 – A collection of duas for salah and supplication  👍 Includes a variety of duas for different occasions 👍 Provides Arabic text and English translation
 
 <a name='dua-collection-and-reminders'></a>
 ## Dua Collection and Reminders (12 projects)
-### Unknown
-🛠️ **[azkar-db](https://github.com/osamayy/azkar-db)** ⭐ 169 – Azkar Database is a database for storing and retrieving Islamic Azkar (remembrances).  👍 Open-source database for Islamic Azkar, Easy retrieval of Azkar data
-
-📱 **[dua-book](https://github.com/EL-HIDAYA/dua-book)** ⭐ 0 – Dua Book is an Islamic application to read and listen to different dua (pray) in Arabic and English.  👍 Includes a collection of dua in Arabic and English, Allows users to listen to dua audio files
-
-📱 **[AZKHAR_HAUSA](https://github.com/encrip/AZKHAR_HAUSA)** ⭐ 0 – AZKHAR_HAUSA is a mobile application for Hausa Islamic supplications.  👍 Provides a collection of Hausa Islamic supplications, Supports offline access
-
 ### JavaScript
 🌐 **[whatsapp_adhkar](https://github.com/rn0x/whatsapp_adhkar)** ⭐ 26 – Whatsapp adhkar app  👍 Prayer reminders on WhatsApp, Multiple adhkar categories
 
@@ -810,15 +799,22 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 
 📱 **[dzikir-pagi-petang](https://github.com/Pepryan/dzikir-pagi-petang)** ⭐ 0 – Dzikir Pagi Petang is an Android application that provides daily morning and evening remembrance (Dzikir) in Islam.  👍 Provides daily morning and evening remembrance (Dzikir) in Islam, User-friendly interface
 
-### TypeScript
-🌐 **[islamic-guide](https://github.com/saoud30/islamic-guide)** ⭐ 2 – Islamic guide for daily supplication  👍 Comprehensive collection of Islamic supplications, organized by categories 👍 Includes transliteration and translation for easy understanding
+### Unknown
+🛠️ **[azkar-db](https://github.com/osamayy/azkar-db)** ⭐ 169 – Azkar Database is a database for storing and retrieving Islamic Azkar (remembrances).  👍 Open-source database for Islamic Azkar, Easy retrieval of Azkar data
 
-📱 **[adkar-streak](https://github.com/zameel7/adkar-streak)** ⭐ 1 – Adkar Streak is a mobile app for Islamic supplications with streak functionality  👍 Tracks Islamic supplications, Streak functionality for motivation
+📱 **[dua-book](https://github.com/EL-HIDAYA/dua-book)** ⭐ 0 – Dua Book is an Islamic application to read and listen to different dua (pray) in Arabic and English.  👍 Includes a collection of dua in Arabic and English, Allows users to listen to dua audio files
+
+📱 **[AZKHAR_HAUSA](https://github.com/encrip/AZKHAR_HAUSA)** ⭐ 0 – AZKHAR_HAUSA is a mobile application for Hausa Islamic supplications.  👍 Provides a collection of Hausa Islamic supplications, Supports offline access
 
 ### Java
 📱 **[Azkar-App](https://github.com/AbdelrahmanBayoumi/Azkar-App)** ⭐ 115 – Azkar App is a mobile application for displaying Islamic remembrances  👍 Offers a collection of Islamic remembrances, Supports customization of Azkar
 
 📱 **[DuaApp](https://github.com/yassindaboussi/DuaApp)** ⭐ 7 – DuaApp is a mobile application for Islamic dua and islamic quotes.  👍 Versatile collection of Islamic dua and quotes, User-friendly interface for easy navigation
+
+### TypeScript
+🌐 **[islamic-guide](https://github.com/saoud30/islamic-guide)** ⭐ 2 – Islamic guide for daily supplication  👍 Comprehensive collection of Islamic supplications, organized by categories 👍 Includes transliteration and translation for easy understanding
+
+📱 **[adkar-streak](https://github.com/zameel7/adkar-streak)** ⭐ 1 – Adkar Streak is a mobile app for Islamic supplications with streak functionality  👍 Tracks Islamic supplications, Streak functionality for motivation
 
 ### HTML
 🌐 **[me-azkar-web](https://github.com/thenasihun/me-azkar-web)** ⭐ 0 – Web application for displaying and managing Islamic Azkar  👍 User-friendly interface, Daily Azkar reminders
@@ -828,27 +824,27 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 
 <a name='quranic-learning-and-study-tools'></a>
 ## Quranic Learning and Study Tools (8 projects)
-### TypeScript
-🛠️ **[nafs](https://github.com/Usman-T/nafs)** ⭐ 6 – Night Algorithms Framework and Scripts is a collection of algorithms and scripts that can be used for study and practice purposes.  👍 Algorithm collection for study and practice, Contains scripts for implementation
-
-📱 **[MuslimHub](https://github.com/yani2298/MuslimHub)** ⭐ 6 – MuslimHub is an Islamic app that provides a platform for Muslims to connect, learn, and engage with the community.  👍 Provides community engagement features, Offers learning resources
-
 ### Java
 🌐 **[itl-java](https://github.com/fikr4n/itl-java)** ⭐ 68 – ITL - Interactive Teaching and Learning  👍 Interactive quizzes and exercises, Real-time code execution
 
 📱 **[Islamyat-App](https://github.com/Abdulrhman-Khaled/Islamyat-App)** ⭐ 11 – Islamyat App is a mobile application for learning about Islam.  👍 Provides educational content about Islam, User-friendly interface
 
-### Dart
-🖥️ **[islami_app](https://github.com/khaled-mohey10/islami_app)** ⭐ 0 – An Islamic application for learning and practicing Islam  👍 Provides a platform for learning and practicing Islam, Offers a variety of Islamic resources
+### TypeScript
+📱 **[MuslimHub](https://github.com/yani2298/MuslimHub)** ⭐ 6 – MuslimHub is an Islamic app that provides a platform for Muslims to connect, learn, and engage with the community.  👍 Provides community engagement features, Offers learning resources
+
+🛠️ **[nafs](https://github.com/Usman-T/nafs)** ⭐ 6 – Night Algorithms Framework and Scripts is a collection of algorithms and scripts that can be used for study and practice purposes.  👍 Algorithm collection for study and practice, Contains scripts for implementation
 
 ### JavaScript
 📱 **[ilmverseapp](https://github.com/noorbytes/ilmverseapp)** ⭐ 1 – A mobile app for learning Islamic teachings through storytelling  👍 Interactive stories, quizzes, and games for engaging learning experience 👍 Access to a library of Islamic content for all age groups
 
-### Unknown
-🛠️ **[islamic-project](https://github.com/fawazahmed0/islamic-project)** ⭐ 3 – A collection of Islamic projects for learning and practicing Islam  👍 Includes a prayer time calculator and Quran explorer
+### Dart
+🖥️ **[islami_app](https://github.com/khaled-mohey10/islami_app)** ⭐ 0 – An Islamic application for learning and practicing Islam  👍 Provides a platform for learning and practicing Islam, Offers a variety of Islamic resources
 
 ### Python
 🌐 **[Muslim-Learning-Journal](https://github.com/Umair-Awans/Muslim-Learning-Journal)** ⭐ 0 – An online journal for Muslim learning  👍 Interactive lessons, Progress tracking
+
+### Unknown
+🛠️ **[islamic-project](https://github.com/fawazahmed0/islamic-project)** ⭐ 3 – A collection of Islamic projects for learning and practicing Islam  👍 Includes a prayer time calculator and Quran explorer
 
 <a name='qibla-direction-and-finder'></a>
 ## Qibla Direction and Finder (5 projects)
@@ -859,14 +855,14 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 
 🌐 **[qiblah_flutter](https://github.com/iqfareez/qiblah_flutter)** ⭐ 6 – Qiblah Flutter is a Flutter package for determining the Qiblah direction.  👍 Provides accurate Qiblah direction, Easy to integrate into Flutter apps
 
-### Java
-📱 **[kiblat-Campass-android](https://github.com/najamiqbal/kiblat-Campass-android)** ⭐ 3 – Kiblat Compass Android app  👍 Qibla direction finder, Accurate compass
-
 ### Kotlin
 🌐 **[Qibla-Finder-App](https://github.com/ihazratummar/Qibla-Finder-App)** ⭐ 1 – Qibla Finder App helps users find the direction of the Kaaba in Mecca.  👍 Provides accurate direction to the Kaaba, 🌐 Available on the Web
 
+### Java
+📱 **[kiblat-Campass-android](https://github.com/najamiqbal/kiblat-Campass-android)** ⭐ 3 – Kiblat Compass Android app  👍 Qibla direction finder, Accurate compass
+
 <a name='other'></a>
-## Other (119 projects)
+## Other (118 projects)
 ### JavaScript
 🛠️ **[HaramBlur](https://github.com/alganzory/HaramBlur)** ⭐ 1126 – HaramBlur is a Python application for blurring images using the HaramBepo font.  👍 Supports blurring images using the HaramBepo font, 👍 Open-source and customizable
 
@@ -886,29 +882,29 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 
 🛠️ **[Islamic-WhatsApp-Bot](https://github.com/midsoune/Islamic-WhatsApp-Bot)** ⭐ 8 – Islamic WhatsApp Bot for automatic responses to Islamic questions and queries  👍 Provides automatic responses to Islamic questions and queries, Easy to set up and customize
 
-🌐 **[PlayOuran](https://github.com/yani2298/PlayOuran)** ⭐ 6 – A multiplayer game based on the anime series Ouran High School Host Club.  👍 Unique gameplay mechanics, Character customization
-
 📱 **[Spiritify](https://github.com/m2ncef/Spiritify)** ⭐ 6 – Spiritify is a Spirit level app with a beautiful and intuitive design.  👍 Real-time spirit level measurement, Intuitive user interface
 
 🖥️ **[Arabiyy-keyboard](https://github.com/O1Anas/Arabiyy-keyboard)** ⭐ 6 – Arabiyy-keyboard is an Arabic language keyboard layout for Windows and macOS.  👍 Supports both Windows and macOS platforms, Customizable keyboard layout
+
+🌐 **[PlayOuran](https://github.com/yani2298/PlayOuran)** ⭐ 6 – A multiplayer game based on the anime series Ouran High School Host Club.  👍 Unique gameplay mechanics, Character customization
 
 🖥️ **[ilm](https://github.com/khansultan1/ilm)** ⭐ 4 – Image morph   👍 Image morphing, Image editing
 
 🌐 **[Faithful-Path](https://github.com/TAIJULAMAN/Faithful-Path)** ⭐ 4 – Faithful Path is a tool for tracking your spiritual journey and personal growth.  👍 Provides a digital journal for recording thoughts and reflections, Offers goal setting and progress tracking features
 
-🌐 **[date-time](https://github.com/aasaam/date-time)** ⭐ 1 – A JavaScript library for parsing, validating, manipulating, and formatting dates and times.  👍 Provides functions for parsing, validating, manipulating, and formatting dates and times. Offers a wide range of date and time operations.
-
 🛠️ **[salafibot](https://github.com/Salafi-Coders/salafibot)** ⭐ 1 – Telegram Bot for Islamic content  👍 Provides daily Islamic reminders, Has a Q&A feature
 
-🛠️ **[haram_blur](https://github.com/ibrahim317/haram_blur)** ⭐ 0 – A Python library for blurring sensitive information in images  👍 Easy to use, Fast processing
-
-📱 **[sahabat-hijrah](https://github.com/nomenklatur/sahabat-hijrah)** ⭐ 0 – A Islamic wedding planner app that helps organizing your big day  👍 Helps in organizing Islamic wedding events, Provides resources for planning
-
-🌐 **[Takriim_org](https://github.com/jumhuur/Takriim_org)** ⭐ 0 – Takriim_org is a web application for managing takreem activities.  👍 Easy to use interface, Efficient management of activities
+🌐 **[date-time](https://github.com/aasaam/date-time)** ⭐ 1 – A JavaScript library for parsing, validating, manipulating, and formatting dates and times.  👍 Provides functions for parsing, validating, manipulating, and formatting dates and times. Offers a wide range of date and time operations.
 
 🌐 **[nawa.js](https://github.com/Calculamatrise/nawa.js)** ⭐ 0 – nawa.js is a small, fast, lightweight library for creating web applications using the MVC architecture.  👍 Lightweight and fast, MVC architecture
 
 🛠️ **[ayetvar](https://github.com/mc4n/ayetvar)** ⭐ 0 – Ayetvar is a Turkish language NLP library for handling Turkish texts  👍 Open-source library for Turkish NLP, Support for Turkish text processing
+
+🛠️ **[haram_blur](https://github.com/ibrahim317/haram_blur)** ⭐ 0 – A Python library for blurring sensitive information in images  👍 Easy to use, Fast processing
+
+🌐 **[Takriim_org](https://github.com/jumhuur/Takriim_org)** ⭐ 0 – Takriim_org is a web application for managing takreem activities.  👍 Easy to use interface, Efficient management of activities
+
+📱 **[sahabat-hijrah](https://github.com/nomenklatur/sahabat-hijrah)** ⭐ 0 – A Islamic wedding planner app that helps organizing your big day  👍 Helps in organizing Islamic wedding events, Provides resources for planning
 
 ### HTML
 🖥️ **[altaqwaa-desktop](https://github.com/rn0x/altaqwaa-desktop)** ⭐ 235 – A desktop application for Altaqwaa Islamic Center  👍 Open-source, Cross-platform
@@ -929,21 +925,21 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 
 🌐 **[Islamic](https://github.com/Mohamed20a/Islamic)** ⭐ 1 – Islamic information system  👍 Quran and Hadith information, 🌐 Web deployment
 
-🌐 **[tawhid-islamic-center-html-template](https://github.com/tas33n/tawhid-islamic-center-html-template)** ⭐ 0 – Tawhid Islamic Center HTML Template  👍 Clean and modern design, Responsive layout
+📱 **[Allahu](https://github.com/HumayunShariarHimu/Allahu)** ⭐ 0 – Allahu is an Islamic Android app for Namaj Time, Tasbih, etc.  👍 Includes features for tracking Namaj time and Tasbih
 
 🛠️ **[islmc](https://github.com/ikhub/islmc)** ⭐ 0 – ISLMC is an Islamic library management system written in Java and MySQL.  👍 Open-source solution, Java and MySQL support
 
-🌐 **[AL-INAM-tours-travel-website-](https://github.com/Mahek694/AL-INAM-tours-travel-website-)** ⭐ 0 – AL-INAM tours travel website  👍 Customizable tour packages, Easy booking process
-
-🌐 **[The-Light-Of-Ahmadiyya](https://github.com/thelightofahmadiyya/The-Light-Of-Ahmadiyya)** ⭐ 0 – A website dedicated to the teachings of Ahmadiyya Islam  👍 Provides a platform to explore and learn about Ahmadiyya Islam, Offers a collection of resources and literature for scholars and enthusiasts
-
-📱 **[Allahu](https://github.com/HumayunShariarHimu/Allahu)** ⭐ 0 – Allahu is an Islamic Android app for Namaj Time, Tasbih, etc.  👍 Includes features for tracking Namaj time and Tasbih
-
 🛠️ **[qi](https://github.com/lionbytes/qi)** ⭐ 0 – The Qi programming language  👍 Functional and declarative programming language, Built-in concurrency support
+
+🛠️ **[CisLam](https://github.com/IyaadArshad/CisLam)** ⭐ 0 – A Python library for Islamic functions and calculations  👍 Provides a range of Islamic functions and calculations, Easy to use and integrate with Python projects
 
 🌐 **[Sadaqah-Welfare-Trust](https://github.com/TamGamer97/Sadaqah-Welfare-Trust)** ⭐ 0 – Sadaqah Welfare Trust is a project for managing donations and welfare activities.  👍 Efficient donation management, User-friendly interface
 
-🛠️ **[CisLam](https://github.com/IyaadArshad/CisLam)** ⭐ 0 – A Python library for Islamic functions and calculations  👍 Provides a range of Islamic functions and calculations, Easy to use and integrate with Python projects
+🌐 **[The-Light-Of-Ahmadiyya](https://github.com/thelightofahmadiyya/The-Light-Of-Ahmadiyya)** ⭐ 0 – A website dedicated to the teachings of Ahmadiyya Islam  👍 Provides a platform to explore and learn about Ahmadiyya Islam, Offers a collection of resources and literature for scholars and enthusiasts
+
+🌐 **[tawhid-islamic-center-html-template](https://github.com/tas33n/tawhid-islamic-center-html-template)** ⭐ 0 – Tawhid Islamic Center HTML Template  👍 Clean and modern design, Responsive layout
+
+🌐 **[AL-INAM-tours-travel-website-](https://github.com/Mahek694/AL-INAM-tours-travel-website-)** ⭐ 0 – AL-INAM tours travel website  👍 Customizable tour packages, Easy booking process
 
 ### TypeScript
 🛠️ **[adhan-js](https://github.com/batoulapps/adhan-js)** ⭐ 443 – Adhan library for Javascript  👍 Provides Islamic prayer times calculations, supports multiple calculation methods
@@ -964,19 +960,19 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 
 🌐 **[aafiyah](https://github.com/MuttakinHasib/aafiyah)** ⭐ 1 – Aafiyah is a web application for online medical consultation.  👍 User-friendly interface, Secure data storage
 
-🌐 **[glossary-module](https://github.com/islamic-works/glossary-module)** ⭐ 0 – A glossary module for Islamic terminology  👍 Comprehensive collection of Islamic terms, Interactive and user-friendly interface
-
-🌐 **[Alhasson.com](https://github.com/mostafa-tabrizian/Alhasson.com)** ⭐ 0 – Alhasson.com is a personal website showcasing Mostafa Tabrizian's projects and portfolio.  👍 Personal website with projects and portfolio showcase, Responsive design for all devices
+📱 **[daily-hidayah-expo-app](https://github.com/tawsifulalamraiyan/daily-hidayah-expo-app)** ⭐ 0 – A simple daily Hidayah app built with React Native  👍 Features a daily quote and reminder for daily intentions
 
 🌐 **[naltaqi](https://github.com/hisefath/naltaqi)** ⭐ 0 – Naltaqi is a project management tool for software development teams  👍 Kanban board for task management, Real-time collaboration for team communication
+
+🌐 **[bookly](https://github.com/Salafi-Coders/bookly)** ⭐ 0 – A library management system for managing books and library operations  👍 Open-source, Easy to use
+
+🌐 **[glossary-module](https://github.com/islamic-works/glossary-module)** ⭐ 0 – A glossary module for Islamic terminology  👍 Comprehensive collection of Islamic terms, Interactive and user-friendly interface
 
 📱 **[hisab-islamic-app](https://github.com/mtauhidul/hisab-islamic-app)** ⭐ 0 – A mobile application for keeping track of Islamic accounts  👍 Shariah compliant, Easy to Use
 
 🌐 **[Maktbti-Landing-Page](https://github.com/WalidFekry/Maktbti-Landing-Page)** ⭐ 0 – Maktbti-Landing-Page is a landing page template for a website  👍 Responsive design, Interactive UI
 
-🌐 **[bookly](https://github.com/Salafi-Coders/bookly)** ⭐ 0 – A library management system for managing books and library operations  👍 Open-source, Easy to use
-
-📱 **[daily-hidayah-expo-app](https://github.com/tawsifulalamraiyan/daily-hidayah-expo-app)** ⭐ 0 – A simple daily Hidayah app built with React Native  👍 Features a daily quote and reminder for daily intentions
+🌐 **[Alhasson.com](https://github.com/mostafa-tabrizian/Alhasson.com)** ⭐ 0 – Alhasson.com is a personal website showcasing Mostafa Tabrizian's projects and portfolio.  👍 Personal website with projects and portfolio showcase, Responsive design for all devices
 
 ### Python
 🛠️ **[pyIslam](https://github.com/abougouffa/pyIslam)** ⭐ 108 – Python library for Islamic calculations  👍 Provides functionality for Islamic calendar and prayer times 👍 Easy-to-use API for Islamic calculations
@@ -991,9 +987,9 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 
 🛠️ **[Hamza-Bot-SRC](https://github.com/SiamOfficial/Hamza-Bot-SRC)** ⭐ 3 – A Discord bot written in Java for managing servers and providing fun and utility commands  👍 Feature-rich with various utility and fun commands, Easy to set up and use
 
-🖥️ **[iffa-quotes](https://github.com/BasicPixel/iffa-quotes)** ⭐ 2 – A quotes app with a modern and clean design  👍 User-friendly interface, Dark mode feature
-
 🌐 **[Islam_99_names_of_Allah](https://github.com/hamdyaea/Islam_99_names_of_Allah)** ⭐ 2 – A project that lists the 99 names of Allah in Islam  👍 Provides a list of the 99 names of Allah in Islam, Supports Arabic and English translations
+
+🖥️ **[iffa-quotes](https://github.com/BasicPixel/iffa-quotes)** ⭐ 2 – A quotes app with a modern and clean design  👍 User-friendly interface, Dark mode feature
 
 🌐 **[Fathaker](https://github.com/marawan6569/Fathaker)** ⭐ 2 – Fathaker is a social network where users can connect and share their daily life experiences.  👍 User-friendly interface, Real-time notifications
 
@@ -1001,9 +997,9 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 
 📱 **[app-maso-maye](https://github.com/nikazizi20/app-maso-maye)** ⭐ 0 – WhatsApp grid status saver (and more) using Flutter  👍 Cross-platform (Android & iOS) 👍 Easy to use interface
 
-🖥️ **[chitchat-cli-bot](https://github.com/Rumaisas-islam/chitchat-cli-bot)** ⭐ 0 – A CLI bot for chitchat  👍 Provides a conversational CLI interface for chatting, 🚀 Supports multiple conversational modes
-
 🌐 **[noor-chatbot-user-server](https://github.com/shamspias/noor-chatbot-user-server)** ⭐ 0 – Noor Chatbot User Server is a server application for the Noor Chatbot project.  👍 Real-time chat functionality, user authentication
+
+🖥️ **[chitchat-cli-bot](https://github.com/Rumaisas-islam/chitchat-cli-bot)** ⭐ 0 – A CLI bot for chitchat  👍 Provides a conversational CLI interface for chatting, 🚀 Supports multiple conversational modes
 
 🌐 **[ipadd](https://github.com/m1younis/ipadd)** ⭐ 0 – IP Address lookup tool  👍 Fast and accurate IP address lookup, Secure and private
 
@@ -1020,21 +1016,19 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 
 🌐 **[islamic-wisdom-website](https://github.com/Hifza-Khalid/islamic-wisdom-website)** ⭐ 3 – Islamic Wisdom Website  👍 Collection of Islamic quotes, Hadith, and wisdom 👍 Search functionality for easy navigation
 
-🛠️ **[redditbot](https://github.com/KaitoDoraluxe/redditbot)** ⭐ 1 – A Reddit bot built with Node.js that performs various tasks on Reddit  👍 Customizable tasks and actions, Integration with Reddit API
-
-🌐 **[BA-in-Dawah-and-Islamic-Studies](https://github.com/shakiliitju/BA-in-Dawah-and-Islamic-Studies)** ⭐ 1 – BA in Dawah and Islamic Studies  👍 Comprehensive Islamic studies curriculum, Access to online lectures and resources
-
 🌐 **[unicima](https://github.com/bittypestudio/unicima)** ⭐ 1 – Unicima is a decentralized identity manager built on top of Ceramics' IDX protocol  👍 Decentralized identity manager, Built on top of Ceramics' IDX protocol
 
 🌐 **[lawforms](https://github.com/ExeterDigitalHumanities/lawforms)** ⭐ 1 – Exeter Digital Humanities - LawForms  👍 Open-source platform for the creation and management of legal forms, Supports multi-lingual forms
 
-📱 **[Zikir](https://github.com/talebegithub/Zikir)** ⭐ 0 – Zikir is a simple Android application for counting repeated phrases or words during dhikr.  👍 Easy to use interface, Counting functionality
+🛠️ **[redditbot](https://github.com/KaitoDoraluxe/redditbot)** ⭐ 1 – A Reddit bot built with Node.js that performs various tasks on Reddit  👍 Customizable tasks and actions, Integration with Reddit API
 
-🌐 **[IslamicAppsList](https://github.com/abusayed0206/IslamicAppsList)** ⭐ 0 – A list of Islamic apps for iOS and Android  👍 Curated list of Islamic apps, Covers both iOS and Android platforms
+🌐 **[BA-in-Dawah-and-Islamic-Studies](https://github.com/shakiliitju/BA-in-Dawah-and-Islamic-Studies)** ⭐ 1 – BA in Dawah and Islamic Studies  👍 Comprehensive Islamic studies curriculum, Access to online lectures and resources
+
+📱 **[Zikir](https://github.com/talebegithub/Zikir)** ⭐ 0 – Zikir is a simple Android application for counting repeated phrases or words during dhikr.  👍 Easy to use interface, Counting functionality
 
 🌐 **[Islamic-inheritance-calculator](https://github.com/sahidalamkhan/Islamic-inheritance-calculator)** ⭐ 0 – Islamic inheritance calculator  👍 Enables users to calculate Islamic inheritance shares based on Sharia law rules, Provides accurate and easy-to-use interface for calculating inheritance shares
 
-🌐 **[PlayOuran](https://github.com/Psetso/PlayOuran)** ⭐ 0 – PlayOuran is a web application that allows users to watch anime episodes and movies.  👍 Includes a wide range of anime content, Provides a user-friendly interface
+🌐 **[IslamicAppsList](https://github.com/abusayed0206/IslamicAppsList)** ⭐ 0 – A list of Islamic apps for iOS and Android  👍 Curated list of Islamic apps, Covers both iOS and Android platforms
 
 🖥️ **[single-verse-downloader](https://github.com/islamstatus360/single-verse-downloader)** ⭐ 0 – Single verse downloader for Islam status 360  👍 Allows users to download single verses from Islam status 360, Simple and easy to use
 
@@ -1049,17 +1043,17 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 
 📱 **[Islamify-Mobile-App](https://github.com/rezafatur/Islamify-Mobile-App)** ⭐ 3 – Islamify Mobile App is a mobile application that provides Islamic content and features for users.  👍 Provides Islamic content and features, User-friendly interface
 
-🛠️ **[islamic_toolkit_dart](https://github.com/typ-AhmedSleem/islamic_toolkit_dart)** ⭐ 1 – Islamic Toolkit Dart is a Dart package for Islamic utilities and tools.  👍 Provides Islamic utilities and tools, Written in Dart
+🌐 **[wirdak](https://github.com/mahmoodhamdi/wirdak)** ⭐ 1 – Wirdak is a simple and lightweight library for building Web Components in a declarative and composable way  👍 Declarative and composable way of building Web Components, Lightweight library
 
-📱 **[arkar](https://github.com/mohamedmagdy2301/arkar)** ⭐ 1 – Arkar - A personal diary app built with Flutter framework  👍 Cross-platform Flutter app, Firebase integration
+🛠️ **[islamic_toolkit_dart](https://github.com/typ-AhmedSleem/islamic_toolkit_dart)** ⭐ 1 – Islamic Toolkit Dart is a Dart package for Islamic utilities and tools.  👍 Provides Islamic utilities and tools, Written in Dart
 
 🌐 **[Suji](https://github.com/phanatagama/Suji)** ⭐ 1 – Suji is a web-based system that simplifies the process of maintaining student data for schools and educational institutions.  👍 Easy student data management, Quick access to student information
 
-🌐 **[wirdak](https://github.com/mahmoodhamdi/wirdak)** ⭐ 1 – Wirdak is a simple and lightweight library for building Web Components in a declarative and composable way  👍 Declarative and composable way of building Web Components, Lightweight library
-
-📱 **[islami_app](https://github.com/haithamadam279/islami_app)** ⭐ 0 – An Islamic app for Android  👍 Features prayer times and qibla direction
+📱 **[arkar](https://github.com/mohamedmagdy2301/arkar)** ⭐ 1 – Arkar - A personal diary app built with Flutter framework  👍 Cross-platform Flutter app, Firebase integration
 
 🛠️ **[fem](https://github.com/zioder/fem)** ⭐ 0 – A powerful Front End Manager for web development  👍 Easy to use interface, Quick project setup
+
+📱 **[islami_app](https://github.com/haithamadam279/islami_app)** ⭐ 0 – An Islamic app for Android  👍 Features prayer times and qibla direction
 
 ### CSS
 🌐 **[semakhadis-frontend](https://github.com/semakhadis/semakhadis-frontend)** ⭐ 7 – Personal portfolio website built with React  👍 Responsive design, Dark mode
@@ -1082,24 +1076,24 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 ### PHP
 🌐 **[wordpress-theme-school](https://github.com/geraked/wordpress-theme-school)** ⭐ 3 – GerakED's WordPress Theme School project  👍 Free open-source educational theme, Easy to customize
 
-🌐 **[masjid_almuhajirin-ci-min](https://github.com/sinyorobby/masjid_almuhajirin-ci-min)** ⭐ 0 – A website for Masjid Al-Muhajirin built with CodeIgniter and Materialize CSS  👍 CodeIgniter framework, Materialize CSS
-
 🌐 **[desimonthdatetoday-wp](https://github.com/Sobiaaxix/desimonthdatetoday-wp)** ⭐ 0 – A WordPress plugin that displays the current day, month, and date in various formats on a website.  👍 Provides multiple formats for displaying current day, month, and date information on a WordPress website. Supports customization of the display style.
 
+🌐 **[masjid_almuhajirin-ci-min](https://github.com/sinyorobby/masjid_almuhajirin-ci-min)** ⭐ 0 – A website for Masjid Al-Muhajirin built with CodeIgniter and Materialize CSS  👍 CodeIgniter framework, Materialize CSS
+
 🛠️ **[backend](https://github.com/iqra-page/backend)** ⭐ 0 – Backend for iqra-page project  👍 RESTful API, JWT Authentication
-
-### Vue
-🛠️ **[notes-to-image](https://github.com/ngekoding/notes-to-image)** ⭐ 2 – Render notes to image for social media sharing  👍 Convert notes to image format, Customizable templates
-
-🌐 **[al-hasanah](https://github.com/haikelz/al-hasanah)** ⭐ 1 – Al-Hasanah is a simple app that allows users to keep track of their good deeds and sins.  👍 Helps users keep track of good deeds and sins, Simple and easy to use interface
 
 ### Shell
 🖥️ **[Conky-weather-meteo](https://github.com/hamdyaea/Conky-weather-meteo)** ⭐ 0 – A Conky weather widget for Linux desktops  👍 Customizable weather widget, Real-time weather updates
 
 🛠️ **[dorar-history-encyclopedia](https://github.com/yshalsager/dorar-history-encyclopedia)** ⭐ 0 – A Python script to download Doroob history encyclopedia database in JSON format  👍 Easy way to download Doroob history encyclopedia database, Supports JSON format
 
-### SCSS
-🌐 **[e-sako2024](https://github.com/jumhuur/e-sako2024)** ⭐ 1 – E-SAKO2024 is an online-based election app.  👍 Easy-to-use interface, Real-time voting updates
+### Vue
+🛠️ **[notes-to-image](https://github.com/ngekoding/notes-to-image)** ⭐ 2 – Render notes to image for social media sharing  👍 Convert notes to image format, Customizable templates
+
+🌐 **[al-hasanah](https://github.com/haikelz/al-hasanah)** ⭐ 1 – Al-Hasanah is a simple app that allows users to keep track of their good deeds and sins.  👍 Helps users keep track of good deeds and sins, Simple and easy to use interface
+
+### Astro
+🌐 **[wordislam](https://github.com/andywahyudi/wordislam)** ⭐ 0 – WordIslam is a website that converts words to Arabic text  👍 Translates words to Arabic text, Supports multiple languages
 
 ### Svelte
 🌐 **[waqt-web](https://github.com/arafatamim/waqt-web)** ⭐ 18 – Waqt is a time-based Web Application  👍 Real-time clock, Prayer schedule
@@ -1107,21 +1101,21 @@ Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and
 ### Jupyter Notebook
 🌐 **[Gp-2022-ma3aref-Arabic-QA](https://github.com/Dalia-Mahmoud-ElSayes/Gp-2022-ma3aref-Arabic-QA)** ⭐ 2 – A question answering system for Arabic language  👍 Supports Arabic language 👍 Provides question answering capabilities
 
-### Less
-🌐 **[mediawiki-skins-Islam](https://github.com/muslimwiki/mediawiki-skins-Islam)** ⭐ 2 – Islamic skin for MediaWiki  👍 Supports customization of MediaWiki for Islamic websites, Provides a visually appealing design for Islamic content
-
 ### C#
 🖥️ **[Tarbawi-2.0-quiz-Unity](https://github.com/iqfareez/Tarbawi-2.0-quiz-Unity)** ⭐ 0 – Tarbawi 2.0 Quiz Unity is a quiz game project built with Unity.  👍 Interactive quiz gameplay, Unity game development
 
-### Kotlin
-🌐 **[e-book-](https://github.com/hamza94max/e-book-)** ⭐ 1 – A simple e-book management system  👍 User-friendly interface, Easy navigation
+### C++
+📱 **[Tasbih](https://github.com/MAHMOUDELSAYED7/Tasbih)** ⭐ 3 – Islamic Tasbih app that helps users perform dhikr  👍 Simple and easy to use interface, Saves count of dhikr performed
+
+### Less
+🌐 **[mediawiki-skins-Islam](https://github.com/muslimwiki/mediawiki-skins-Islam)** ⭐ 2 – Islamic skin for MediaWiki  👍 Supports customization of MediaWiki for Islamic websites, Provides a visually appealing design for Islamic content
 
 ### Go
 🌐 **[BelGolang](https://github.com/herbras/BelGolang)** ⭐ 0 – A secure and fast web application for managing bills and expenses  👍 User authentication and authorization, Real-time synchronization of data
 
-### Astro
-🌐 **[wordislam](https://github.com/andywahyudi/wordislam)** ⭐ 0 – WordIslam is a website that converts words to Arabic text  👍 Translates words to Arabic text, Supports multiple languages
+### Kotlin
+🌐 **[e-book-](https://github.com/hamza94max/e-book-)** ⭐ 1 – A simple e-book management system  👍 User-friendly interface, Easy navigation
 
-### C++
-📱 **[Tasbih](https://github.com/MAHMOUDELSAYED7/Tasbih)** ⭐ 3 – Islamic Tasbih app that helps users perform dhikr  👍 Simple and easy to use interface, Saves count of dhikr performed
+### SCSS
+🌐 **[e-sako2024](https://github.com/jumhuur/e-sako2024)** ⭐ 1 – E-SAKO2024 is an online-based election app.  👍 Easy-to-use interface, Real-time voting updates
 

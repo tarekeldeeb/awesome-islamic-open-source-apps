@@ -188,7 +188,7 @@ def fetch_repos_by_topic(topic, max_pages=10):
 
 def do_default():
     """Main workflow: fetch, categorize, and write Markdown output."""
-    # 🧠 Caching layer
+    # 🦠 Caching layer
     if os.path.exists(CACHE_FILE):
         with open(CACHE_FILE, "r", encoding="utf-8") as f:
             cache = json.load(f)
@@ -206,27 +206,29 @@ def do_default():
     for topic in extra_topics:
         links += fetch_repos_by_topic(topic)
 
-    # Step 3: Deduplicate links
-    links = list(set(links))
+    # Step 3: Deduplicate links and normalize
+    links = list(set(link.strip().rstrip("/") for link in links))
 
     # Step 4: Fetch metadata
     projects = []
     for i, link in enumerate(links, 1):
         print(f"🔍 [{i}/{len(links)}] Fetching {link}")
-        if link in cache:
+        normalized_link = link.strip().rstrip("/")
+
+        if normalized_link in cache:
             print("   ⚡ Using cached version")
-            d = cache[link]
+            d = cache[normalized_link]
 
             # Always reclassify using the latest CATEGORIES
             d["category"] = classify_category(d["name"], d["description"])
 
             projects.append(d)
-            cache[link] = d  # Save updated category back to cache
+            cache[normalized_link] = d  # Save updated category back to cache
         else:
-            info = fetch_repo(link)
+            info = fetch_repo(normalized_link)
             if info:
                 projects.append(info)
-                cache[link] = info  # ✅ Add to cache
+                cache[normalized_link] = info  # ✅ Add to cache
 
     # Step 5: Organize by category and language
     tree = defaultdict(lambda: defaultdict(list))
@@ -236,11 +238,7 @@ def do_default():
         for lang in tree[cat]:
             tree[cat][lang].sort(key=lambda x: x["stars"], reverse=True)
         tree[cat] = dict(
-            sorted(
-                tree[cat].items(),
-                key=lambda item: len(
-                    item[1]),
-                reverse=True))
+            sorted(tree[cat].items(), key=lambda item: len(item[1]), reverse=True))
     tree = dict(
         sorted(
             tree.items(),
@@ -282,7 +280,7 @@ def do_default():
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(md)
 
-    # 💾 Save updated cache
+    # Save updated cache
     with open(CACHE_FILE, "w", encoding="utf-8") as f:
         json.dump(cache, f, indent=2, ensure_ascii=False)
 
