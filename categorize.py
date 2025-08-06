@@ -1,7 +1,22 @@
-import requests
+"""
+categorize.py
+
+This script fetches, categorizes, and generates a Markdown summary of open-source 
+Islamic apps from GitHub.
+It pulls project links from a curated README and GitHub topics, retrieves metadata 
+using the GitHub API and OpenAI, classifies projects into categories, and outputs a 
+categorized, sorted list in Markdown format. It also supports proposing new categories
+using GPT based on cached project data.
+
+Usage:
+    python categorize.py
+    python categorize.py --propose-categories
+
+Environment Variables:
+    GITHUB_TOKEN      (optional) GitHub API token for increased rate limits.
+    OPENAI_API_KEY    (required) OpenAI API key for metadata extraction and categorization.
+"""
 import re
-from collections import defaultdict
-from openai import OpenAI
 import json
 import os
 import argparse
@@ -9,6 +24,10 @@ import threading
 import itertools
 import sys
 import time
+
+import requests
+from collections import defaultdict
+from openai import OpenAI
 
 # Fetch secrets from environment
 TOKEN = os.getenv("GITHUB_TOKEN", "")
@@ -34,55 +53,70 @@ CATEGORIES = {
     "Other": ['other', 'misc', 'general', 'various', 'assorted']
 }
 
+
 class Spinner:
+    """A simple terminal spinner for indicating progress."""
     def __init__(self, message="Loading..."):
+        """Initialize the spinner with a message."""    
         self.spinner = itertools.cycle(['|', '/', '-', '\\'])
         self.stop_running = False
         self.message = message
 
     def start(self):
+        """Start the spinner in a separate thread."""
         def run():
             while not self.stop_running:
                 sys.stdout.write(f"\r{self.message} {next(self.spinner)}")
                 sys.stdout.flush()
                 time.sleep(0.1)
-            sys.stdout.write('\r' + ' ' * (len(self.message) + 2) + '\r')  # Clear line
+            sys.stdout.write(
+                '\r' + ' ' * (len(self.message) + 2) + '\r')  # Clear line
 
         self.thread = threading.Thread(target=run)
         self.thread.start()
 
     def stop(self):
+        """Stop the spinner."""
         self.stop_running = True
         self.thread.join()
 
+
 def get_project_info(url):
+    """Fetch project metadata from OpenAI for a given URL."""
     functions = [
-      {
-        "name": "parse_link",
-        "description": "Parse a URL and extract structured metadata. The required description field is a single line description of this project with no '*' allowed. The top2 field is a single line with '👍' as a bullet symbol to describes the top 2 differentiators, the top 2 features and/or edges. The deployement is one of: (🌐, 🖥️, 📱, 📺, 🛠️) for Web, Desktop, Mobile, TV, others ",
-        "parameters": {
-          "type": "object",
-          "properties": {
-            "description": {"type": "string"},
-            "top2": {"type": "string"},
-            "deployment": {"type": "string"}
-          },
-          "required": ["description", "deployment", "top2"]
-        }
-      }
-    ]
+        {
+            "name": "parse_link",
+            "description": "Parse a URL and extract structured metadata. The required description"
+            "field is a single line description of this project with no '*' allowed. The top2 field"
+            "is a single line with '👍' as a bullet symbol to describes the top 2 differentiators, "
+            "the top 2 features and/or edges. The deployement is one of: (🌐, 🖥️, 📱, 📺, 🛠️) for Web,"
+            "Desktop, Mobile, TV, others ",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "description": {
+                        "type": "string"},
+                    "top2": {
+                        "type": "string"},
+                    "deployment": {
+                        "type": "string"}},
+                "required": [
+                    "description",
+                    "deployment",
+                    "top2"]}}]
     client = OpenAI(api_key=OPENAI_KEY)
     response = client.chat.completions.create(
-      model="gpt-3.5-turbo",
-      messages=[
-        {"role": "system", "content": "You parse links."},
-        {"role": "user", "content": f"Parse {url}"}
-      ],
-      functions=functions,
-      function_call={"name": "parse_link"}
+        model="gpt-3.5-turbo",
+        messages=[
+            {"role": "system", "content": "You parse links."},
+            {"role": "user", "content": f"Parse {url}"}
+        ],
+        functions=functions,
+        function_call={"name": "parse_link"}
     )
     func_args = response.choices[0].message.function_call.arguments
     return json.loads(func_args)
+
 
 def classify_category(name, description):
     if not description:
@@ -94,7 +128,9 @@ def classify_category(name, description):
     print(f"❌ Cannot classify {name}: {description}")
     return "Other"
 
+
 def fetch_repo(url):
+    """Fetch repository metadata from GitHub and OpenAI."""
     m = re.match(r"https://github.com/([^/]+)/([^/]+)", url)
     if not m:
         return None
@@ -108,24 +144,35 @@ def fetch_repo(url):
             "name": d["name"],
             "html_url": d["html_url"],
             "description": gpt_meta.get("description") or d.get("description") or "",
-            "stars": d.get("stargazers_count", 0),
+            "stars": d.get(
+                "stargazers_count",
+                0),
             "language": d.get("language") or "Unknown",
-            "category": classify_category(d["name"], d.get("description")),
-            "deployment": gpt_meta.get("deployment", ""),
-            "top2": gpt_meta.get("top2", "")
-        }
+            "category": classify_category(
+                d["name"],
+                d.get("description")),
+            "deployment": gpt_meta.get(
+                "deployment",
+                ""),
+            "top2": gpt_meta.get(
+                "top2",
+                "")}
     else:
         print(f"❌ Skipping {url} ({r.status_code})")
         return None
 
+
 def fetch_repos_by_topic(topic, max_pages=10):
+    """Fetch repository links from GitHub by topic."""
     print(f"🔍 Fetching topic: {topic}")
     all_links = []
     for page in range(1, max_pages + 1):
         url = f"https://api.github.com/search/repositories?q=topic:{topic}&sort=stars&order=desc&page={page}&per_page=100"
         r = requests.get(url, headers=HEADERS)
         if r.status_code != 200:
-            print(f"⚠️ GitHub API error for topic '{topic}' on page {page}: {r.status_code}")
+            print(
+                f"⚠️ GitHub API error for topic '{topic}' on page {page}: {
+                    r.status_code}")
             break
         data = r.json()
         items = data.get("items", [])
@@ -137,7 +184,9 @@ def fetch_repos_by_topic(topic, max_pages=10):
                 all_links.append(html_url)
     return all_links
 
+
 def do_default():
+    """Main workflow: fetch, categorize, and write Markdown output."""
     # 🧠 Caching layer
     if os.path.exists(CACHE_FILE):
         with open(CACHE_FILE, "r", encoding="utf-8") as f:
@@ -158,7 +207,7 @@ def do_default():
 
     # Step 3: Deduplicate links
     links = list(set(links))
-            
+
     # Step 4: Fetch metadata
     projects = []
     for i, link in enumerate(links, 1):
@@ -177,7 +226,7 @@ def do_default():
             if info:
                 projects.append(info)
                 cache[link] = info  # ✅ Add to cache
-            
+
     # Step 5: Organize by category and language
     tree = defaultdict(lambda: defaultdict(list))
     for p in projects:
@@ -185,30 +234,50 @@ def do_default():
     for cat in tree:
         for lang in tree[cat]:
             tree[cat][lang].sort(key=lambda x: x["stars"], reverse=True)
-        tree[cat] = dict(sorted(tree[cat].items(), key=lambda item: len(item[1]), reverse=True))
+        tree[cat] = dict(
+            sorted(
+                tree[cat].items(),
+                key=lambda item: len(
+                    item[1]),
+                reverse=True))
     tree = dict(
         sorted(
             tree.items(),
             key=lambda item: (
-                float('inf') if item[0].lower() == "other" else -sum(len(lst) for lst in item[1].values())
+                float('inf') if item[0].lower() == "other"
+                else -sum(len(lst) for lst in item[1].values())
             )
         )
     )
-    
+
     # Step 6: Write Markdown
-    md = "# 📚 Open Source Islamic Projects\n\nAuto-Categorized, then sorted by ⭐s.\n\nSource: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and other Github lists.\n\n## Table of Contents\n\n"
+    md = """# 📚 Awesome Islamic Open-source Apps\n\n
+    Auto-Categorized, then sorted by ⭐s.\n\nSource: from 
+    [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) 
+    and other Github lists.\n\n## Table of Contents\n\n"""
     for category in tree:
         anchor = category.lower().replace(" ", "-")
         md += f"- [{category}](#{anchor})\n"
     md += "\n"
     for category, langs in tree.items():
         total = sum(len(items) for items in langs.values())
-        md += f"<a name='{category.lower().replace(" ", "-")}'></a>\n## {category} ({total} projects)\n"
+        md += f"<a name='{category.lower().replace(" ",
+                                                   "-")}'></a>\n## {category} ({total} projects)\n"
         for lang, repos in langs.items():
             md += f"### {lang}\n"
             for r in repos:
-                top2 = re.sub(r"\\b(1\\.|2\\.|\\*)", "👍", r["top2"]).replace("\n", " ")
-                md += f"{r['deployment']} **[{r['name']}]({r['html_url']})** ⭐ {r['stars']} – {r['description']}  {top2}\n\n"
+                top2 = re.sub(
+                    r"\\b(1\\.|2\\.|\\*)",
+                    "👍",
+                    r["top2"]).replace(
+                    "\n",
+                    " ")
+                md += f"{
+                    r['deployment']} **[{
+                    r['name']}]({
+                    r['html_url']})** ⭐ {
+                    r['stars']} – {
+                    r['description']}  {top2}\n\n"
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(md)
@@ -219,7 +288,9 @@ def do_default():
 
     print(f"✅ Done! Projects found: {len(projects)} → Saved to {OUTPUT_FILE}")
 
+
 def propose_categories_from_cache():
+    """Propose new categories using GPT based on cached project data."""
     if not os.path.exists(CACHE_FILE):
         print("❌ Cache file not found.")
         return
@@ -229,7 +300,7 @@ def propose_categories_from_cache():
 
     spinner = Spinner("🧠 Categorizing projects with GPT...")
     spinner.start()
-    
+
     try:
         # Format: name: description
         items = [
@@ -242,22 +313,29 @@ def propose_categories_from_cache():
             {
                 "role": "system",
                 "content": (
-                    "You are an expert product categorizer for open-source Islamic software. "
-                    "Your task is to output two sections:\n\n"
-                    "1. A concise list of **exactly 10 categories** (9 + 'Other'), each with a name and 3–5 example project names from the list below.\n\n"
+                    "You are an expert product categorizer for open-source Islamic "
+                    "software. Your task is to output two sections:\n\n"
+                    "1. A concise list of **exactly 10 categories** (9 + 'Other'), each "
+                    "with a name and 3–5 example project names from the list below.\n\n"
                     "2. A valid Python dictionary named `CATEGORIES = { ... }` where:\n"
                     "   - Each key is one of the category names.\n"
-                    "   - Each value is a list of **unique keywords** for classification (e.g., ['quran', 'mushaf']).\n"
-                    "   - **No keyword may appear in more than one category.** All keywords must be lowercase.\n"
-                    "   - Keywords should be generalizable triggers found in project names or descriptions.\n\n"
-                    "⚠️ Do not reuse the same keyword in more than one category. The dictionary will be used for strict matching."
+                    "   - Each value is a list of **unique keywords** for classification "
+                    "(e.g., ['quran', 'mushaf']).\n"
+                    "   - **No keyword may appear in more than one category.** All "
+                    "keywords must be lowercase.\n"
+                    "   - Keywords should be generalizable triggers found in project "
+                    "names or descriptions.\n\n"
+                    "⚠️ Do not reuse the same keyword in more than one category. The "
+                    "dictionary will be used for strict matching."
                 )
             },
             {
                 "role": "user",
                 "content": (
-                    f"The following is a list of Islamic open source projects with their names and descriptions:\n\n{joined}\n\n"
-                    "Please propose categories and generate the CATEGORIES dictionary as described above."
+                    f"The following is a list of Islamic open source projects with their "
+                    "names and descriptions:\n\n{joined}\n\n"
+                    "Please propose categories and generate the CATEGORIES dictionary as"
+                    " described above."
                 )
             },
         ]
@@ -271,16 +349,20 @@ def propose_categories_from_cache():
 
     print("🧠 Proposed Categories:\n")
     print(response.choices[0].message.content)
-    
+
+
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Awesome Islamic Open-source Apps -- Fetch and Catogorize")
-    parser.add_argument("--propose-categories", action="store_true", help="Analyze cache and propose 9 categories + Other")
+    parser = argparse.ArgumentParser(
+        description="Awesome Islamic Open-source Apps -- Fetch and Catogorize")
+    parser.add_argument(
+        "--propose-categories",
+        action="store_true",
+        help="Analyze cache and propose 9 categories + Other")
 
     args = parser.parse_args()
     print(f"{parser.description}\n")
-    
+
     if args.propose_categories:
         propose_categories_from_cache()
     else:
-        do_default() # Fetch, categorize, update cache.
-
+        do_default()  # Fetch, categorize, update cache.
