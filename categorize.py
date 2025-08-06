@@ -166,8 +166,12 @@ def do_default():
         if link in cache:
             print("   ⚡ Using cached version")
             d = cache[link]
-            d["category"]: classify_category(d["name"], d["description"])
+
+            # Always reclassify using the latest CATEGORIES
+            d["category"] = classify_category(d["name"], d["description"])
+
             projects.append(d)
+            cache[link] = d  # Save updated category back to cache
         else:
             info = fetch_repo(link)
             if info:
