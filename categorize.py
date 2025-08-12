@@ -298,9 +298,7 @@ def do_default():
     )
 
     # Step 6: Write Markdown
-    md = textwrap.dedent("# 📚 Awesome Islamic Open-source Apps\n\nAuto-Categorized, then sorted by ⭐s.\n\n"
-    "Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and other Github lists."
-    "\n\n## Table of Contents\n")
+    md = textwrap.dedent("# 📚 Awesome Islamic Open-source Apps\n\nAuto-Categorized, then sorted by ⭐s.\n\n## Table of Contents\n")
 
     for category, langs in tree.items():
         total = sum(len(items) for items in langs.values())
