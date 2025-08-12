@@ -54,6 +54,46 @@ CATEGORIES = {
     "Other": ['other', 'misc', 'general', 'various', 'assorted']
 }
 
+def _canon_repo_key(url: str, fallback_name: str = "", fallback_owner: str = "") -> str:
+    """Canonical key for a GitHub repo URL."""
+    if not url:
+        return f"{fallback_owner.strip().lower()}/{fallback_name.strip().lower()}".strip("/")
+
+    u = url.strip().lower().rstrip("/")
+    # Normalize common GitHub URL noise
+    u = re.sub(r"\.git$", "", u)
+    # Reduce to owner/repo if possible
+    m = re.match(r"https?://github\.com/([^/]+)/([^/]+)", u)
+    if m:
+        return f"{m.group(1)}/{m.group(2)}"
+    return u
+
+def dedup_by_repo_url(projects):
+    """Deduplicate project dicts by canonical GitHub owner/repo; merge fields sensibly."""
+    seen = {}
+    for p in projects:
+        key = _canon_repo_key(p.get("html_url", ""), p.get("name",""), (p.get("owner") or ""))
+        if key not in seen:
+            seen[key] = p
+        else:
+            q = seen[key]
+            # keep highest stars
+            q["stars"] = max(q.get("stars", 0), p.get("stars", 0))
+            # prefer longer non-empty description
+            if (p.get("description") or "") and len(p["description"]) > len(q.get("description") or ""):
+                q["description"] = p["description"]
+            # prefer non-empty deployment/top2
+            if p.get("deployment"):
+                q["deployment"] = p["deployment"]
+            if p.get("top2"):
+                q["top2"] = p["top2"]
+            # keep the more specific category if 'Other' vs non-Other
+            if q.get("category","Other") == "Other" and p.get("category") and p["category"] != "Other":
+                q["category"] = p["category"]
+            # prefer known language over Unknown
+            if q.get("language") in (None, "", "Unknown") and p.get("language") not in (None, "", "Unknown"):
+                q["language"] = p["language"]
+    return list(seen.values())
 
 class Spinner:
     """A simple terminal spinner for indicating progress."""
@@ -191,7 +231,14 @@ def do_default():
     # 🦠 Caching layer
     if os.path.exists(CACHE_FILE):
         with open(CACHE_FILE, "r", encoding="utf-8") as f:
-            cache = json.load(f)
+            raw = json.load(f)
+        # collapse any legacy keys (e.g., trailing slashes / mixed case)
+        cache = {}
+        for k, v in raw.items():
+            key = _canon_repo_key(k, v.get("name",""))
+            # first write wins; you could also merge here if you want
+            if key not in cache:
+                cache[key] = v
     else:
         cache = {}
 
@@ -214,21 +261,22 @@ def do_default():
     for i, link in enumerate(links, 1):
         print(f"🔍 [{i}/{len(links)}] Fetching {link}")
         normalized_link = link.strip().rstrip("/")
+        canon_key = _canon_repo_key(normalized_link)
 
-        if normalized_link in cache:
+        if canon_key in cache:
             print("   ⚡ Using cached version")
-            d = cache[normalized_link]
-
+            d = cache[canon_key]
             # Always reclassify using the latest CATEGORIES
             d["category"] = classify_category(d["name"], d["description"])
-
             projects.append(d)
-            cache[normalized_link] = d  # Save updated category back to cache
+            cache[canon_key] = d  # save back (category may have changed)
         else:
             info = fetch_repo(normalized_link)
             if info:
                 projects.append(info)
-                cache[normalized_link] = info  # ✅ Add to cache
+                cache[canon_key] = info  # ✅ cache under canonical key
+    # ✅ Final guard: ensure no duplicates make it to rendering
+    projects = dedup_by_repo_url(projects)
 
     # Step 5: Organize by category and language
     tree = defaultdict(lambda: defaultdict(list))
@@ -253,10 +301,14 @@ def do_default():
     md = textwrap.dedent("# 📚 Awesome Islamic Open-source Apps\n\nAuto-Categorized, then sorted by ⭐s.\n\n"
     "Source: from [Awesome-Muslims](https://github.com/choubari/Awesome-Muslims/) and other Github lists."
     "\n\n## Table of Contents\n")
-    for category in tree:
+
+    for category, langs in tree.items():
+        total = sum(len(items) for items in langs.values())
         anchor = category.lower().replace(" ", "-")
-        md += f"- [{category}](#{anchor})\n"
+        md += f"- [{category} ({total})](#{anchor})\n"
+
     md += "\n"
+
     for category, langs in tree.items():
         total = sum(len(items) for items in langs.values())
         md += f"<a name='{category.lower().replace(" ",
