@@ -889,7 +889,7 @@ Auto-Categorized, then sorted by ⭐s.
 
 🖥️ **[Islamic-WhatsApp-Bot](https://github.com/midsoune/Islamic-WhatsApp-Bot)** ⭐ 8 – Islamic WhatsApp Bot for providing Islamic information through WhatsApp messages  👍 Provides Islamic information through WhatsApp messages, Has automated response feature
 
-🛠️ **[PlayOuran](https://github.com/yani2298/PlayOuran)** ⭐ 8 – A Python script to automatically download your favorite anime from 4anime.to  👍 Automates anime downloading process, Supports downloading from 4anime.to
+🛠️ **[PlayOuran](https://github.com/yani2298/PlayOuran)** ⭐ 8 – Modern Quran reading app with prayer times, hadith, and Islamic utilities for desktop. Cross-platform Islamic software for Muslims worldwide
 
 🖥️ **[Arabiyy-keyboard](https://github.com/O1Anas/Arabiyy-keyboard)** ⭐ 6 – An Arabic virtual keyboard for typing Arabic easily on any device  👍 Easy Arabic typing, Customizable keyboard layout
 
