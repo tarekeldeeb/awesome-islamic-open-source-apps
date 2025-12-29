@@ -35,10 +35,11 @@ TOKEN = os.getenv("GITHUB_TOKEN", "")
 OPENAI_KEY = os.getenv("OPENAI_API_KEY", "")
 HEADERS = {"Authorization": f"token {TOKEN}"} if TOKEN else {}
 
-extra_topics = ["muslim-app", "islamic", "islamic-app"]
+extra_topics = ["quran", "muslim-app", "islamic", "islamic-app"]
 README_URL = "https://raw.githubusercontent.com/choubari/Awesome-Muslims/master/README.md"
 OUTPUT_FILE = "README.md"
 CACHE_FILE = "repo_cache.json"
+MIN_STARS = 2
 
 
 CATEGORIES = {
@@ -278,7 +279,8 @@ def do_default():
     # ✅ Final guard: ensure no duplicates make it to rendering
     projects = dedup_by_repo_url(projects)
 
-    # Step 5: Organize by category and language
+    # Step 5: Filter low-star repos and organize by category/language
+    projects = [p for p in projects if p.get("stars", 0) >= MIN_STARS]
     tree = defaultdict(lambda: defaultdict(list))
     for p in projects:
         tree[p["category"]][p["language"]].append(p)
