@@ -1335,7 +1335,7 @@ Auto-Categorized, then sorted by ⭐s.
 
 🖥️ **[Islamic-WhatsApp-Bot](https://github.com/midsoune/Islamic-WhatsApp-Bot)** ⭐ 8 – Islamic WhatsApp Bot for providing Islamic information through WhatsApp messages  👍 Provides Islamic information through WhatsApp messages, Has automated response feature
 
-🛠️ **[PlayOuran](https://github.com/yani2298/PlayOuran)** ⭐ 8 – A Python script to automatically download your favorite anime from 4anime.to  👍 Automates anime downloading process, Supports downloading from 4anime.to
+🛠️ **[PlayOuran](https://github.com/yani2298/PlayOuran)** ⭐ 8 – Modern Quran reading app with prayer times, hadith, and Islamic utilities for desktop. Cross-platform Islamic software for Muslims worldwide
 
 🌐 **[Spiritify](https://github.com/m2ncef/Spiritify)** ⭐ 6 – Spiritify is a web application that allows users to create and share inspirational quote images.  👍 Allows users to create custom inspirational quote images,Provides a platform to share the created images with others
 
