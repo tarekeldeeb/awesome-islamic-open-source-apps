@@ -1272,6 +1272,8 @@ Auto-Categorized, then sorted by ⭐s.
 
 📱 **[islamic-study](https://github.com/Ramishscrapper/islamic-study)** ⭐ 4 – Islamic Study App for iOS and Android  👍 Quranic Duas and Hadiths, Prayer Timings and Qibla Direction
 
+🌐 **[TilawaNow](https://github.com/risvandev/TilawaNow)** ⭐ 0 – Open-source Qur’an platform for reading, listening, and understanding with AI-assisted explanations, word-level pronunciation, and progress tracking 👍 AI-powered explanations, Word-level audio, Progress tracking
+
 ### Jupyter Notebook
 🌐 **[Huruf](https://github.com/keremkoseoglu/Huruf)** ⭐ 2 – Huruf is an open-source project for learning Turkish alphabet through games and exercises.  👍 Gamified learning experience, Interactive exercises
 
