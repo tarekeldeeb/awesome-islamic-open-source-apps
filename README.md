@@ -9,7 +9,7 @@ Auto-Categorized, then sorted by ⭐s.
 - [Hadith Collection and Study (21)](#hadith-collection-and-study)
 - [Hadith Search and API (20)](#hadith-search-and-api)
 - [Islamic Events and Reminders (19)](#islamic-events-and-reminders)
-- [Quranic Learning and Study Tools (8)](#quranic-learning-and-study-tools)
+- [Quranic Learning and Study Tools (9)](#quranic-learning-and-study-tools)
 - [Qibla Direction and Finder (4)](#qibla-direction-and-finder)
 - [Dua Collection and Reminders (4)](#dua-collection-and-reminders)
 - [Other (122)](#other)
