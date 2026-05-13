@@ -4,7 +4,7 @@ Auto-Categorized, then sorted by ⭐s.
 
 ## Table of Contents
 - [Quranic Text and Reading (386)](#quranic-text-and-reading)
-- [Prayer Times Calculation and Display (73)](#prayer-times-calculation-and-display)
+- [Prayer Times Calculation and Display (74)](#prayer-times-calculation-and-display)
 - [Islamic Resources and Community (52)](#islamic-resources-and-community)
 - [Hadith Collection and Study (21)](#hadith-collection-and-study)
 - [Hadith Search and API (20)](#hadith-search-and-api)
@@ -821,7 +821,7 @@ Auto-Categorized, then sorted by ⭐s.
 🌐 **[qurani](https://github.com/baaziznasser/qurani)** ⭐ 10 – An open-source project for exploring the Quran with advanced search features  👍 Advanced search capabilities, Easy-to-use interface
 
 <a name='prayer-times-calculation-and-display'></a>
-## Prayer Times Calculation and Display (73 projects)
+## Prayer Times Calculation and Display (74 projects)
 ### TypeScript
 🛠️ **[adhan-js](https://github.com/batoulapps/adhan-js)** ⭐ 446 – Prayer times library for JavaScript with hijri and gregorian dates support  👍 Calculates prayer times accurately, Supports hijri and gregorian dates
 
@@ -904,6 +904,8 @@ Auto-Categorized, then sorted by ⭐s.
 📱 **[AthanApp](https://github.com/HamzaAlsarakbi/AthanApp)** ⭐ 2 – AthanApp is a mobile application for Islamic prayer times and Qibla direction.  👍 Provides accurate prayer times 👍 Shows Qibla direction
 
 🌐 **[namaz-vakti-site](https://github.com/sanalzio/namaz-vakti-site)** ⭐ 2 – Namaz Vakti Site is a website for displaying prayer times in Turkey  👍 Provides accurate prayer times for Turkey, 📱 Mobile-friendly design for easy access
+
+🌐 **[Takbeer Time](https://takbeertime.com/)** – Free, open-source, non-profit app to find nearby masjids with crowdsourced Jumma, khutbah, iqamah, and jamat times. [Android](https://play.google.com/store/apps/details?id=com.takbeertime.android) · [Source](https://github.com/mjqazi/Jamat)
 
 ### Java
 🌐 **[PrayerTimes](https://github.com/HouariZegai/PrayerTimes)** ⭐ 182 – Islamic prayer times calculator  👍 Calculates accurate prayer times based on location and method
