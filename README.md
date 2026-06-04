@@ -9,7 +9,7 @@ Auto-Categorized, then sorted by ⭐s.
 - [Hadith Collection and Study (21)](#hadith-collection-and-study)
 - [Hadith Search and API (20)](#hadith-search-and-api)
 - [Islamic Events and Reminders (19)](#islamic-events-and-reminders)
-- [Quranic Learning and Study Tools (8)](#quranic-learning-and-study-tools)
+- [Quranic Learning and Study Tools (9)](#quranic-learning-and-study-tools)
 - [Qibla Direction and Finder (4)](#qibla-direction-and-finder)
 - [Dua Collection and Reminders (4)](#dua-collection-and-reminders)
 - [Other (122)](#other)
@@ -1271,6 +1271,8 @@ Auto-Categorized, then sorted by ⭐s.
 🌐 **[ilm](https://github.com/khansultan1/ilm)** ⭐ 4 – A tool for managing Islamic learning materials  👍 Open source, Community-driven
 
 📱 **[islamic-study](https://github.com/Ramishscrapper/islamic-study)** ⭐ 4 – Islamic Study App for iOS and Android  👍 Quranic Duas and Hadiths, Prayer Timings and Qibla Direction
+
+🌐 **[TilawaNow](https://github.com/risvandev/TilawaNow)** ⭐ 0 – Open-source Qur’an platform for reading and listening with word-level translation and pronunciation, plus a separate AI chat for deeper understanding and progress tracking 👍 Word-level audio, Translation support, AI chat assistant, Progress tracking
 
 ### Jupyter Notebook
 🌐 **[Huruf](https://github.com/keremkoseoglu/Huruf)** ⭐ 2 – Huruf is an open-source project for learning Turkish alphabet through games and exercises.  👍 Gamified learning experience, Interactive exercises
