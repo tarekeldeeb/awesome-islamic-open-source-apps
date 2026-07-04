@@ -359,6 +359,8 @@ Auto-Categorized, then sorted by ⭐s.
 
 🌐 **[Quran-speech-to-text](https://github.com/Khodaprst/Quran-speech-to-text)** ⭐ 2 – Quran Speech to Text  👍 Converts Quranic speech to text, Supports different languages
 
+🛠️ **[quranchecksum](https://github.com/spqrxi/quranchecksum)** ⭐ 0 – Verse-level SHA-256 integrity manifest for the Uthmani Quran text  👍 Lets any app verify its Quran text is byte-exact against the canonical text, Includes generate and verify scripts
+
 ### Dart
 📱 **[the-holy-quran-app](https://github.com/mhmzdev/the-holy-quran-app)** ⭐ 852 – The Holy Quran App is a mobile application for reading and listening to the Quran.  👍 Provides both reading and listening features, User-friendly interface
 
