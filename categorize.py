@@ -39,7 +39,7 @@ extra_topics = ["quran", "muslim-app", "islamic", "islamic-app"]
 README_URL = "https://raw.githubusercontent.com/choubari/Awesome-Muslims/master/README.md"
 OUTPUT_FILE = "README.md"
 CACHE_FILE = "repo_cache.json"
-MIN_STARS = 2
+MIN_STARS = 10
 
 
 CATEGORIES = {
