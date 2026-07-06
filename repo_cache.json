@@ -13678,5 +13678,4495 @@
     "category": "Quranic Text and Reading",
     "deployment": "📱",
     "top2": "👍 Multilanguage support, Offline mode"
+  },
+  "salaamalykum/salaamalykum.github.io": {
+    "name": "salaamalykum.github.io",
+    "html_url": "https://github.com/salaamalykum/salaamalykum.github.io",
+    "description": "My personal website repo",
+    "stars": 0,
+    "language": "HTML",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🌐",
+    "top2": "👍 static site generator, responsive design"
+  },
+  "darkmaster0345/haramveil": {
+    "name": "HaramVeil",
+    "html_url": "https://github.com/darkmaster0345/HaramVeil",
+    "description": "HaramVeil is a customizable and feature-rich Discord bot with moderation and utility commands.",
+    "stars": 1,
+    "language": "Kotlin",
+    "category": "Other",
+    "deployment": "🛠️",
+    "top2": "👍 Customizable features, moderation commands"
+  },
+  "mubeenkhan246/al-quran-flutter-app": {
+    "name": "al-quran-flutter-app",
+    "html_url": "https://github.com/mubeenkhan246/al-quran-flutter-app",
+    "description": "Al Quran Flutter App",
+    "stars": 1,
+    "language": "Dart",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Provides full access to the Quran, Allows users to bookmark verses"
+  },
+  "alfirda0us/noonstudio": {
+    "name": "noonstudio",
+    "html_url": "https://github.com/alfirda0us/noonstudio",
+    "description": "Alfirdauss is a portfolio website showcasing design projects",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Islamic Resources and Community",
+    "deployment": "🌐",
+    "top2": "👍 Interactive portfolio showcase, Responsive design"
+  },
+  "firman-maulana/brightummah": {
+    "name": "brightummah",
+    "html_url": "https://github.com/firman-maulana/brightummah",
+    "description": "Brightummah is a simple, modern, and responsive UI template for web applications.",
+    "stars": 1,
+    "language": "Blade",
+    "category": "Quranic Learning and Study Tools",
+    "deployment": "🌐",
+    "top2": "👍 Responsive design, Modern look"
+  },
+  "redwan-123/nextgen-quran-hifdh-app": {
+    "name": "NextGen-Quran-Hifdh-app",
+    "html_url": "https://github.com/Redwan-123/NextGen-Quran-Hifdh-app",
+    "description": "NextGen Quran Hifdh App",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Quran memorization support, User-friendly interface"
+  },
+  "shantodotdev/quran0": {
+    "name": "quran0",
+    "html_url": "https://github.com/Shantodotdev/quran0",
+    "description": "Quran0 is a web application for reading and listening to the Quran.",
+    "stars": 5,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 User-friendly interface, Audio recitations available"
+  },
+  "aziz1media/muhammad-siddiq-al-minshawi-new-murattal-verse-by-verse-audio": {
+    "name": "Muhammad-Siddiq-Al-Minshawi-New-Murattal-Verse-by-Verse-Audio",
+    "html_url": "https://github.com/aziz1media/Muhammad-Siddiq-Al-Minshawi-New-Murattal-Verse-by-Verse-Audio",
+    "description": "A GitHub repository for the audio recitation of Quran by Muhammad Siddiq Al-Minshawi with verse-by-verse audio",
+    "stars": 1,
+    "language": "Unknown",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Authentic recitation by a renowned Qari, Verse-by-verse audio playback"
+  },
+  "simplysabir/sujood": {
+    "name": "sujood",
+    "html_url": "https://github.com/simplysabir/sujood",
+    "description": "A tool to remind you to make sujood",
+    "stars": 7,
+    "language": "Rust",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Helps you remember to make sujood during your day\n👍 Customizable reminders and notifications"
+  },
+  "siddiqmsf/waqt": {
+    "name": "Waqt",
+    "html_url": "https://github.com/SiddiqMSF/Waqt",
+    "description": "A simple clock application",
+    "stars": 0,
+    "language": "HTML",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🌐",
+    "top2": "👍 Minimalistic design, Real-time clock"
+  },
+  "luiz-trindade/quran_pt_br_ntlh_json": {
+    "name": "quran_pt_br_ntlh_json",
+    "html_url": "https://github.com/Luiz-Trindade/quran_pt_br_ntlh_json",
+    "description": "Quran Portuguese Translation project",
+    "stars": 1,
+    "language": "Python",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides Portuguese translation of the Quran, Contains multiple versions of the translation"
+  },
+  "iamaanahmad/zakereen-extension": {
+    "name": "zakereen-extension",
+    "html_url": "https://github.com/iamaanahmad/zakereen-extension",
+    "description": "A chrome extension for Zakereen",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🌐",
+    "top2": "👍 Provides daily prayers and supplications notifications, Includes Quranic verses for meditation"
+  },
+  "muhammadmudassarkhan786/noor-ai---an-islamic-stories-app": {
+    "name": "Noor-AI---An-islamic-stories-app",
+    "html_url": "https://github.com/MuhammadMudassarKhan786/Noor-AI---An-islamic-stories-app",
+    "description": "An Islamic stories app",
+    "stars": 1,
+    "language": "TypeScript",
+    "category": "Other",
+    "deployment": "📱",
+    "top2": "👍 Provides a collection of Islamic stories, Allows users to read and share stories"
+  },
+  "3elegant/purefacebook": {
+    "name": "PureFacebook",
+    "html_url": "https://github.com/3elegant/PureFacebook",
+    "description": "A simple and clean Facebook client for Android",
+    "stars": 1,
+    "language": "Kotlin",
+    "category": "Islamic Events and Reminders",
+    "deployment": "📱",
+    "top2": "👍 Lightweight, minimalist design\n👍 Fast and efficient performance"
+  },
+  "mianhassam96/waqtx": {
+    "name": "WaqtX",
+    "html_url": "https://github.com/Mianhassam96/WaqtX",
+    "description": "A time management application",
+    "stars": 23,
+    "language": "JavaScript",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Task tracking and scheduling, Cross-platform support"
+  },
+  "slaveofgod1/sabbeh": {
+    "name": "Sabbeh",
+    "html_url": "https://github.com/SlaveOfGod1/Sabbeh",
+    "description": "A command line tool to generate random executable code that gives back a parameter",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Other",
+    "deployment": "🛠️",
+    "top2": "👍 Generates random executable code, Gives back a parameter"
+  },
+  "quranfi-project/quranfi-web": {
+    "name": "quranfi-web",
+    "html_url": "https://github.com/Quranfi-Project/quranfi-web",
+    "description": "Quranfi Web is a web application for reading and studying the Quran online.",
+    "stars": 2,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides interactive Quran reading experience, Offers study tools for deeper understanding"
+  },
+  "safvan96/islamic-companion-app": {
+    "name": "islamic-companion-app",
+    "html_url": "https://github.com/safvan96/islamic-companion-app",
+    "description": "Islamic Companion App",
+    "stars": 3,
+    "language": "Dart",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Provides daily prayers time updates\n👍 Includes Islamic calendar and Qibla direction"
+  },
+  "yasser-27/quran-offline-pc": {
+    "name": "Quran-Offline-Pc",
+    "html_url": "https://github.com/YASSER-27/Quran-Offline-Pc",
+    "description": "Quran Offline is a desktop application for reading the Quran offline.",
+    "stars": 1,
+    "language": "Python",
+    "category": "Quranic Text and Reading",
+    "deployment": "🖥️",
+    "top2": "👍 Provides offline access to the Quran, User-friendly interface"
+  },
+  "shohanur-abc/quranmazid-frontend": {
+    "name": "quranmazid-frontend",
+    "html_url": "https://github.com/shohanur-abc/quranmazid-frontend",
+    "description": "Quran Mazid Frontend is a web application for reading the Quran.",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Provides a user-friendly interface, Offers search functionality"
+  },
+  "mohamedmenasy/quran-app-kmp": {
+    "name": "Quran-App-KMP",
+    "html_url": "https://github.com/mohamedmenasy/Quran-App-KMP",
+    "description": "A Quran mobile app built using Kotlin Multiplatform (KMP).",
+    "stars": 0,
+    "language": "Kotlin",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Cross-platform compatibility, Offline support"
+  },
+  "goodm4ven/native_tall_muttasiq-dot-com": {
+    "name": "NATIVE_TALL_muttasiq-dot-com",
+    "html_url": "https://github.com/GoodM4ven/NATIVE_TALL_muttasiq-dot-com",
+    "description": "NATIVE_TALL_muttasiq-dot-com",
+    "stars": 14,
+    "language": "JavaScript",
+    "category": "Other",
+    "deployment": "🖥️",
+    "top2": "👍 Native app development, Tailwind CSS"
+  },
+  "muhammadsulaimanabdulsalamrab-ctrl/an-nur": {
+    "name": "An-Nur",
+    "html_url": "https://github.com/muhammadsulaimanabdulsalamrab-ctrl/An-Nur",
+    "description": "An-Nur project repository",
+    "stars": 2,
+    "language": "JavaScript",
+    "category": "Hadith Collection and Study",
+    "deployment": "🌐",
+    "top2": "👍 Quranic text search functionality, User-friendly interface"
+  },
+  "kareemxamged/rezgee": {
+    "name": "Rezgee",
+    "html_url": "https://github.com/kareemxamged/Rezgee",
+    "description": "A tool to manage restaurant reservations",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Other",
+    "deployment": "🛠️",
+    "top2": "👍 Easy reservation management, Real-time updates"
+  },
+  "mustafatawfiq/hazem": {
+    "name": "hazem",
+    "html_url": "https://github.com/mustafatawfiq/hazem",
+    "description": "A tool for parsing links",
+    "stars": 6,
+    "language": "PLpgSQL",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🛠️",
+    "top2": "👍 Extract structured metadata, Parse URLs"
+  },
+  "mohamedsamysaadoun3/quranmaker-kotlin": {
+    "name": "QuranMaker-Kotlin",
+    "html_url": "https://github.com/mohamedsamysaadoun3/QuranMaker-Kotlin",
+    "description": "QuranMaker-Kotlin is an Android application for reading and studying the Quran.",
+    "stars": 1,
+    "language": "Kotlin",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Offers a user-friendly interface for reading and studying the Quran, Provides translation in multiple languages"
+  },
+  "idrisiumcorp/al-furkan-quran-flutter-app": {
+    "name": "al-furkan-quran-flutter-app",
+    "html_url": "https://github.com/IDRISIUMCorp/al-furkan-quran-flutter-app",
+    "description": "Al Furkan Quran Flutter App",
+    "stars": 14,
+    "language": "Dart",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Quran app with translations and tafsir, User-friendly interface"
+  },
+  "aboodahdab/islamic_prayers_swiftbar": {
+    "name": "islamic_prayers_swiftbar",
+    "html_url": "https://github.com/aboodahdab/islamic_prayers_swiftbar",
+    "description": "Islamic Prayers for SwiftBar",
+    "stars": 0,
+    "language": "Python",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🖥️",
+    "top2": "👍 Displays Islamic prayer times in the macOS menu bar\n👍 Allows customization of prayer calculation methods and notification settings"
+  },
+  "yshalsager/grayjay-plugins": {
+    "name": "grayjay-plugins",
+    "html_url": "https://github.com/yshalsager/grayjay-plugins",
+    "description": "Collection of plugins for GrayJay",
+    "stars": 1,
+    "language": "JavaScript",
+    "category": "Other",
+    "deployment": "🛠️",
+    "top2": "👍 Integrations with various services, Customizable plugins"
+  },
+  "zajalist/dhikrtop": {
+    "name": "dhikrtop",
+    "html_url": "https://github.com/zajalist/dhikrtop",
+    "description": "DhikrTop is a simple Islamic app to help Muslims remember Allah.",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Provides a simple way to engage in Dhikr (remembrance of Allah), Offers a variety of Dhikr options to choose from"
+  },
+  "salaheddine-ghannouch/quranwarshdata": {
+    "name": "QuranWarshData",
+    "html_url": "https://github.com/SalahEddine-Ghannouch/QuranWarshData",
+    "description": "Quran Warsh Data",
+    "stars": 2,
+    "language": "Unknown",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Comprehensive dataset of the Quran in Warsh recitation, Easy to use and access"
+  },
+  "haithamaouati/quranverse": {
+    "name": "QuranVerse",
+    "html_url": "https://github.com/haithamaouati/QuranVerse",
+    "description": "A repository for Quran Verses",
+    "stars": 1,
+    "language": "HTML",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Features Quran verses, Search functionality"
+  },
+  "farkhanmaul/quran-project": {
+    "name": "quran-project",
+    "html_url": "https://github.com/farkhanmaul/quran-project",
+    "description": "Quran project on Github",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Open source, Multiple language support"
+  },
+  "smartrogo/tahfiz-connect-platform": {
+    "name": "tahfiz-connect-platform",
+    "html_url": "https://github.com/smartrogo/tahfiz-connect-platform",
+    "description": "Tahfiz Connect Platform is a platform for managing tahfiz center operations.",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Streamline student registration process, 👍 Monitor student progress and attendance"
+  },
+  "housamelmasry/quaraan": {
+    "name": "quaraan",
+    "html_url": "https://github.com/housamelmasry/quaraan",
+    "description": "A Quran memorization app with interactive features",
+    "stars": 0,
+    "language": "PHP",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Interactive features, Quran memorization"
+  },
+  "elshazlyyy/awaab-public": {
+    "name": "Awaab-Public",
+    "html_url": "https://github.com/Elshazlyyy/Awaab-Public",
+    "description": "Awaab-Public is a project for managing the Awaab Platform",
+    "stars": 1,
+    "language": "HTML",
+    "category": "Islamic Resources and Community",
+    "deployment": "🌐",
+    "top2": "👍 Open-source platform, User-friendly interface"
+  },
+  "burakgizlice/niyet": {
+    "name": "niyet",
+    "html_url": "https://github.com/burakgizlice/niyet",
+    "description": "Niyet is a minimalistic task management application with a simple user interface.",
+    "stars": 3,
+    "language": "JavaScript",
+    "category": "Other",
+    "deployment": "🛠️",
+    "top2": "👍 Clean and minimalistic design, Easy task management"
+  },
+  "raqolbi/hanquran-app": {
+    "name": "hanquran-app",
+    "html_url": "https://github.com/raqolbi/hanquran-app",
+    "description": "Hanquran is an application for reading the Quran with translation and audio recitations.",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Provides translation and audio recitations, User-friendly interface"
+  },
+  "0xshariq/nizaam-islamic-ecosystem": {
+    "name": "nizaam-islamic-ecosystem",
+    "html_url": "https://github.com/0xshariq/nizaam-islamic-ecosystem",
+    "description": "An Islamic Ecosystem Application for Nizaam",
+    "stars": 1,
+    "language": "Unknown",
+    "category": "Islamic Resources and Community",
+    "deployment": "🌐",
+    "top2": "👍 Provides comprehensive tools for Islamic practices and education, Offers features like prayer timings and Islamic calendar"
+  },
+  "laminesdev/mawqutan": {
+    "name": "mawqutan",
+    "html_url": "https://github.com/laminesdev/mawqutan",
+    "description": "A simple and modern Prayer Times app for Android",
+    "stars": 1,
+    "language": "TypeScript",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "📱",
+    "top2": "👍 Provides accurate prayer times data, Beautiful and user-friendly interface"
+  },
+  "irtezaasadrizvi/ayah-daily": {
+    "name": "ayah-daily",
+    "html_url": "https://github.com/IrtezaAsadRizvi/ayah-daily",
+    "description": "Daily Ayah - A web app for displaying a daily Ayah from the Quran",
+    "stars": 1,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides a daily Ayah from the Quran, Allows users to share the Ayah"
+  },
+  "writequran/writequran.com": {
+    "name": "writequran.com",
+    "html_url": "https://github.com/writequran/writequran.com",
+    "description": "WriteQuran.com is a platform for collaborative Quran transcription and translation.",
+    "stars": 1,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Open-source platform for collaborative Quran transcription and translation, User-friendly interface for easy contributions"
+  },
+  "korya0/sana": {
+    "name": "Sana",
+    "html_url": "https://github.com/Korya0/Sana",
+    "description": "OSS Monitoring Management platform using Grafana, InfluxDB with a NodeJS backend. *",
+    "stars": 2,
+    "language": "Dart",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Supports monitoring with Grafana and InfluxDB, * Integrates NodeJS backend for data management"
+  },
+  "mahmoudplay/adhkar-api": {
+    "name": "Adhkar-Api",
+    "html_url": "https://github.com/mahmoudplay/Adhkar-Api",
+    "description": "Adhkar API is a RESTful API that provides Islamic Adhkar (remembrance) for Muslims to use in their daily routines.",
+    "stars": 1,
+    "language": "TypeScript",
+    "category": "Hadith Search and API",
+    "deployment": "🌐",
+    "top2": "👍 Provides Islamic Adhkar for daily use, RESTful API for easy integration"
+  },
+  "grandlay-e/quran-downloader": {
+    "name": "Quran-Downloader",
+    "html_url": "https://github.com/GrandLay-e/Quran-Downloader",
+    "description": "A tool to download Quran files",
+    "stars": 0,
+    "language": "Python",
+    "category": "Quranic Text and Reading",
+    "deployment": "🛠️",
+    "top2": "👍 Easy to use interface, Supports multiple languages"
+  },
+  "jakcal/offline-quran": {
+    "name": "offline-quran",
+    "html_url": "https://github.com/jakcal/offline-quran",
+    "description": "An offline Quran app for Android devices",
+    "stars": 1,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Offline capability, Arabic text and translations"
+  },
+  "adelpro/mubin": {
+    "name": "mubin",
+    "html_url": "https://github.com/adelpro/mubin",
+    "description": "Mubin is a simple and lightweight music player for Windows.",
+    "stars": 1,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🖥️",
+    "top2": "👍 Customizable themes, Lightweight design"
+  },
+  "meshari3355/quran-android": {
+    "name": "quran-android",
+    "html_url": "https://github.com/meshari3355/quran-android",
+    "description": "Quran Android app",
+    "stars": 0,
+    "language": "Kotlin",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Simple and intuitive interface, Multiple translations available"
+  },
+  "avax43/qurankolyoum": {
+    "name": "quranKolYoum",
+    "html_url": "https://github.com/avax43/quranKolYoum",
+    "description": "QuranKolYoum is a web application to read and listen to the Quran daily.",
+    "stars": 2,
+    "language": "Python",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides daily Quran reading and listening functionalities, User-friendly interface for easy navigation"
+  },
+  "fikrisyahid/adzanid": {
+    "name": "adzanid",
+    "html_url": "https://github.com/fikrisyahid/adzanid",
+    "description": "AdzanID is a library for calculating the prayer times based on location and calculation methods for Muslim users.",
+    "stars": 2,
+    "language": "Python",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🛠️",
+    "top2": "👍 Provides accurate prayer times calculation\n👍 Supports multiple calculation methods"
+  },
+  "ihazratummar/islam24": {
+    "name": "Islam24",
+    "html_url": "https://github.com/ihazratummar/Islam24",
+    "description": "Islam24 is an Islamic app that provides users with Islamic information and resources.",
+    "stars": 1,
+    "language": "Kotlin",
+    "category": "Other",
+    "deployment": "🖥️",
+    "top2": "👍 Provides information on Islamic teachings and practices, Offers resources such as Quranic verses and Hadiths"
+  },
+  "cybermajeed/deenbg": {
+    "name": "DeenBG",
+    "html_url": "https://github.com/cybermajeed/DeenBG",
+    "description": "DeenBG is a Quran app with features like translation, tafsir, and audio recitation.",
+    "stars": 2,
+    "language": "Python",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Offers translation and tafsir features, Provides audio recitation of the Quran"
+  },
+  "lauhemahfus/barakah": {
+    "name": "barakah",
+    "html_url": "https://github.com/lauhemahfus/barakah",
+    "description": "Barakah is a simple digital Tasbih counter app for Muslims.",
+    "stars": 2,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Easy-to-use interface, Dark mode feature"
+  },
+  "sdo-sa/hijri-converter": {
+    "name": "hijri-converter",
+    "html_url": "https://github.com/SDO-SA/hijri-converter",
+    "description": "Utility for converting dates between Hijri and Gregorian calendars",
+    "stars": 3,
+    "language": "PHP",
+    "category": "Islamic Events and Reminders",
+    "deployment": "🌐",
+    "top2": "👍 Supports conversion in both directions, 👍 Open source and free to use"
+  },
+  "ibtesaamaslam/islam": {
+    "name": "ISLAM",
+    "html_url": "https://github.com/ibtesaamaslam/ISLAM",
+    "description": "A collection of Islamic books and resources",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides a collection of Islamic books and resources, Easy access to Islamic knowledge"
+  },
+  "selcukcihan/sual": {
+    "name": "sual",
+    "html_url": "https://github.com/selcukcihan/sual",
+    "description": "SUAL is a python library to answer user questions using Bing search API.",
+    "stars": 9,
+    "language": "TypeScript",
+    "category": "Other",
+    "deployment": "🛠️",
+    "top2": "👍 Built in Bing search API integration, Natural language processing for user questions"
+  },
+  "kanta-mir/ahmady.org": {
+    "name": "ahmady.org",
+    "html_url": "https://github.com/kanta-mir/ahmady.org",
+    "description": "Personal website for Ahmad Yahya Mir",
+    "stars": 0,
+    "language": "Python",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Simple and clean design, Responsive layout"
+  },
+  "anzal1/quran-website": {
+    "name": "quran-website",
+    "html_url": "https://github.com/anzal1/quran-website",
+    "description": "A Quran website that provides online access to the Quran with translations and recitations",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides translations and recitations of the Quran, User-friendly interface"
+  },
+  "anasboudyach/qurani": {
+    "name": "Qurani",
+    "html_url": "https://github.com/anasBoudyach/Qurani",
+    "description": "A tool for learning and reciting the Quran",
+    "stars": 0,
+    "language": "Unknown",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Helps in memorizing and reciting Quran verses, Provides audio recitations"
+  },
+  "amarhumayunx/surah-yaseen": {
+    "name": "Surah-Yaseen",
+    "html_url": "https://github.com/amarhumayunx/Surah-Yaseen",
+    "description": "Surah Yaseen App",
+    "stars": 0,
+    "language": "Dart",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Provides audio playback of Surah Yaseen, Offers translation in multiple languages"
+  },
+  "ramysami/quran-progress-updater": {
+    "name": "Quran-Progress-updater",
+    "html_url": "https://github.com/ramysami/Quran-Progress-updater",
+    "description": "A tool for updating the progress on Quran memorization",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🛠️",
+    "top2": "👍 Tracks daily progress, Generates progress report"
+  },
+  "dan-abbas/hifz-tech": {
+    "name": "hifz-tech",
+    "html_url": "https://github.com/Dan-Abbas/hifz-tech",
+    "description": "A project for memorizing the Quran with technology",
+    "stars": 1,
+    "language": "HTML",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Helps in memorizing the Quran, Provides tools for memorization"
+  },
+  "echolento/alhalaqa": {
+    "name": "Alhalaqa",
+    "html_url": "https://github.com/Echolento/Alhalaqa",
+    "description": "Alhalaqa is a real-time multiplayer quiz game for learning Arabic language and culture.",
+    "stars": 2,
+    "language": "TypeScript",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Real-time multiplayer quiz game, Learning Arabic language and culture"
+  },
+  "cyberzilla/islamicwidget": {
+    "name": "IslamicWidget",
+    "html_url": "https://github.com/cyberzilla/IslamicWidget",
+    "description": "Islamic Widget is a simple Islamic widget for displaying daily Islamic prayer times on your website.",
+    "stars": 2,
+    "language": "Kotlin",
+    "category": "Hadith Collection and Study",
+    "deployment": "🌐",
+    "top2": "👍 Displays daily Islamic prayer times, Simple widget for websites"
+  },
+  "sadiash/quran-primer": {
+    "name": "quran-primer",
+    "html_url": "https://github.com/sadiash/quran-primer",
+    "description": "Quran primer is an interactive web application for learning the basics of the Quran.",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Interactive learning experience, User-friendly interface"
+  },
+  "ragaeeb/wobble-bibble": {
+    "name": "wobble-bibble",
+    "html_url": "https://github.com/ragaeeb/wobble-bibble",
+    "description": "Open-source physics-based simulation of a wobbling object",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Realistic physics simulation, Customizable object properties"
+  },
+  "ahmedfawzyjr/halal-browser": {
+    "name": "Halal-Browser",
+    "html_url": "https://github.com/ahmedfawzyjr/Halal-Browser",
+    "description": "Halal Browser is a Halal web browser application for Muslim users.",
+    "stars": 0,
+    "language": "Python",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Privacy-focused browsing experience, Built-in halal content filtering feature"
+  },
+  "muslim-kh09/islamic-prayer-times-bot": {
+    "name": "Islamic-Prayer-Times-Bot",
+    "html_url": "https://github.com/muslim-kh09/Islamic-Prayer-Times-Bot",
+    "description": "Islamic Prayer Times Bot",
+    "stars": 2,
+    "language": "Python",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🛠️",
+    "top2": "👍 Provides accurate Islamic prayer times\n👍 Sends daily prayer time notifications"
+  },
+  "ziadamr45/quadra_studio": {
+    "name": "quadra_studio",
+    "html_url": "https://github.com/ziadamr45/quadra_studio",
+    "description": "Quadra Studio is a platform for managing and organizing media assets.",
+    "stars": 1,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🖥️",
+    "top2": "👍 Streamlined media asset management, User-friendly interface"
+  },
+  "mahmoud9-dev/eqraa-desktop": {
+    "name": "eqraa-desktop",
+    "html_url": "https://github.com/Mahmoud9-dev/eqraa-desktop",
+    "description": "Eqraa Desktop is an educational application for reading Quran with translation and tafseer.",
+    "stars": 6,
+    "language": "TypeScript",
+    "category": "Islamic Resources and Community",
+    "deployment": "🖥️",
+    "top2": "👍 Includes translations and tafseer, User-friendly interface"
+  },
+  "salehgnutux/gt-quranreader": {
+    "name": "GT-QURANREADER",
+    "html_url": "https://github.com/SalehGNUTUX/GT-QURANREADER",
+    "description": "An open-source Quran reader app for Android",
+    "stars": 1,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Open-source, Quran reader app"
+  },
+  "sv1ffff/quran": {
+    "name": "Quran",
+    "html_url": "https://github.com/sv1ffff/Quran",
+    "description": "Quran repository",
+    "stars": 3,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Open-source project, Contains Quran text"
+  },
+  "eneserdogan/iftar": {
+    "name": "iftar",
+    "html_url": "https://github.com/eneserdogan/iftar",
+    "description": "An application to track iftar times during Ramadan",
+    "stars": 32,
+    "language": "JavaScript",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🌐",
+    "top2": "👍 Provides accurate iftar times based on location, Allows users to set reminders for iftar time"
+  },
+  "akbardevop/ayah-studio": {
+    "name": "ayah-studio",
+    "html_url": "https://github.com/AkbarDevop/ayah-studio",
+    "description": "Ayah Studio is a platform for creating and sharing digital art",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Collaboration and community features, Easy-to-use interface"
+  },
+  "goodm4ven/package_laravel_arabicable": {
+    "name": "PACKAGE_LARAVEL_arabicable",
+    "html_url": "https://github.com/GoodM4ven/PACKAGE_LARAVEL_arabicable",
+    "description": "Laravel package for Arabic localization",
+    "stars": 0,
+    "language": "PHP",
+    "category": "Hadith Search and API",
+    "deployment": "🛠️",
+    "top2": "👍 Supports Arabic translations, Provides helper functions for Arabic language handling"
+  },
+  "wahidpanda/quran-rag": {
+    "name": "Quran-rag",
+    "html_url": "https://github.com/wahidpanda/Quran-rag",
+    "description": "Quran-rag is a web application that allows users to read and listen to the Quran with translation and recitation.",
+    "stars": 1,
+    "language": "Python",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides recitation and translation of the Quran, User-friendly interface for easy navigation"
+  },
+  "kayshahbaaz/quran-progressive-revelation": {
+    "name": "quran-progressive-revelation",
+    "html_url": "https://github.com/kayShahbaaz/quran-progressive-revelation",
+    "description": "A tool to read the Quran with a focus on the concept of Progressive Revelation",
+    "stars": 0,
+    "language": "Unknown",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides insight into the chronological order of Quranic verses\n👍 Allows users to explore the progression of Quranic revelations"
+  },
+  "rrzaman/fasting-tracker": {
+    "name": "fasting-tracker",
+    "html_url": "https://github.com/rrzaman/fasting-tracker",
+    "description": "A fasting tracker application",
+    "stars": 2,
+    "language": "Python",
+    "category": "Islamic Events and Reminders",
+    "deployment": "📱",
+    "top2": "👍 Tracks fasting periods, Logs daily fasting progress"
+  },
+  "yazinsai/quran-validator": {
+    "name": "quran-validator",
+    "html_url": "https://github.com/yazinsai/quran-validator",
+    "description": "A tool to validate and verify the integrity of Quranic texts",
+    "stars": 173,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Validates and verifies the integrity of Quranic texts, Provides detailed error reports"
+  },
+  "imarufbillah/qurbani-hat": {
+    "name": "qurbani-hat",
+    "html_url": "https://github.com/imarufbillah/qurbani-hat",
+    "description": "Qurbani Hat is a Django app to manage qurbani (sacrifice) during Eid-ul-Adha.",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Islamic Events and Reminders",
+    "deployment": "🌐",
+    "top2": "👍 Tracks and manages qurbani details, Provides reports and analytics on qurbani activities"
+  },
+  "iskaelcom/target-khatam": {
+    "name": "target-khatam",
+    "html_url": "https://github.com/iskaelcom/target-khatam",
+    "description": "Target Khatam is a simple and lightweight target tracking web application",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Real-time updates, Easy to use interface"
+  },
+  "rumanabdulaleemksa/al-shifa-ruqya-website": {
+    "name": "Al-Shifa-Ruqya-Website",
+    "html_url": "https://github.com/rumanabdulaleemksa/Al-Shifa-Ruqya-Website",
+    "description": "Al-Shifa Ruqya Website for Islamic Ruqya Healing",
+    "stars": 0,
+    "language": "HTML",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Provides Islamic Ruqya Healing services, Includes a library of Ruqya audio and video files"
+  },
+  "kjfamily33/ibrahim": {
+    "name": "ibrahim",
+    "html_url": "https://github.com/KJfamily33/ibrahim",
+    "description": "Ibrahim is a library for easy handling of Android SharedPreferences",
+    "stars": 3,
+    "language": "HTML",
+    "category": "Hadith Collection and Study",
+    "deployment": "🖥️",
+    "top2": "👍 Lightweight, Easy to use"
+  },
+  "ahozir-ux/claude-skill-bm": {
+    "name": "claude-skill-bm",
+    "html_url": "https://github.com/ahozir-ux/claude-skill-bm",
+    "description": "Claude skill BM repository",
+    "stars": 0,
+    "language": "Unknown",
+    "category": "Other",
+    "deployment": "🖥️",
+    "top2": "👍 Open-source, AI-powered"
+  },
+  "saadamir1/mushaf-platform-be": {
+    "name": "mushaf-platform-BE",
+    "html_url": "https://github.com/saadamir1/mushaf-platform-BE",
+    "description": "Backend API for Mushaf Platform",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🛠️",
+    "top2": "👍 Web API for managing Quranic texts, 🎉 Integration with Firebase authentication"
+  },
+  "abbysherryyy/sunnahbites": {
+    "name": "sunnahbites",
+    "html_url": "https://github.com/abbysherryyy/sunnahbites",
+    "description": "A project for sharing daily hadiths and beneficial reminders for Muslims",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Hadith Collection and Study",
+    "deployment": "🌐",
+    "top2": "👍 Provides daily hadiths and reminders, User-friendly interface"
+  },
+  "edwgiz/tayyib-fasting-calendar": {
+    "name": "tayyib-fasting-calendar",
+    "html_url": "https://github.com/edwgiz/tayyib-fasting-calendar",
+    "description": "Tayyib Fasting Calendar is a web application to track fasting days according to Islamic traditions.",
+    "stars": 0,
+    "language": "Unknown",
+    "category": "Hadith Collection and Study",
+    "deployment": "🌐",
+    "top2": "👍 Provides a calendar for tracking fasting days, 🌐 Accessible on the web"
+  },
+  "ivlake72/quran-desktop": {
+    "name": "Quran-Desktop",
+    "html_url": "https://github.com/ivlake72/Quran-Desktop",
+    "description": "Quran Desktop is a desktop application for reading the Quran.",
+    "stars": 1,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🖥️",
+    "top2": "👍 Provides easy access to the Quran, Allows users to read and navigate through the Quran easily"
+  },
+  "mjmirza/quran-dataset": {
+    "name": "quran-dataset",
+    "html_url": "https://github.com/mjmirza/quran-dataset",
+    "description": "Quran dataset for machine learning applications",
+    "stars": 0,
+    "language": "Python",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Contains verses from the Quran for training machine learning models, 👍 Includes metadata such as chapter, verse, and text"
+  },
+  "ionic-errrrs-code/prayer-pal-tasbih-and-azkar": {
+    "name": "prayer-pal-tasbih-and-azkar",
+    "html_url": "https://github.com/Ionic-Errrrs-Code/prayer-pal-tasbih-and-azkar",
+    "description": "A mobile app for keeping track of prayers, tasbih, and azkar",
+    "stars": 1,
+    "language": "Unknown",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "📱",
+    "top2": "👍 Helps users keep track of prayers, tasbih, and azkar\n👍 Provides a convenient way to count and remember supplications"
+  },
+  "mwaseemzakir/alquran.sdk": {
+    "name": "AlQuran.SDK",
+    "html_url": "https://github.com/Mwaseemzakir/AlQuran.SDK",
+    "description": "AlQuran.SDK is a .NET Standard Library for accessing the Quran API",
+    "stars": 2,
+    "language": "C#",
+    "category": "Quranic Text and Reading",
+    "deployment": "🛠️",
+    "top2": "👍 Provides access to Quran API, Supports .NET Standard"
+  },
+  "samin-yasar/zakah": {
+    "name": "zakah",
+    "html_url": "https://github.com/Samin-yasar/zakah",
+    "description": "A tool for calculating zakah in Islam",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Other",
+    "deployment": "🖥️",
+    "top2": "👍 Calculates zakah accurately, Provides detailed breakdown of zakatable assets"
+  },
+  "zevhys/daily-verse": {
+    "name": "daily-verse",
+    "html_url": "https://github.com/Zevhys/daily-verse",
+    "description": "A web app to display a daily bible verse",
+    "stars": 0,
+    "language": "Python",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Daily display of bible verse, Verse search functionality"
+  },
+  "passive-it/halal-check": {
+    "name": "halal-check",
+    "html_url": "https://github.com/Passive-IT/halal-check",
+    "description": "A tool to check if food is halal or not",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Islamic Resources and Community",
+    "deployment": "🌐",
+    "top2": "👍 Contains a comprehensive database of halal and haram ingredients, 👍 Provides detailed information on halal certification"
+  },
+  "elomami1976/talawa": {
+    "name": "talawa",
+    "html_url": "https://github.com/Elomami1976/talawa",
+    "description": "Talawa is an open-source project management tool for agile teams",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Agile project management, Team collaboration"
+  },
+  "openhikmah/openhikmah-web": {
+    "name": "openhikmah-web",
+    "html_url": "https://github.com/OpenHikmah/openhikmah-web",
+    "description": "OpenHikmah is an open-source Quranic Platform",
+    "stars": 106,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Community-driven development, Quranic resources"
+  },
+  "salaamalykum/china-halal-restaurant": {
+    "name": "China-Halal-Restaurant",
+    "html_url": "https://github.com/salaamalykum/China-Halal-Restaurant",
+    "description": "China Halal Restaurant - A platform to find halal restaurants in China",
+    "stars": 0,
+    "language": "CSS",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Explore halal restaurants in China, 🌐 Web deployment"
+  },
+  "chooomaad/ayatuna-adhkaruna": {
+    "name": "ayatuna-adhkaruna",
+    "html_url": "https://github.com/chooomaad/ayatuna-adhkaruna",
+    "description": "Ayatuna Adhkaruna is a mobile application that helps users to remember and recite daily adhkar",
+    "stars": 1,
+    "language": "Dart",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Provides a collection of daily adhkar to recite, Allows users to set reminders for adhkar recitation"
+  },
+  "likhonahamedla/namaz-o-zikir": {
+    "name": "Namaz-O-Zikir",
+    "html_url": "https://github.com/likhonahamedla/Namaz-O-Zikir",
+    "description": "Namaz-O-Zikir is an Islamic prayer timing and zikir application.",
+    "stars": 1,
+    "language": "Dart",
+    "category": "Other",
+    "deployment": "📱",
+    "top2": "👍 Provides accurate prayer timings\n👍 Includes zikir reminders and counter for daily spiritual practices"
+  },
+  "ai-dev-2024/holibooks": {
+    "name": "HoliBooks",
+    "html_url": "https://github.com/ai-dev-2024/HoliBooks",
+    "description": "HoliBooks is a platform for buying and selling old books.",
+    "stars": 1,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides a marketplace for buying and selling old books, Allows users to create listings and connect with buyers and sellers"
+  },
+  "k7areef/adan": {
+    "name": "Adan",
+    "html_url": "https://github.com/k7areef/Adan",
+    "description": "Adan is a Quranic Arabic learning platform for kids",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Interactive learning experience, Engaging user interface"
+  },
+  "edriso/zaaduna": {
+    "name": "zaaduna",
+    "html_url": "https://github.com/edriso/zaaduna",
+    "description": "A simple Static Site Generator with Markdown contents for Node.js",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Islamic Events and Reminders",
+    "deployment": "🖥️",
+    "top2": "👍 Easy to use and configure, Supports Markdown content"
+  },
+  "qalamabdulkhaliq/qus-ai-old": {
+    "name": "QUS-AI-old",
+    "html_url": "https://github.com/qalamabdulkhaliq/QUS-AI-old",
+    "description": "A repository for the old version of QUS AI",
+    "stars": 1,
+    "language": "Roff",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Developed for educational purposes, 👍 Contains AI algorithms"
+  },
+  "bonyanoss/docs": {
+    "name": "docs",
+    "html_url": "https://github.com/BonyanOSS/docs",
+    "description": "BonyanOSS documentation repository",
+    "stars": 0,
+    "language": "MDX",
+    "category": "Islamic Resources and Community",
+    "deployment": "🌐",
+    "top2": "👍 Comprehensive documentation, Well-organized structure"
+  },
+  "rafue1968/ilmcubs": {
+    "name": "IlmCubs",
+    "html_url": "https://github.com/rafue1968/IlmCubs",
+    "description": "A website for managing a little league baseball team",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Tracks player statistics, Generates game schedules"
+  },
+  "raqolbi/hanquran-audio-downloader": {
+    "name": "hanquran-audio-downloader",
+    "html_url": "https://github.com/raqolbi/hanquran-audio-downloader",
+    "description": "Hanquran Audio Downloader is a tool to download audio files from hanquran.com",
+    "stars": 1,
+    "language": "Go",
+    "category": "Quranic Text and Reading",
+    "deployment": "🛠️",
+    "top2": "👍 Arabic audio files downloader, User-friendly interface"
+  },
+  "ghhamza/maqraa": {
+    "name": "maqraa",
+    "html_url": "https://github.com/ghhamza/maqraa",
+    "description": "Maqraa is a web application that helps users to read Quran with translation and tafsir.",
+    "stars": 1,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides Quran recitation with translation and tafsir, Offers bookmarking and search functionality"
+  },
+  "edriso/tilawah": {
+    "name": "tilawah",
+    "html_url": "https://github.com/edriso/tilawah",
+    "description": "Tilawah is an open-source project for Quran memorization and recitation.",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides tools for Quran memorization and recitation, Offers progress tracking feature"
+  },
+  "marwan-makram/islamona": {
+    "name": "islamona",
+    "html_url": "https://github.com/Marwan-Makram/islamona",
+    "description": "A platform for Islamic content creators to share their work and connect with their audience.",
+    "stars": 0,
+    "language": "Dart",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🌐",
+    "top2": "👍 Provides a platform for Islamic content creators to share their work\n👍 Connects content creators with their audience"
+  },
+  "colemeg/missedprayer": {
+    "name": "MissedPrayer",
+    "html_url": "https://github.com/colemeg/MissedPrayer",
+    "description": "MissedPrayer helps you calculate the number of prayers that you have missed",
+    "stars": 0,
+    "language": "Unknown",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🌐",
+    "top2": "👍 Tracks missed prayers, Customizable calculation method"
+  },
+  "suraphat-tienmanee/th-to-ar": {
+    "name": "th-to-ar",
+    "html_url": "https://github.com/suraphat-tienmanee/th-to-ar",
+    "description": "A tool to convert Thai numbers to Arabic numbers",
+    "stars": 1,
+    "language": "HTML",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Converts Thai numbers to Arabic numbers, Supports both traditional and modern Thai numerals"
+  },
+  "sheriakhtamov/hadith_bot": {
+    "name": "hadith_bot",
+    "html_url": "https://github.com/SheriAkhtamov/hadith_bot",
+    "description": "Telegram bot for reading Hadith",
+    "stars": 1,
+    "language": "Python",
+    "category": "Hadith Collection and Study",
+    "deployment": "🛠️",
+    "top2": "👍 Provides daily Hadith, Search Hadith by keywords"
+  },
+  "itztaju341-dev/itz-taju": {
+    "name": "Itz-taju",
+    "html_url": "https://github.com/itztaju341-dev/Itz-taju",
+    "description": "Collection of my projects",
+    "stars": 0,
+    "language": "Unknown",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Contains various projects, easy to explore"
+  },
+  "ammrfx/arabicgo": {
+    "name": "arabicgo",
+    "html_url": "https://github.com/AmmrFX/arabicgo",
+    "description": "ArabicGo is a Golang package for working with Arabic text.",
+    "stars": 3,
+    "language": "Go",
+    "category": "Quranic Text and Reading",
+    "deployment": "🛠️",
+    "top2": "👍 Efficiently handles Arabic text processing, Provides functions for text normalization"
+  },
+  "majidraimi/rattil": {
+    "name": "rattil",
+    "html_url": "https://github.com/MajidRaimi/rattil",
+    "description": "A collection of simple and lightweight code snippets for common tasks.",
+    "stars": 1,
+    "language": "Dart",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides simple and lightweight code snippets, Easy to use and integrate with projects"
+  },
+  "ayzekhdawy/islamiccorpusmcp": {
+    "name": "IslamicCorpusMCP",
+    "html_url": "https://github.com/ayzekhdawy/IslamicCorpusMCP",
+    "description": "Islamic Corpus MCP is a multilingual Islamic text and translation corpus for Malaysian, Indonesian, and Arabic languages.",
+    "stars": 0,
+    "language": "Python",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Contains Islamic texts in multiple languages, Provides translations for Malaysian, Indonesian, and Arabic languages"
+  },
+  "amgad01/awdah": {
+    "name": "awdah",
+    "html_url": "https://github.com/amgad01/awdah",
+    "description": "Awdah is a web application for tracking assets and managing their maintenance",
+    "stars": 1,
+    "language": "TypeScript",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🌐",
+    "top2": "👍 Asset tracking, Maintenance management"
+  },
+  "tariqmk/obsidian-quran-journal": {
+    "name": "Obsidian-Quran-Journal",
+    "html_url": "https://github.com/TariqMK/Obsidian-Quran-Journal",
+    "description": "Obsidian Quran Journal is a plugin for Obsidian that helps users create a Quran journal within their Obsidian vault.",
+    "stars": 4,
+    "language": "Unknown",
+    "category": "Quranic Text and Reading",
+    "deployment": "🛠️",
+    "top2": "👍 Provides a dedicated Quran journaling experience within Obsidian, Supports Quranic text and annotations"
+  },
+  "abdulwahed-sweden/polaris-chronos": {
+    "name": "polaris-chronos",
+    "html_url": "https://github.com/abdulwahed-sweden/polaris-chronos",
+    "description": "Polaris Chronos is a time tracking app built with React Native and Firebase.",
+    "stars": 1,
+    "language": "Rust",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "📱",
+    "top2": "👍 Tracks time efficiently, Integrates with Firebase for data storage"
+  },
+  "muhammadtalhasultan/prayer-time-macos-widget": {
+    "name": "prayer-time-macos-widget",
+    "html_url": "https://github.com/muhammadtalhasultan/prayer-time-macos-widget",
+    "description": "Prayer Time macOS Widget",
+    "stars": 1,
+    "language": "Dart",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🖥️",
+    "top2": "👍 Provides prayer times based on location and calendar👍 Shows notifications for upcoming prayers"
+  },
+  "anugrahsputra/quran-api": {
+    "name": "quran-api",
+    "html_url": "https://github.com/anugrahsputra/quran-api",
+    "description": "An API to access Quran verses and translations",
+    "stars": 1,
+    "language": "Go",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides access to Quran verses and translations, Supports multiple languages for translations"
+  },
+  "mozzabotalt/afcs": {
+    "name": "AFCS",
+    "html_url": "https://github.com/MozzaBotAlt/AFCS",
+    "description": "AFC Slash Command",
+    "stars": 1,
+    "language": "Python",
+    "category": "Other",
+    "deployment": "🖥️",
+    "top2": "👍 Customizability and User-friendly interface"
+  },
+  "ahmedmagdyoff/qutoof-academy": {
+    "name": "qutoof-academy",
+    "html_url": "https://github.com/ahmedmagdyoff/qutoof-academy",
+    "description": "Qutoof Academy project on GitHub",
+    "stars": 1,
+    "language": "CSS",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Open-source, educational"
+  },
+  "ahmedeltaher/azan-mcp": {
+    "name": "azan-mcp",
+    "html_url": "https://github.com/ahmedeltaher/azan-mcp",
+    "description": "Azan MCP is a tool to display prayer times",
+    "stars": 380,
+    "language": "Python",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🌐",
+    "top2": "👍 Provides accurate prayer times, Supports multiple locations"
+  },
+  "eyupipler/kuran-rehberi": {
+    "name": "Kuran-Rehberi",
+    "html_url": "https://github.com/eyupipler/Kuran-Rehberi",
+    "description": "A guide to the Quran",
+    "stars": 5,
+    "language": "TypeScript",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Comprehensive Quran guide, Search functionality"
+  },
+  "killua-repo/quran_player": {
+    "name": "quran_player",
+    "html_url": "https://github.com/killua-repo/quran_player",
+    "description": "Quran Player is a web application for listening to Quran recitations.",
+    "stars": 1,
+    "language": "Dart",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides a user-friendly interface for playing Quran recitations, Allows users to easily navigate through different surahs and reciters"
+  },
+  "abdirahmannomad/iqraai": {
+    "name": "IqraAI",
+    "html_url": "https://github.com/AbdirahmanNomad/IqraAI",
+    "description": "Iqra AI is a project that aims to provide AI solutions for educational purposes.",
+    "stars": 9,
+    "language": "Python",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Offers AI solutions for educational purposes, Provides innovative learning tools"
+  },
+  "siteq8/duaarepo": {
+    "name": "duaarepo",
+    "html_url": "https://github.com/SiteQ8/duaarepo",
+    "description": "DuaaRepos is a simple GitHub repositories organizer that helps you keep track of important repositories by categorizing them.",
+    "stars": 0,
+    "language": "Unknown",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides a simple way to organize GitHub repositories\n👍 Allows categorizing important repositories for easy access"
+  },
+  "tal7aouy/awesome-quran-ai": {
+    "name": "awesome-quran-ai",
+    "html_url": "https://github.com/tal7aouy/awesome-quran-ai",
+    "description": "A curated list of awesome resources for building AI applications related to the Quran",
+    "stars": 1,
+    "language": "Unknown",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Comprehensive collection of resources for building AI applications related to the Quran, 🌐 Web deployment"
+  },
+  "coderbdk/taqwa-journey": {
+    "name": "Taqwa-Journey",
+    "html_url": "https://github.com/CoderBDK/Taqwa-Journey",
+    "description": "Taqwa Journey is a mobile application designed to help users track their spiritual progress and enhance their relationship with Allah.",
+    "stars": 0,
+    "language": "HTML",
+    "category": "Other",
+    "deployment": "📱",
+    "top2": "👍 User-friendly interface for easy navigation\n👍 Goal-setting feature to track spiritual progress"
+  },
+  "innosoft-company/pyislamsdk-quran": {
+    "name": "PyIslamSDK-Quran",
+    "html_url": "https://github.com/InnoSoft-Company/PyIslamSDK-Quran",
+    "description": "A Python SDK for interacting with the Quranic APIs",
+    "stars": 1,
+    "language": "Python",
+    "category": "Quranic Text and Reading",
+    "deployment": "🛠️",
+    "top2": "👍 Easy integration with Quranic APIs, Provides extensive functionalities for Quran interactions"
+  },
+  "safwatsohail/maharashtra-azan-": {
+    "name": "maharashtra-azan-",
+    "html_url": "https://github.com/Safwatsohail/maharashtra-azan-",
+    "description": "A collection of codes and tools for generating Azan timings for cities in Maharashtra, India",
+    "stars": 1,
+    "language": "Kotlin",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🛠️",
+    "top2": "👍 Provides accurate Azan timings for multiple cities in Maharashtra👍 Supports customization and adjustment of Azan timings"
+  },
+  "dev-fos/islampodcast": {
+    "name": "islampodcast",
+    "html_url": "https://github.com/dev-fos/islampodcast",
+    "description": "A podcast application for Islamic teachings",
+    "stars": 1,
+    "language": "HTML",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Provides a collection of Islamic teachings, Supports offline listening"
+  },
+  "m7frd/makencore": {
+    "name": "MakenCore",
+    "html_url": "https://github.com/M7FRD/MakenCore",
+    "description": "A C++ game engine framework",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Other",
+    "deployment": "🛠️",
+    "top2": "👍 Cross-platform support, Entity-Component-System architecture"
+  },
+  "intizamia/awqat": {
+    "name": "awqat",
+    "html_url": "https://github.com/Intizamia/awqat",
+    "description": "Awqat is an Islamic prayer time calculation library for JavaScript.",
+    "stars": 0,
+    "language": "Dart",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🛠️",
+    "top2": "👍 Provides accurate prayer time calculations, Supports multiple calculation methods"
+  },
+  "arratq/sadaa": {
+    "name": "sadaa",
+    "html_url": "https://github.com/ARRATQ/sadaa",
+    "description": "ARRATQ/sadaa",
+    "stars": 0,
+    "language": "PHP",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Open Source, Audio Processing"
+  },
+  "hemoyt/sadga": {
+    "name": "sadga",
+    "html_url": "https://github.com/hemoyt/sadga",
+    "description": "Student Ambassadors Digital Game Academy",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🌐",
+    "top2": "👍 Online interactive games, Educational content"
+  },
+  "imabusayed/hud-quran-ki-roshni": {
+    "name": "hud-quran-ki-roshni",
+    "html_url": "https://github.com/ImAbuSayed/hud-quran-ki-roshni",
+    "description": "A Quranic app to read and listen to the Quran with translations and tafsir",
+    "stars": 0,
+    "language": "HTML",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides translations and tafsir of the Quran, Offers audio playback feature"
+  },
+  "mxmunrt/zakat-calculator": {
+    "name": "zakat-calculator",
+    "html_url": "https://github.com/mxmunrt/zakat-calculator",
+    "description": "A zakat calculator project",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Islamic Resources and Community",
+    "deployment": "🌐",
+    "top2": "👍 Easy to use interface, Detailed breakdown of zakat calculation"
+  },
+  "revengine3r/iran-prayer-py": {
+    "name": "iran-prayer-py",
+    "html_url": "https://github.com/RevEngine3r/iran-prayer-py",
+    "description": "A Python library for calculating prayer times in Iran",
+    "stars": 0,
+    "language": "Python",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🌐",
+    "top2": "👍 Accurate prayer time calculations, 🌐 Web deployment"
+  },
+  "omarzen/wadhakir": {
+    "name": "WADHAKIR",
+    "html_url": "https://github.com/OmarZen/WADHAKIR",
+    "description": "WADHAKIR",
+    "stars": 2,
+    "language": "Dart",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Quran website with audio player and translation feature"
+  },
+  "ratulhasan/noor-tab": {
+    "name": "noor-tab",
+    "html_url": "https://github.com/RatulHasan/noor-tab",
+    "description": "A simple new tab extension for Google Chrome",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Custom backgrounds, Quick access to bookmarks"
+  },
+  "geeksesi/salamquran-wordpress-plugin": {
+    "name": "SalamQuran-wordpress-plugin",
+    "html_url": "https://github.com/geeksesi/SalamQuran-wordpress-plugin",
+    "description": "SalamQuran Wordpress Plugin",
+    "stars": 1,
+    "language": "PHP",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides an easy way to display random verses from the Quran on a Wordpress website. Integrates with the Quran API for accurate verses."
+  },
+  "soghayarmahmoud/al-buckary": {
+    "name": "Al-Buckary",
+    "html_url": "https://github.com/soghayarmahmoud/Al-Buckary",
+    "description": "Al-Buckary is a library for Buckary font, initially created for Yalda app.",
+    "stars": 15,
+    "language": "Dart",
+    "category": "Hadith Search and API",
+    "deployment": "🌐",
+    "top2": "👍 Supports custom fonts, Enables easy integration of Buckary font"
+  },
+  "its3li/salaf-ai": {
+    "name": "Salaf-AI",
+    "html_url": "https://github.com/its3li/Salaf-AI",
+    "description": "Salaf-AI is a deep learning project that detects and classifies pre-Islamic Arabian rock art depictions of camels and horse riders.",
+    "stars": 1,
+    "language": "TypeScript",
+    "category": "Other",
+    "deployment": "🛠️",
+    "top2": "👍 Detects and classifies pre-Islamic Arabian rock art depictions, Uses deep learning techniques"
+  },
+  "mohamedkrms/firdws": {
+    "name": "firdws",
+    "html_url": "https://github.com/Mohamedkrms/firdws",
+    "description": "A lightweight, responsive and customizable CSS framework",
+    "stars": 2,
+    "language": "JavaScript",
+    "category": "Other",
+    "deployment": "🛠️",
+    "top2": "👍 Customizable design, Responsive layout"
+  },
+  "adelpro/quran-search-engine": {
+    "name": "quran-search-engine",
+    "html_url": "https://github.com/adelpro/quran-search-engine",
+    "description": "Quran search engine for searching verses and translations",
+    "stars": 27,
+    "language": "Python",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Search Quran verses and translations, support for multiple languages"
+  },
+  "up2gpt-commits/hijri-converter": {
+    "name": "hijri-converter",
+    "html_url": "https://github.com/up2gpt-commits/hijri-converter",
+    "description": "A Python library to convert Gregorian dates to Hijri dates and vice versa",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Islamic Events and Reminders",
+    "deployment": "🛠️",
+    "top2": "👍 Simple and easy-to-use interface, Accurate and reliable conversion algorithm"
+  },
+  "tanafaso/tanafaso": {
+    "name": "tanafaso",
+    "html_url": "https://github.com/tanafaso/tanafaso",
+    "description": "Tanafaso is a platform for mental health support in the Arabic language",
+    "stars": 38,
+    "language": "Dart",
+    "category": "Islamic Resources and Community",
+    "deployment": "🌐",
+    "top2": "👍 Offers mental health support in Arabic, Provides a safe space for users to seek help"
+  },
+  "solemetra/awesome-muslims": {
+    "name": "Awesome-Muslims",
+    "html_url": "https://github.com/solemetra/Awesome-Muslims",
+    "description": "A curated list of awesome Muslim professionals in the tech industry",
+    "stars": 0,
+    "language": "Unknown",
+    "category": "Islamic Resources and Community",
+    "deployment": "🌐",
+    "top2": "👍 Curated list of Muslim professionals in tech industry\n👍 Includes resources and projects by Muslim professionals"
+  },
+  "sl4x0/cairo-quran-station": {
+    "name": "cairo-quran-station",
+    "html_url": "https://github.com/sl4x0/cairo-quran-station",
+    "description": "Quranic scripture using PyCairo in Python and rendering it as a video",
+    "stars": 2,
+    "language": "TypeScript",
+    "category": "Other",
+    "deployment": "🛠️",
+    "top2": "👍 Uses PyCairo to render Quranic scripture as a video, Generates dynamic visual representations of Quranic verses"
+  },
+  "bushidoways/quran-tafsir": {
+    "name": "quran-tafsir",
+    "html_url": "https://github.com/bushidoways/quran-tafsir",
+    "description": "Quran Tafsir is a web application for exploring the interpretation of the Quranic verses.",
+    "stars": 0,
+    "language": "Python",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides detailed explanations of Quranic verses, Allows users to search for specific topics within the Tafsir"
+  },
+  "oriva-foundation/yaqeen": {
+    "name": "Yaqeen",
+    "html_url": "https://github.com/Oriva-Foundation/Yaqeen",
+    "description": "Oriva Foundation's Yaqeen project on GitHub",
+    "stars": 2,
+    "language": "Dart",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Open-source blockchain project, Smart contracts for Islamic finance"
+  },
+  "cybersirenssea/hermes-islamic-knowledge": {
+    "name": "hermes-islamic-knowledge",
+    "html_url": "https://github.com/CyberSirensSea/hermes-islamic-knowledge",
+    "description": "Islamic Knowledge Chat bot",
+    "stars": 0,
+    "language": "Unknown",
+    "category": "Quranic Text and Reading",
+    "deployment": "🛠️",
+    "top2": "👍 Provides Islamic knowledge, Engages users in conversation"
+  },
+  "bonyanoss/bonyan-api": {
+    "name": "Bonyan-API",
+    "html_url": "https://github.com/BonyanOSS/Bonyan-API",
+    "description": "Bonyan-API is an open-source API for building applications with modular architecture",
+    "stars": 3,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Modular architecture, Extensible features"
+  },
+  "mtkaya/kuran-app": {
+    "name": "kuran-app",
+    "html_url": "https://github.com/mtkaya/kuran-app",
+    "description": "Quran App for Android",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Provides access to the Quran with translation and tafsir, Offers audio recitations of the Quran"
+  },
+  "usullearning/usullearning": {
+    "name": "usullearning",
+    "html_url": "https://github.com/usullearning/usullearning",
+    "description": "A personalized learning platform for individuals and organizations",
+    "stars": 1,
+    "language": "HTML",
+    "category": "Hadith Collection and Study",
+    "deployment": "🌐",
+    "top2": "👍 Personalized learning experience, Adaptive learning technology"
+  },
+  "nacerbaaziz/qurani": {
+    "name": "qurani",
+    "html_url": "https://github.com/nacerbaaziz/qurani",
+    "description": "Quranic ayah and surah parser",
+    "stars": 10,
+    "language": "AutoIt",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Versatile API for parsing Quranic verses and chapters\n👍 Supports multiple translations and recitations"
+  },
+  "aleafarrel-id/satu-ramadhan": {
+    "name": "satu-ramadhan",
+    "html_url": "https://github.com/aleafarrel-id/satu-ramadhan",
+    "description": "An app to remind and track one's activities during Ramadan",
+    "stars": 1,
+    "language": "JavaScript",
+    "category": "Other",
+    "deployment": "📱",
+    "top2": "👍 Helps users track their activities during Ramadan, Allows users to set reminders for important tasks"
+  },
+  "arufian/shalat-reminder": {
+    "name": "Shalat-Reminder",
+    "html_url": "https://github.com/arufian/Shalat-Reminder",
+    "description": "A simple Islamic prayer time reminder app",
+    "stars": 1,
+    "language": "Swift",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "📱",
+    "top2": "👍 Provides accurate prayer times based on location data, Allows users to customize reminder settings"
+  },
+  "mbilg/open-mushaf": {
+    "name": "Open-Mushaf",
+    "html_url": "https://github.com/mBilG/Open-Mushaf",
+    "description": "Open Mushaf is an open-source Quran app for Android devices",
+    "stars": 2,
+    "language": "Python",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Offers translation in multiple languages\n👍 Provides audio recitations of the Quran"
+  },
+  "mostafa-ben-git/misbaha": {
+    "name": "Misbaha",
+    "html_url": "https://github.com/Mostafa-Ben-Git/Misbaha",
+    "description": "An online Misbaha counter",
+    "stars": 0,
+    "language": "Python",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Simple and easy to use interface, 🌐 Accessible online"
+  },
+  "kayshahbaaz/quran-atlas": {
+    "name": "quran-atlas",
+    "html_url": "https://github.com/kayShahbaaz/quran-atlas",
+    "description": "Quran Atlas is an interactive web application that allows users to explore the Quran in a visual and interactive way.",
+    "stars": 0,
+    "language": "Python",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Interactive exploration of the Quran, Visual representation of Quranic data"
+  },
+  "anassmdi/prayin.time": {
+    "name": "prayin.time",
+    "html_url": "https://github.com/anassmdi/prayin.time",
+    "description": "A web application for tracking prayer times",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🌐",
+    "top2": "👍 Provides accurate prayer times based on location, Allows users to set reminders for prayers"
+  },
+  "sasfar/basirah": {
+    "name": "Basirah",
+    "html_url": "https://github.com/sasfar/Basirah",
+    "description": "Basirah is an open-source website designed to help facilitate Quran memorization and revision.",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Quran memorization aid, User-friendly interface"
+  },
+  "ansari-project/ansari-skill": {
+    "name": "ansari-skill",
+    "html_url": "https://github.com/ansari-project/ansari-skill",
+    "description": "Ansari Skill project repository",
+    "stars": 19,
+    "language": "Unknown",
+    "category": "Islamic Resources and Community",
+    "deployment": "🛠️",
+    "top2": "👍 Natural language processing, Code structuring"
+  },
+  "abdalla-eldoumani/tajweed-trainer": {
+    "name": "tajweed-trainer",
+    "html_url": "https://github.com/Abdalla-Eldoumani/tajweed-trainer",
+    "description": "Tajweed Trainer is an interactive web application to practice Tajweed rules",
+    "stars": 1,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides interactive practice for Tajweed rules, Tracks user progress"
+  },
+  "rokybeast/iqratui": {
+    "name": "IqraTUI",
+    "html_url": "https://github.com/rokybeast/IqraTUI",
+    "description": "A Quran TUI based on roper",
+    "stars": 2,
+    "language": "Rust",
+    "category": "Quranic Text and Reading",
+    "deployment": "🖥️",
+    "top2": "👍 Command-line interface, Fast navigation"
+  },
+  "navvkhn/quran_ai": {
+    "name": "Quran_AI",
+    "html_url": "https://github.com/navvkhn/Quran_AI",
+    "description": "Quran AI is a project that leverages AI to analyze and extract insights from the Quran.",
+    "stars": 0,
+    "language": "Python",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Uses AI for analysis and insights\n👍 Provides tools for studying the Quran"
+  },
+  "ziadamr45/zad-ziad": {
+    "name": "Zad-Ziad",
+    "html_url": "https://github.com/ziadamr45/Zad-Ziad",
+    "description": "Personal Portfolio Website",
+    "stars": 1,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Includes projects and blog sections, 👍 Responsive design for all devices"
+  },
+  "assayyaad/salasel": {
+    "name": "Salasel",
+    "html_url": "https://github.com/Assayyaad/Salasel",
+    "description": "An open-source password manager",
+    "stars": 3,
+    "language": "TypeScript",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Secure encryption, Cross-platform support"
+  },
+  "mustafa56969/namaz-reminder-custom-time": {
+    "name": "Namaz-Reminder-Custom-Time",
+    "html_url": "https://github.com/mustafa56969/Namaz-Reminder-Custom-Time",
+    "description": "Namaz Reminder Custom Time",
+    "stars": 1,
+    "language": "Dart",
+    "category": "Islamic Events and Reminders",
+    "deployment": "🖥️",
+    "top2": "👍 Customized prayer time reminder, Supports multiple prayer times"
+  },
+  "engaboodsdev/aoun": {
+    "name": "aoun",
+    "html_url": "https://github.com/EngAboodSDev/aoun",
+    "description": "Github repository for EngAboodSDev's project Aoun",
+    "stars": 0,
+    "language": "PHP",
+    "category": "Quranic Learning and Study Tools",
+    "deployment": "🌐",
+    "top2": "👍 Open-source project, Easy to contribute to"
+  },
+  "fathahnoor/kalkulator-waris": {
+    "name": "kalkulator-waris",
+    "html_url": "https://github.com/fathahnoor/kalkulator-waris",
+    "description": "Calculator for calculating inheritance in Islamic laws",
+    "stars": 1,
+    "language": "HTML",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Islamic inheritance calculation, user-friendly interface"
+  },
+  "hamzaaakmal/al-hudud-islamic-browser": {
+    "name": "Al-Hudud-Islamic-Browser",
+    "html_url": "https://github.com/HamzaaAkmal/Al-Hudud-Islamic-Browser",
+    "description": "Al-Hudud Islamic Browser is a web browser focused on providing Islamic content and features for Muslim users.",
+    "stars": 0,
+    "language": "Unknown",
+    "category": "Hadith Search and API",
+    "deployment": "🌐",
+    "top2": "👍 Islamic content and features, User-friendly interface"
+  },
+  "drilonjaha/kohet-e-namazit-kosove-json": {
+    "name": "kohet-e-namazit-kosove-json",
+    "html_url": "https://github.com/drilonjaha/kohet-e-namazit-kosove-json",
+    "description": "Prayer Times for Kosovo in JSON format",
+    "stars": 5,
+    "language": "Unknown",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Provides prayer times data for Kosovo in JSON format, Easy to integrate into applications"
+  },
+  "hardikasetiyawann/quran_digital": {
+    "name": "quran_digital",
+    "html_url": "https://github.com/Hardikasetiyawann/quran_digital",
+    "description": "Digital Quran app",
+    "stars": 1,
+    "language": "Dart",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Multi-language support, audio recitations"
+  },
+  "basimibrahim-git/expense-manager": {
+    "name": "Expense-Manager",
+    "html_url": "https://github.com/basimibrahim-git/Expense-Manager",
+    "description": "Expense Manager is a web application for managing expenses.",
+    "stars": 0,
+    "language": "PHP",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Tracks expenses, Generates reports"
+  },
+  "alhifnywahid/jihati-app": {
+    "name": "jihati-app",
+    "html_url": "https://github.com/alhifnywahid/jihati-app",
+    "description": "Jihati App is a social media platform",
+    "stars": 2,
+    "language": "Dart",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍  Social media platform for Arab users, Video sharing feature"
+  },
+  "codingshot/muslimname": {
+    "name": "muslimname",
+    "html_url": "https://github.com/codingshot/muslimname",
+    "description": "Muslim name generator for both males and females",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Generates Muslim names for males and females, Offers a wide range of names to choose from"
+  },
+  "mohammedsabry13/atamer": {
+    "name": "Atamer",
+    "html_url": "https://github.com/Mohammedsabry13/Atamer",
+    "description": "Atamer is an open-source web application for managing and tracking tasks and projects.",
+    "stars": 0,
+    "language": "HTML",
+    "category": "Islamic Events and Reminders",
+    "deployment": "🌐",
+    "top2": "👍 Easy task and project management,👍 Intuitive user interface"
+  },
+  "fathulfahmy/urusmasjid": {
+    "name": "urusmasjid",
+    "html_url": "https://github.com/fathulfahmy/urusmasjid",
+    "description": "An open-source mosque management system",
+    "stars": 2,
+    "language": "PHP",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🌐",
+    "top2": "👍 Customizable mosque management features, User-friendly interface"
+  },
+  "dvlinuxx-max/zakat": {
+    "name": "zakat",
+    "html_url": "https://github.com/dvlinuxx-max/zakat",
+    "description": "A simple zakat calculator for Muslims",
+    "stars": 0,
+    "language": "HTML",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Easy to use, Supports multiple types of wealth"
+  },
+  "up2u2b11/d369-research": {
+    "name": "d369-research",
+    "html_url": "https://github.com/up2u2b11/d369-research",
+    "description": "Research on algorithm in data structure",
+    "stars": 0,
+    "language": "Python",
+    "category": "Quranic Text and Reading",
+    "deployment": "🛠️",
+    "top2": "👍 Hands-on coding exercises, in-depth algorithm analysis"
+  },
+  "mostafaahmed97/asbab-al-nuzul-dataset": {
+    "name": "asbab-al-nuzul-dataset",
+    "html_url": "https://github.com/mostafaahmed97/asbab-al-nuzul-dataset",
+    "description": "Dataset of reasons for revelation in the Quran",
+    "stars": 8,
+    "language": "Jupyter Notebook",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Includes detailed information on the context and reasons for revelation in the Quran\n👍 Allows for in-depth study and analysis of the Quranic verses"
+  },
+  "salaamalykum/halal-food-in-china": {
+    "name": "Halal-Food-In-China",
+    "html_url": "https://github.com/salaamalykum/Halal-Food-In-China",
+    "description": "Halal Food In China is a web application for finding and reviewing halal restaurants in China.",
+    "stars": 0,
+    "language": "CSS",
+    "category": "Islamic Resources and Community",
+    "deployment": "🌐",
+    "top2": "👍 Provides a platform for finding halal restaurants in China\n👍 Allows users to review and rate halal restaurants"
+  },
+  "yousseflab20-ui/eid-greeting-card": {
+    "name": "eid-greeting-card",
+    "html_url": "https://github.com/yousseflab20-ui/eid-greeting-card",
+    "description": "Eid Greeting Card project on GitHub",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Islamic Events and Reminders",
+    "deployment": "🌐",
+    "top2": "👍 Creative design, interactive features"
+  },
+  "saaadikur/audio-quran-urdu-offline": {
+    "name": "Audio-Quran-Urdu-Offline",
+    "html_url": "https://github.com/saaadikur/Audio-Quran-Urdu-Offline",
+    "description": "An offline audio Quran application in Urdu",
+    "stars": 1,
+    "language": "Unknown",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Contains Urdu translation and audio recitation of the Quran, Allows users to listen to the Quran offline"
+  },
+  "ghassanelgendy/mouse-sebha": {
+    "name": "mouse-sebha",
+    "html_url": "https://github.com/ghassanelgendy/mouse-sebha",
+    "description": "A web-based virtual tasbeeh counter",
+    "stars": 0,
+    "language": "Python",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Simple interface, Counting functionality"
+  },
+  "ummeco/islamwiki": {
+    "name": "islamwiki",
+    "html_url": "https://github.com/ummeco/islamwiki",
+    "description": "A Wikipedia-like platform for Islamic knowledge sharing",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Community-driven content creation, User-friendly interface"
+  },
+  "kayshahbaaz/quran-translation-auditor": {
+    "name": "quran-translation-auditor",
+    "html_url": "https://github.com/kayShahbaaz/quran-translation-auditor",
+    "description": "Quran Translation Auditor is a tool for auditing Quran translations for accuracy and consistency.",
+    "stars": 0,
+    "language": "Python",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides comparison of multiple Quran translations, Offers detailed analysis of translation accuracy"
+  },
+  "shoaibhb/tasbeeh-counter": {
+    "name": "tasbeeh-counter",
+    "html_url": "https://github.com/shoaibhb/tasbeeh-counter",
+    "description": "Tasbeeh counter app for Android",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Islamic Resources and Community",
+    "deployment": "📱",
+    "top2": "👍 Simple and easy to use interface, Offline functionality for convenience"
+  },
+  "chenten16/hadith-mcp": {
+    "name": "hadith-mcp",
+    "html_url": "https://github.com/chenten16/hadith-mcp",
+    "description": "A web application for browsing and searching Hadith collections.",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Hadith Collection and Study",
+    "deployment": "🌐",
+    "top2": "👍 Provides access to various Hadith collections, Enables searching and browsing functionalities"
+  },
+  "abdalrhman-abuwarda/shafee-al-muslim": {
+    "name": "shafee-al-muslim",
+    "html_url": "https://github.com/Abdalrhman-Abuwarda/shafee-al-muslim",
+    "description": "Shafee-al-Muslm is a project to help Muslims perform their daily prayers with ease and accuracy.",
+    "stars": 0,
+    "language": "Dart",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides accurate prayer times and qibla direction\n👍 Includes a digital tasbeeh counter for dhikr"
+  },
+  "aziz-mohamed/p32-quran-school-24062025": {
+    "name": "p32-Quran-school-24062025",
+    "html_url": "https://github.com/Aziz-Mohamed/p32-Quran-school-24062025",
+    "description": "Quran School Management System",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Online Quran learning and management system, Enhanced user experience"
+  },
+  "muttakinhasib/prayer-times-pro": {
+    "name": "prayer-times-pro",
+    "html_url": "https://github.com/MuttakinHasib/prayer-times-pro",
+    "description": "Prayer Times Pro is a web application to display prayer times for a specific location.",
+    "stars": 0,
+    "language": "Rust",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🌐",
+    "top2": "👍 Real-time prayer time updates, Multiple location support"
+  },
+  "bukanwani68/tasbeeh.js": {
+    "name": "Tasbeeh.js",
+    "html_url": "https://github.com/bukanwani68/Tasbeeh.js",
+    "description": "A JavaScript project for keeping track of tasbeeh (dhikr) counts",
+    "stars": 0,
+    "language": "HTML",
+    "category": "Other",
+    "deployment": "🖥️",
+    "top2": "👍 Provides a simple interface for counting tasbeeh beads, Allows users to customize the bead count"
+  },
+  "abidiahmedcom/qadha-web": {
+    "name": "qadha-web",
+    "html_url": "https://github.com/abidiahmedcom/qadha-web",
+    "description": "Qadha Web is a web application for managing legal cases and clients.",
+    "stars": 0,
+    "language": "HTML",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🌐",
+    "top2": "👍 Streamlined case management, Smart client profiles"
+  },
+  "maulanar/hadits-online": {
+    "name": "hadits-online",
+    "html_url": "https://github.com/MaulanaR/hadits-online",
+    "description": "A repository for an online Hadith viewer",
+    "stars": 0,
+    "language": "HTML",
+    "category": "Hadith Collection and Study",
+    "deployment": "🌐",
+    "top2": "👍 Provides access to a collection of Hadiths, User-friendly interface"
+  },
+  "maifeeulasad/prayer-tracker-islamic": {
+    "name": "prayer-tracker-islamic",
+    "html_url": "https://github.com/maifeeulasad/prayer-tracker-islamic",
+    "description": "Prayer Tracker Islamic is a web application for tracking daily prayers.",
+    "stars": 1,
+    "language": "Kotlin",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🌐",
+    "top2": "👍 Tracks daily prayers, Reminder for prayer times"
+  },
+  "dotquran/corpus": {
+    "name": "corpus",
+    "html_url": "https://github.com/dotquran/corpus",
+    "description": "A Quranic Arabic corpus with POS tags and English translations",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Includes POS tags for Arabic words, English translations available"
+  },
+  "emaan-rehman/ramadan-flutter-app": {
+    "name": "Ramadan-flutter-app",
+    "html_url": "https://github.com/emaan-rehman/Ramadan-flutter-app",
+    "description": "Ramadan Flutter App on Github",
+    "stars": 0,
+    "language": "C++",
+    "category": "Islamic Events and Reminders",
+    "deployment": "📱",
+    "top2": "👍 Ramadan Time, Prayer Time"
+  },
+  "aldan2606/ayya": {
+    "name": "ayya",
+    "html_url": "https://github.com/aldan2606/ayya",
+    "description": "Ayya is a project for sentiment analysis of text data using machine learning techniques.",
+    "stars": 0,
+    "language": "HTML",
+    "category": "Other",
+    "deployment": "🛠️",
+    "top2": "👍 Sentiment analysis using ML techniques, Pre-trained models available"
+  },
+  "truthwayofislam/noor": {
+    "name": "Noor",
+    "html_url": "https://github.com/truthwayofislam/Noor",
+    "description": "The Noor app is an Islamic learning tool for Muslims around the world.",
+    "stars": 0,
+    "language": "Dart",
+    "category": "Other",
+    "deployment": "📱",
+    "top2": "👍 Provides a comprehensive Islamic learning experience, Offers interactive multimedia content"
+  },
+  "kquran/kquran.github.io": {
+    "name": "kquran.github.io",
+    "html_url": "https://github.com/Kquran/kquran.github.io",
+    "description": "KQuran is an online Quran reader with audio recitations and translations.",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Online Quran reader with audio recitations and translations, Responsive design for mobile and desktop users"
+  },
+  "xoner1/sakin": {
+    "name": "sakin",
+    "html_url": "https://github.com/Xoner1/sakin",
+    "description": "A web application for sharing emotional experiences and feelings",
+    "stars": 20,
+    "language": "Dart",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🌐",
+    "top2": "👍 Emotion-focused platform for sharing and connecting with others, Real-time chat feature for communication"
+  },
+  "pipeworx-io/mcp-quran": {
+    "name": "mcp-quran",
+    "html_url": "https://github.com/pipeworx-io/mcp-quran",
+    "description": "A Quran application for Android and iOS",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Offline mode support, multiple translations available"
+  },
+  "friedegg796/muslimdiscs": {
+    "name": "Muslimdiscs",
+    "html_url": "https://github.com/friedegg796/Muslimdiscs",
+    "description": "Muslimdiscs is an open-source project for tracking prayers and fasting, and connecting with Muslim communities.",
+    "stars": 1,
+    "language": "Java",
+    "category": "Islamic Resources and Community",
+    "deployment": "🌐",
+    "top2": "👍 Track prayers and fasting, Connect with Muslim communities"
+  },
+  "vincenzoh-gh/16-line-quran": {
+    "name": "16-Line-Quran",
+    "html_url": "https://github.com/vincenzoh-gh/16-Line-Quran",
+    "description": "16 Line Quran",
+    "stars": 5,
+    "language": "Unknown",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Easy to read, Simplified format"
+  },
+  "taqwajourneyapp/taqwajourneyapp.github.io": {
+    "name": "taqwajourneyapp.github.io",
+    "html_url": "https://github.com/TaqwaJourneyApp/taqwajourneyapp.github.io",
+    "description": "The official website for the Taqwa Journey App",
+    "stars": 0,
+    "language": "HTML",
+    "category": "Islamic Resources and Community",
+    "deployment": "🌐",
+    "top2": "👍 Islamic reminders and community features"
+  },
+  "cyberzilla/quranicquotes": {
+    "name": "QuranicQuotes",
+    "html_url": "https://github.com/cyberzilla/QuranicQuotes",
+    "description": "A collection of Quranic quotes with beautiful typography",
+    "stars": 1,
+    "language": "HTML",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Includes beautiful typography design\n👍 Easy navigation through Quranic quotes"
+  },
+  "abdullahiismail04/dowrah": {
+    "name": "dowrah",
+    "html_url": "https://github.com/AbdullahiIsmail04/dowrah",
+    "description": "A platform for learning Islamic knowledge",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Provides structured Islamic learning content, Offers interactive quizzes and tests"
+  },
+  "syofyanzuhad/quran-tikrar": {
+    "name": "quran-tikrar",
+    "html_url": "https://github.com/syofyanzuhad/quran-tikrar",
+    "description": "Quran Tikrar is an application to help users repeat verses from the Quran with ease.",
+    "stars": 5,
+    "language": "Vue",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Helps users repeat Quran verses easily, Provides audio playback feature for better learning"
+  },
+  "alrightcha/medina-ios": {
+    "name": "medina-ios",
+    "html_url": "https://github.com/alrightCha/medina-ios",
+    "description": "Medina is a Swift based iOS application for displaying and categorizing fashion products.",
+    "stars": 0,
+    "language": "Swift",
+    "category": "Islamic Resources and Community",
+    "deployment": "📱",
+    "top2": "👍 Visual categorization of fashion products, Seamless scrolling experience"
+  },
+  "alhifnywahid/jihati-content": {
+    "name": "jihati-content",
+    "html_url": "https://github.com/alhifnywahid/jihati-content",
+    "description": "Jihati Content is a platform where users can share articles, stories, and blogs.",
+    "stars": 0,
+    "language": "Python",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 User-friendly interface, Social media integration"
+  },
+  "theilgaz/mahfuz": {
+    "name": "mahfuz",
+    "html_url": "https://github.com/theilgaz/mahfuz",
+    "description": "Mahfuz is a simple JSON web token helper and manager written in Python.",
+    "stars": 108,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🛠️",
+    "top2": "👍 Lightweight and easy to use, 👍 Ability to generate and manage JSON web tokens"
+  },
+  "mubeenkhan246/hidaya-quran-learning-flutter-app": {
+    "name": "hidaya-quran-learning-flutter-app",
+    "html_url": "https://github.com/mubeenkhan246/hidaya-quran-learning-flutter-app",
+    "description": "Quran learning Flutter App",
+    "stars": 1,
+    "language": "Dart",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Interactive learning experience, User progress tracking"
+  },
+  "zaidlh/quran-multi-lang-app": {
+    "name": "quran-multi-lang-app",
+    "html_url": "https://github.com/zaidlh/quran-multi-lang-app",
+    "description": "Quran Multi Language App",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Multi-language support, Search functionality"
+  },
+  "salman-apk/namaztimings": {
+    "name": "NamazTimings",
+    "html_url": "https://github.com/salman-apk/NamazTimings",
+    "description": "NamazTimings is a library for calculating prayer timings based on various methods.",
+    "stars": 5,
+    "language": "Java",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🛠️",
+    "top2": "👍 Provides accurate prayer timings based on different calculation methods, Supports multiple locations for calculating prayer timings"
+  },
+  "ismaelguerrib/quran-french-api": {
+    "name": "quran-french-api",
+    "html_url": "https://github.com/ismaelguerrib/quran-french-api",
+    "description": "Quran French API for retrieving Quran verses in French",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides Quran verses in French, Easy to integrate with applications"
+  },
+  "myb-sifat/al-quran": {
+    "name": "AL-QURAN",
+    "html_url": "https://github.com/MYB-SIFAT/AL-QURAN",
+    "description": "A collection of Al-Quran verses with translation and explanation",
+    "stars": 6,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides detailed translation and explanation of Al-Quran verses, Organized in a user-friendly manner"
+  },
+  "msaifulcsse/kidslearning": {
+    "name": "kidslearning",
+    "html_url": "https://github.com/msaifulcsse/kidslearning",
+    "description": "A project for kids to learn through interactive games and activities",
+    "stars": 0,
+    "language": "HTML",
+    "category": "Quranic Text and Reading",
+    "deployment": "🖥️",
+    "top2": "👍 Fun and interactive learning experience, Rich variety of educational games"
+  },
+  "namazvaxti991-aud/namaz-vaxti-extension": {
+    "name": "namaz-vaxti-extension",
+    "html_url": "https://github.com/namazvaxti991-aud/namaz-vaxti-extension",
+    "description": "Namaz Vaxtı extension for Google Chrome",
+    "stars": 0,
+    "language": "HTML",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🖥️",
+    "top2": "👍 Provides daily prayer times👍 Customizable settings for prayer calculation methods"
+  },
+  "abourdim/tesbih": {
+    "name": "tesbih",
+    "html_url": "https://github.com/abourdim/tesbih",
+    "description": "Tesbih: A multi-platform (iOS, Android, Web) Tasbih app written using Flutter.",
+    "stars": 0,
+    "language": "HTML",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Multi-platform (iOS, Android, Web) support, Simple and user-friendly interface"
+  },
+  "maktaba-johir/rahbar": {
+    "name": "rahbar",
+    "html_url": "https://github.com/maktaba-johir/rahbar",
+    "description": "Rahbar is a personal documentation project for a developer",
+    "stars": 0,
+    "language": "HTML",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Open-source, Supports Markdown files"
+  },
+  "4bdull4h/prayer-kids-app": {
+    "name": "prayer-kids-app",
+    "html_url": "https://github.com/4bdull4h/prayer-kids-app",
+    "description": "Prayer Kids App is a mobile application for helping kids learn and practice prayers.",
+    "stars": 0,
+    "language": "Dart",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "📱",
+    "top2": "👍 Interactive prayer learning experience, 🌐 Available on mobile devices"
+  },
+  "abdelrhman0011/noor_app": {
+    "name": "noor_app",
+    "html_url": "https://github.com/abdelrhman0011/noor_app",
+    "description": "Noor app is a mobile application for managing tasks and reminders",
+    "stars": 0,
+    "language": "Dart",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "📱",
+    "top2": "👍 Task management, Reminder functionality"
+  },
+  "qalbwise/app": {
+    "name": "app",
+    "html_url": "https://github.com/qalbwise/app",
+    "description": "QalbWise App Repository",
+    "stars": 3,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Cross-platform, Offline support"
+  },
+  "darkmaster0345/noor-connect": {
+    "name": "Noor-connect",
+    "html_url": "https://github.com/darkmaster0345/Noor-connect",
+    "description": "Connect all Noor devices easily",
+    "stars": 14,
+    "language": "TypeScript",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Easy device connectivity, Seamless integration with Noor devices"
+  },
+  "ziyadabouelenin/rusookh": {
+    "name": "rusookh",
+    "html_url": "https://github.com/ziyadAbouelenin/rusookh",
+    "description": "Rusookh is an Arabic utility library containing implementations of common algorithms and data structures.",
+    "stars": 3,
+    "language": "HTML",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Contains implementations of common algorithms and data structures, Supports Arabic language utility functions"
+  },
+  "rushdv/muhasabah": {
+    "name": "muhasabah",
+    "html_url": "https://github.com/rushdv/muhasabah",
+    "description": "Muhasabah is a personal finance management tool",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Tracks expenses and income, Generates financial reports"
+  },
+  "msayed-net/ana_muslim_data": {
+    "name": "ana_muslim_data",
+    "html_url": "https://github.com/msayed-net/ana_muslim_data",
+    "description": "Ana Muslim Data is an application that helps Muslims organize their daily religious practices and routines.",
+    "stars": 0,
+    "language": "HTML",
+    "category": "Islamic Resources and Community",
+    "deployment": "🌐",
+    "top2": "👍 Provides a platform to organize daily religious practices, Offers a user-friendly interface for easy navigation"
+  },
+  "bewinxed/minaret": {
+    "name": "minaret",
+    "html_url": "https://github.com/Bewinxed/minaret",
+    "description": "An open-source project for managing and monitoring Kubernetes clusters",
+    "stars": 2,
+    "language": "Python",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🌐",
+    "top2": "👍 Automated monitoring and management of Kubernetes clusters, Real-time notifications and alerts for cluster events"
+  },
+  "yshalsager/raycast-quran-search": {
+    "name": "raycast-quran-search",
+    "html_url": "https://github.com/yshalsager/raycast-quran-search",
+    "description": "Raycast Quran Search is a command-line tool to search and view Quran verses in Raycast",
+    "stars": 2,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🛠️",
+    "top2": "👍 Command-line tool for searching and viewing Quran verses\n👍 Supports Raycast for easy access"
+  },
+  "abdullahi0720006477/quran-digital-app": {
+    "name": "quran-digital-app",
+    "html_url": "https://github.com/Abdullahi0720006477/quran-digital-app",
+    "description": "Quran digital app for reading and listening to the Quran",
+    "stars": 0,
+    "language": "Unknown",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 User-friendly interface, Audio playback feature"
+  },
+  "srmdn/quran-tracker": {
+    "name": "quran-tracker",
+    "html_url": "https://github.com/srmdn/quran-tracker",
+    "description": "A Quran tracker app to keep track of Quran reading progress",
+    "stars": 1,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Tracks Quran reading progress, Provides daily reading goals"
+  },
+  "runsdev/quran-guessr": {
+    "name": "quran-guessr",
+    "html_url": "https://github.com/runsdev/quran-guessr",
+    "description": "A game to guess Quran verses",
+    "stars": 1,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Multi-language support, Random verse selection"
+  },
+  "xdidriss/adhan-bot": {
+    "name": "Adhan-Bot",
+    "html_url": "https://github.com/xdidriss/Adhan-Bot",
+    "description": "Adhan-Bot is a Discord bot that notifies users about prayer times based on their location.",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Other",
+    "deployment": "🛠️",
+    "top2": "👍 Provides accurate prayer time notifications\n👍 Customizable based on user location"
+  },
+  "yamankoudmani/ha-salah-times": {
+    "name": "ha-salah-times",
+    "html_url": "https://github.com/YamanKoudmani/ha-salah-times",
+    "description": "Python script for retrieving Salah times for Home Assistant",
+    "stars": 0,
+    "language": "Python",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🛠️",
+    "top2": "👍 Integrates Salah times into Home Assistant\n👍 Supports multiple calculation methods"
+  },
+  "aqib-rime/qibla": {
+    "name": "qibla",
+    "html_url": "https://github.com/Aqib-Rime/qibla",
+    "description": "Aqib-Rime's qibla project on Github",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🌐",
+    "top2": "👍 Provides accurate Qibla direction\n👍 Supports multiple locations"
+  },
+  "kareem2099/codetune": {
+    "name": "codetune",
+    "html_url": "https://github.com/kareem2099/codetune",
+    "description": "A platform to practice coding with real-time feedback",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Interactive coding practice sessions, Real-time feedback on code quality"
+  },
+  "elsayedmagdy122/zad-el-momen": {
+    "name": "Zad-El-Momen",
+    "html_url": "https://github.com/ElsayedMagdy122/Zad-El-Momen",
+    "description": "A repository for the Zad El Momen project",
+    "stars": 22,
+    "language": "Kotlin",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Arabic text recognition, Image preprocessing"
+  },
+  "abdulwahed-s/prayer_time_plus": {
+    "name": "prayer_time_plus",
+    "html_url": "https://github.com/abdulwahed-s/prayer_time_plus",
+    "description": "Prayer Time Plus is a web application that provides prayer times for Muslims around the world.",
+    "stars": 0,
+    "language": "Dart",
+    "category": "Hadith Collection and Study",
+    "deployment": "🌐",
+    "top2": "👍 Provides accurate prayer times based on location, User-friendly interface with customizable settings"
+  },
+  "mahnoor-data/fiqah-rag-engine": {
+    "name": "fiqah-rag-engine",
+    "html_url": "https://github.com/Mahnoor-data/fiqah-rag-engine",
+    "description": "A regex engine for parsing strings in TypeScript",
+    "stars": 2,
+    "language": "Jupyter Notebook",
+    "category": "Quranic Text and Reading",
+    "deployment": "🛠️",
+    "top2": "👍 Easy to use regex engine, Supports TypeScript"
+  },
+  "quran8vs/quran-video-studio": {
+    "name": "Quran-Video-Studio",
+    "html_url": "https://github.com/quran8vs/Quran-Video-Studio",
+    "description": "Quran Video Studio is a tool for creating videos with Quranic content.",
+    "stars": 16,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🛠️",
+    "top2": "👍 Allows users to easily create videos with Quranic text and audio. Provides a user-friendly interface for editing and customizing videos."
+  },
+  "bahaback-hub/quran-app": {
+    "name": "quran-app",
+    "html_url": "https://github.com/bahaback-hub/quran-app",
+    "description": "Quran App for reading and listening to the Holy Quran",
+    "stars": 1,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Provides reading and listening features, User-friendly interface"
+  },
+  "71iq/hafiz": {
+    "name": "Hafiz",
+    "html_url": "https://github.com/71iq/Hafiz",
+    "description": "Hafiz is an open-source Quran memorization tracker and guide.",
+    "stars": 1,
+    "language": "TypeScript",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Tracks progress of Quran memorization, Provides guidance for memorization techniques"
+  },
+  "abdulwahed-s/prayer-time-plus-kotlin": {
+    "name": "prayer-time-plus-kotlin",
+    "html_url": "https://github.com/abdulwahed-s/prayer-time-plus-kotlin",
+    "description": "Prayer Time Plus Kotlin is a mobile app for Islamic prayer times.",
+    "stars": 0,
+    "language": "Kotlin",
+    "category": "Hadith Collection and Study",
+    "deployment": "📱",
+    "top2": "👍 Provides accurate prayer timings, Allows users to set prayer time reminders"
+  },
+  "apitlekays/sajda": {
+    "name": "Sajda",
+    "html_url": "https://github.com/apitlekays/Sajda",
+    "description": "Sajda is a simple Islamic prayer times notification app for Android devices.",
+    "stars": 6,
+    "language": "TypeScript",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "📱",
+    "top2": "👍 Provides accurate prayer times notifications, Offers a clean and minimalist user interface"
+  },
+  "sakeenah-wedding/template": {
+    "name": "template",
+    "html_url": "https://github.com/sakeenah-wedding/template",
+    "description": "Sakeenah Wedding template on Github",
+    "stars": 187,
+    "language": "JavaScript",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Elegant design, Easy customization"
+  },
+  "fp49/prayeralarm": {
+    "name": "PrayerAlarm",
+    "html_url": "https://github.com/FP49/PrayerAlarm",
+    "description": "Prayer Alarm is an Android app that reminds users to pray at specific times of the day.",
+    "stars": 1,
+    "language": "HTML",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "📱",
+    "top2": "👍 Provides reminders for prayer times, Allows users to set specific prayer times"
+  },
+  "stewiriffin/islamic-companion": {
+    "name": "islamic-companion",
+    "html_url": "https://github.com/stewiriffin/islamic-companion",
+    "description": "Islamic Companion is a mobile app that provides Islamic resources and tools for Muslims worldwide.",
+    "stars": 0,
+    "language": "Java",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Comprehensive collection of Islamic resources, Prayer scheduler feature"
+  },
+  "siteq8/kw-os": {
+    "name": "KW-OS",
+    "html_url": "https://github.com/SiteQ8/KW-OS",
+    "description": "Kuwait Operating System is an arabic operating system",
+    "stars": 1,
+    "language": "Unknown",
+    "category": "Islamic Resources and Community",
+    "deployment": "🖥️",
+    "top2": "👍 Supports Arabic language, Open source"
+  },
+  "up2gpt-commits/qibla-direction": {
+    "name": "qibla-direction",
+    "html_url": "https://github.com/up2gpt-commits/qibla-direction",
+    "description": "Get direction of Qibla (Kaaba) for any Location",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Qibla Direction and Finder",
+    "deployment": "🌐",
+    "top2": "👍 Finds accurate Qibla direction\n👍 Supports any location worldwide"
+  },
+  "abidiahmedcom/qadha-salah": {
+    "name": "qadha-salah",
+    "html_url": "https://github.com/abidiahmedcom/qadha-salah",
+    "description": "Qadha Salah App for keeping track of missed prayers",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "📱",
+    "top2": "👍 Tracks missed prayers, Provides reminders"
+  },
+  "akhersheikh/ramadan-2026": {
+    "name": "Ramadan-2026",
+    "html_url": "https://github.com/AkherSheikh/Ramadan-2026",
+    "description": "A Ramadan Countdown app",
+    "stars": 2,
+    "language": "HTML",
+    "category": "Islamic Events and Reminders",
+    "deployment": "📱",
+    "top2": "👍 Tracks the remaining days until Ramadan 2026, Provides notifications for Suhoor and Iftar times"
+  },
+  "farsabdraouf/noor-al-quran": {
+    "name": "Noor-Al-Quran",
+    "html_url": "https://github.com/farsabdraouf/Noor-Al-Quran",
+    "description": "Noor Al Quran is a mobile application for reading and listening to the Quran.",
+    "stars": 1,
+    "language": "C#",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Offers both reading and listening functionalities, User-friendly interface"
+  },
+  "itqan-community/munajjam-desktop": {
+    "name": "munajjam-desktop",
+    "html_url": "https://github.com/Itqan-community/munajjam-desktop",
+    "description": "Munajjam Desktop is a desktop application for managing and organizing Quran translations.",
+    "stars": 1,
+    "language": "TypeScript",
+    "category": "Other",
+    "deployment": "🖥️",
+    "top2": "👍 Cross-platform, Offline mode"
+  },
+  "ahmed-mohamed-3/muslim-companion": {
+    "name": "Muslim-Companion",
+    "html_url": "https://github.com/Ahmed-Mohamed-3/Muslim-Companion",
+    "description": "Muslim Companion is an Android application that provides Islamic tools and resources for Muslims around the world.",
+    "stars": 0,
+    "language": "Dart",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Provides Islamic tools and resources, User-friendly interface"
+  },
+  "arufian/read-quran": {
+    "name": "read-quran",
+    "html_url": "https://github.com/arufian/read-quran",
+    "description": "A web app for reading Quran with translations and tafsir",
+    "stars": 1,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides translations and tafsir, Easy navigation through Quran"
+  },
+  "up2gpt-commits/miraath-calculator": {
+    "name": "miraath-calculator",
+    "html_url": "https://github.com/up2gpt-commits/miraath-calculator",
+    "description": "A calculator for calculating religious offerings according to the Miraath method",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Calculates religious offerings, Offers detailed reports"
+  },
+  "up2gpt-commits/islamic-prayer-times": {
+    "name": "islamic-prayer-times",
+    "html_url": "https://github.com/up2gpt-commits/islamic-prayer-times",
+    "description": "Islamic prayer times API using GPT-3",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🌐",
+    "top2": "👍 Provides accurate Islamic prayer times data, Uses GPT-3 for generating responses"
+  },
+  "amr1977/quran_lights_web": {
+    "name": "quran_lights_web",
+    "html_url": "https://github.com/Amr1977/quran_lights_web",
+    "description": "Quran Lights is a web application for reading the Quran with translation and audio recitations.",
+    "stars": 1,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides translations and audio recitations, User-friendly interface"
+  },
+  "hayredin950/al-muhandis": {
+    "name": "Al-Muhandis",
+    "html_url": "https://github.com/Hayredin950/Al-Muhandis",
+    "description": "A project for managing engineering tasks",
+    "stars": 1,
+    "language": "TypeScript",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Task management, Team collaboration"
+  },
+  "omniversify/amazigh-date-api": {
+    "name": "amazigh-date-api",
+    "html_url": "https://github.com/omniversify/amazigh-date-api",
+    "description": "Amazigh Date API is an API for converting Gregorian dates to Amazigh dates and vice versa.",
+    "stars": 1,
+    "language": "TypeScript",
+    "category": "Islamic Events and Reminders",
+    "deployment": "🌐",
+    "top2": "👍 Converts Gregorian dates to Amazigh dates and vice versa, Provides an API for date conversion"
+  },
+  "mohamedismail-dev/rawh_app": {
+    "name": "rawh_app",
+    "html_url": "https://github.com/mohamedismail-dev/rawh_app",
+    "description": "Rawh App is a project for managing raw material inventory in a factory.",
+    "stars": 2,
+    "language": "Dart",
+    "category": "Dua Collection and Reminders",
+    "deployment": "🌐",
+    "top2": "👍 Real-time tracking of inventory, User-friendly interface"
+  },
+  "daniyalsalman/alfatir_flutter": {
+    "name": "alfatir_flutter",
+    "html_url": "https://github.com/daniyalsalman/alfatir_flutter",
+    "description": "A Flutter application that displays the translation of the Quran in multiple languages.",
+    "stars": 0,
+    "language": "HTML",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Multi-language Quran translation display, Dark mode support"
+  },
+  "sidali-djeghbal/mohasabat-alnafs-pwa": {
+    "name": "mohasabat-alnafs-pwa",
+    "html_url": "https://github.com/Sidali-Djeghbal/mohasabat-alnafs-pwa",
+    "description": "Personal finance PWA built with Angular and Firebase",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Progressive Web App (PWA) functionality, Real-time data synchronization with Firebase"
+  },
+  "wisdom-kunambi/qibla-finder": {
+    "name": "Qibla-finder",
+    "html_url": "https://github.com/Wisdom-Kunambi/Qibla-finder",
+    "description": "Qibla Direction Finder App",
+    "stars": 1,
+    "language": "Blade",
+    "category": "Qibla Direction and Finder",
+    "deployment": "📱",
+    "top2": "👍 Accurate Qibla direction calculation\n👍 Simple and easy to use interface"
+  },
+  "o1anas/muqaddir": {
+    "name": "Muqaddir",
+    "html_url": "https://github.com/O1Anas/Muqaddir",
+    "description": "Muqaddir is a command line tool for generating project structure, boilerplate code, and documentation for Node.js projects.",
+    "stars": 1,
+    "language": "JavaScript",
+    "category": "Other",
+    "deployment": "🛠️",
+    "top2": "👍 Generates project structure and boilerplate code, Creates documentation for Node.js projects"
+  },
+  "nullit13/iman-hub": {
+    "name": "iman-hub",
+    "html_url": "https://github.com/Nullit13/iman-hub",
+    "description": "A platform for managing educational resources",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Supports multiple file formats, Tagging system for organization"
+  },
+  "aliozdenisik/clarus": {
+    "name": "Clarus",
+    "html_url": "https://github.com/aliozdenisik/Clarus",
+    "description": "Clarus is a modern and lightweight JUCE-based Digital Audio Workstation (DAW).",
+    "stars": 3,
+    "language": "Python",
+    "category": "Quranic Text and Reading",
+    "deployment": "🖥️",
+    "top2": "👍 Supports VST3 and AU plugin formats\n👍 Multi-track recording and editing capabilities"
+  },
+  "skypeuser350-cell/islamic-calender-for-taskbar-system-tray": {
+    "name": "Islamic-Calender-for-taskbar-system-tray",
+    "html_url": "https://github.com/skypeuser350-cell/Islamic-Calender-for-taskbar-system-tray",
+    "description": "Islamic Calender for taskbar system tray",
+    "stars": 0,
+    "language": "Python",
+    "category": "Other",
+    "deployment": "🖥️",
+    "top2": "👍 Displays current Hijri date and Gregorian date in the taskbar system tray, Supports both English and Arabic languages"
+  },
+  "arvi-saleque/islamic-amal-tracker": {
+    "name": "Islamic-Amal-Tracker",
+    "html_url": "https://github.com/Arvi-Saleque/Islamic-Amal-Tracker",
+    "description": "Islamic Amal Tracker is a tool to track Islamic rituals and practices.",
+    "stars": 0,
+    "language": "Dart",
+    "category": "Hadith Collection and Study",
+    "deployment": "🌐",
+    "top2": "👍 Helps track Islamic rituals, Provides reminders for daily practices"
+  },
+  "faresxjmaii/sabili-islamic-quran-app": {
+    "name": "Sabili-Islamic-Quran-App",
+    "html_url": "https://github.com/faresxjmaii/Sabili-Islamic-Quran-App",
+    "description": "Sabili Islamic Quran App",
+    "stars": 1,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Multiple translations and recitations, Dark mode support"
+  },
+  "ahmadhabibi14/qurancenter.net": {
+    "name": "qurancenter.net",
+    "html_url": "https://github.com/ahmadhabibi14/qurancenter.net",
+    "description": "QuranCenter is a web application for learning and reciting the Quran.",
+    "stars": 1,
+    "language": "Svelte",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Interactive Quran learning experience, User-friendly interface"
+  },
+  "tareq1988/prayer-times-macos": {
+    "name": "prayer-times-macos",
+    "html_url": "https://github.com/tareq1988/prayer-times-macos",
+    "description": "Prayer Times for macOS",
+    "stars": 60,
+    "language": "Swift",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🖥️",
+    "top2": "👍 Open source project, Calculates prayer times based on location and method"
+  },
+  "iamkhomani/adhan-display": {
+    "name": "Adhan-Display",
+    "html_url": "https://github.com/iamkhomani/Adhan-Display",
+    "description": "Adhan display project",
+    "stars": 1,
+    "language": "HTML",
+    "category": "Other",
+    "deployment": "🖥️",
+    "top2": "👍 Customizable adhan display, Supports different adhan time calculation methods"
+  },
+  "1mohishi/islamic-art-analysis": {
+    "name": "islamic-art-analysis",
+    "html_url": "https://github.com/1Mohishi/islamic-art-analysis",
+    "description": "Islamic Art Analysis",
+    "stars": 0,
+    "language": "Jupyter Notebook",
+    "category": "Hadith Search and API",
+    "deployment": "🌐",
+    "top2": "👍 Visual analysis of Islamic art, Image classification based on Islamic art patterns"
+  },
+  "zeeyado/quran-ebook": {
+    "name": "quran-ebook",
+    "html_url": "https://github.com/zeeyado/quran-ebook",
+    "description": "Quran-eBook is a project that provides access to the Quran in an eBook format.",
+    "stars": 34,
+    "language": "Python",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 User-friendly interface for reading the Quran, Search functionality for finding specific verses"
+  },
+  "meypod/al-azan-compose": {
+    "name": "al-azan-compose",
+    "html_url": "https://github.com/meypod/al-azan-compose",
+    "description": "A Compose project for Al-Azan app",
+    "stars": 26,
+    "language": "Kotlin",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🌐",
+    "top2": "👍 Provides prayer times and qibla direction\n👍 Supports multiple locations and calculation methods"
+  },
+  "rezakurniawan88/islamic-app": {
+    "name": "islamic-app",
+    "html_url": "https://github.com/rezakurniawan88/islamic-app",
+    "description": "Islamic mobile application for daily prayers and Quranic recitations",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Islamic Resources and Community",
+    "deployment": "📱",
+    "top2": "👍 Provides daily prayers schedule\n👍 Allows users to recite Quranic verses"
+  },
+  "khangvum/exprevaluator": {
+    "name": "exprevaluator",
+    "html_url": "https://github.com/khangvum/exprevaluator",
+    "description": "A simple expression evaluator in C#",
+    "stars": 2,
+    "language": "C++",
+    "category": "Other",
+    "deployment": "🛠️",
+    "top2": "👍 Supports evaluation of mathematical expressions👍 Allows custom functions and variables"
+  },
+  "agassama1998/amk-circle": {
+    "name": "AMK-Circle",
+    "html_url": "https://github.com/agassama1998/AMK-Circle",
+    "description": "AMK Circle is a social networking platform for AMK students",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Islamic Resources and Community",
+    "deployment": "🌐",
+    "top2": "👍 Provides a platform for AMK students to connect and share information\n👍 Includes features such as profile creation, messaging, and events"
+  },
+  "abdullah-warraich-ch/ramadan-time": {
+    "name": "Ramadan-Time",
+    "html_url": "https://github.com/Abdullah-warraich-ch/Ramadan-Time",
+    "description": "A Ramadan Time application",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Provides accurate prayer times\n👍 Allows users to set reminders for prayers"
+  },
+  "zakisheriff/akhi": {
+    "name": "Akhi",
+    "html_url": "https://github.com/zakisheriff/Akhi",
+    "description": "Akhil",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Backend development, User authentication"
+  },
+  "bilalix/qurans-for-ereaders": {
+    "name": "qurans-for-ereaders",
+    "html_url": "https://github.com/bilalix/qurans-for-ereaders",
+    "description": "A collection of Quran translations formatted for eReaders",
+    "stars": 3,
+    "language": "Unknown",
+    "category": "Quranic Text and Reading",
+    "deployment": "🖥️",
+    "top2": "👍 Contains multiple Quran translations, Formatted for eReaders"
+  },
+  "maxencelobry/mawaqit": {
+    "name": "mawaqit",
+    "html_url": "https://github.com/maxencelobry/mawaqit",
+    "description": "A tool for managing prayer times for mosques",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Hadith Search and API",
+    "deployment": "🌐",
+    "top2": "👍 Automated calculation of prayer times, Multiple methods for calculation of prayer times"
+  },
+  "mdwahiduzzamanemon/ihsan_wealth": {
+    "name": "ihsan_wealth",
+    "html_url": "https://github.com/MdWahiduzzamanEmon/ihsan_wealth",
+    "description": "Ihsan Wealth Management System is a financial management system for wealth management business.",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Customizable dashboard for financial reporting, Client management system for tracking clients and their investments"
+  },
+  "alialrikabi313/mojazahkam": {
+    "name": "MojazAhkam",
+    "html_url": "https://github.com/alialrikabi313/MojazAhkam",
+    "description": "MojazAhkam is a desktop application for searching and browsing Islamic rulings (Fatwas) in Arabic.",
+    "stars": 1,
+    "language": "Dart",
+    "category": "Other",
+    "deployment": "🖥️",
+    "top2": "👍 Provides easy access to Islamic rulings, Supports browsing and searching functionality"
+  },
+  "hotaro26/quranreader": {
+    "name": "QuranReader",
+    "html_url": "https://github.com/Hotaro26/QuranReader",
+    "description": "A Quran reader application",
+    "stars": 2,
+    "language": "Kotlin",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Offline support, bookmarks feature"
+  },
+  "alaaels1/azkari_app": {
+    "name": "azkari_app",
+    "html_url": "https://github.com/alaaels1/azkari_app",
+    "description": "Azkari App is a mobile application for Islamic supplications and remembrances.",
+    "stars": 0,
+    "language": "Dart",
+    "category": "Dua Collection and Reminders",
+    "deployment": "📱",
+    "top2": "👍 Provides a collection of Islamic supplications and remembrances, 🎵 Offers audio playback for recitations"
+  },
+  "melsaeed276/hatim_program": {
+    "name": "Hatim_Program",
+    "html_url": "https://github.com/Melsaeed276/Hatim_Program",
+    "description": "A repository for the Hatim program",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Other",
+    "deployment": "🛠️",
+    "top2": "👍 Arabic language support, Real-time translation feature"
+  },
+  "fznpatel/hifztrack": {
+    "name": "Hifztrack",
+    "html_url": "https://github.com/Fznpatel/Hifztrack",
+    "description": "A GitHub project for tracking Hifz progress",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Tracks Hifz progress, Supports multiple users"
+  },
+  "mohamadhajjrabee/quran-qcf4": {
+    "name": "quran-qcf4",
+    "html_url": "https://github.com/MohamadHajjRabee/quran-qcf4",
+    "description": "Quran Reciter with Translation, Quran Word by Word Reciter",
+    "stars": 4,
+    "language": "HTML",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Word by Word Recitation, Translation in Multiple Languages"
+  },
+  "dalba0/hayya": {
+    "name": "hayya",
+    "html_url": "https://github.com/dalba0/hayya",
+    "description": "A Python library for managing the lifecycle of an object.",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🛠️",
+    "top2": "👍 Easy to use, Supports object lifecycle management"
+  },
+  "onimusha-dev/easy-tasbeeh": {
+    "name": "Easy-Tasbeeh",
+    "html_url": "https://github.com/onimusha-dev/Easy-Tasbeeh",
+    "description": "An easy-to-use Tasbeeh app for counting prayers",
+    "stars": 2,
+    "language": "Dart",
+    "category": "Islamic Resources and Community",
+    "deployment": "📱",
+    "top2": "👍 Simple and intuitive interface, Dark mode support"
+  },
+  "hossamahmedsalah/quranic_search_deployed": {
+    "name": "Quranic_Search_deployed",
+    "html_url": "https://github.com/hossamAhmedSalah/Quranic_Search_deployed",
+    "description": "A Quranic search tool deployed on GitHub",
+    "stars": 2,
+    "language": "Jupyter Notebook",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Search functionality for Quranic texts, Customizable search options"
+  },
+  "r3genesi5/quran-bil-quran": {
+    "name": "quran-bil-quran",
+    "html_url": "https://github.com/R3GENESI5/quran-bil-quran",
+    "description": "An open-source web application for reading the Quran with translations and tafseer",
+    "stars": 1,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Multilingual support, Search function"
+  },
+  "heshamrokaia/quran-text-analytics": {
+    "name": "quran-text-analytics",
+    "html_url": "https://github.com/heshamrokaia/quran-text-analytics",
+    "description": "Quran Text Analytics project on GitHub",
+    "stars": 0,
+    "language": "HTML",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Open source, Text analysis"
+  },
+  "saifharding/maktab-management": {
+    "name": "maktab-management",
+    "html_url": "https://github.com/SaifHarding/maktab-management",
+    "description": "A management system for educational institutions",
+    "stars": 1,
+    "language": "TypeScript",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Tracks student information, Manages course details"
+  },
+  "tonmoy007/religious-study": {
+    "name": "religious-study",
+    "html_url": "https://github.com/tonmoy007/religious-study",
+    "description": "Religious Study is a web application for exploring different religious texts and teachings.",
+    "stars": 0,
+    "language": "Unknown",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Access to various religious texts, Search functionality"
+  },
+  "ummeco/praycalc": {
+    "name": "praycalc",
+    "html_url": "https://github.com/ummeco/praycalc",
+    "description": "Praycalc is a tool to calculate prayer times based on the given latitude and longitude.",
+    "stars": 0,
+    "language": "Dart",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🌐",
+    "top2": "👍 Provides accurate prayer times calculation, Supports various calculation methods"
+  },
+  "awsolim/ayahvault": {
+    "name": "ayahvault",
+    "html_url": "https://github.com/awsolim/ayahvault",
+    "description": "A secure and simple password manager",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🛠️",
+    "top2": "👍 End-to-end encryption, Password generation"
+  },
+  "anassmdi/quran-hadith-json": {
+    "name": "quran-hadith-json",
+    "html_url": "https://github.com/anassmdi/quran-hadith-json",
+    "description": "Repository for Quran and Hadith JSON data",
+    "stars": 2,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Collection of Quran and Hadith data, Easy to access and integrate"
+  },
+  "4545duckling/azkar-": {
+    "name": "azkar-",
+    "html_url": "https://github.com/4545duckling/azkar-",
+    "description": "A simple Islamic app to display daily adhkar",
+    "stars": 1,
+    "language": "Unknown",
+    "category": "Dua Collection and Reminders",
+    "deployment": "📱",
+    "top2": "👍 Includes a wide range of adhkar, Supports daily reminders"
+  },
+  "uthumany/islamic-radio-api": {
+    "name": "islamic-radio-api",
+    "html_url": "https://github.com/uthumany/islamic-radio-api",
+    "description": "Islamic Radio API",
+    "stars": 35,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides Islamic radio stations API, Supports multiple radio stations"
+  },
+  "damarcreative/quranapi": {
+    "name": "QuranAPI",
+    "html_url": "https://github.com/Damarcreative/QuranAPI",
+    "description": "QuranAPI is a RESTful API for the Quran, providing access to verses, translations, tafsir, and more.",
+    "stars": 2,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides access to Quran verses, translations, and tafsir.👍 Supports RESTful API for easy integration with applications."
+  },
+  "qti3e/negar": {
+    "name": "negar",
+    "html_url": "https://github.com/qti3e/negar",
+    "description": "A minimal engine to create games in TypeScript.",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Learning and Study Tools",
+    "deployment": "🌐",
+    "top2": "👍 Minimalistic, TypeScript support"
+  },
+  "zakaria-chahboun/ayat-design": {
+    "name": "ayat-design",
+    "html_url": "https://github.com/zakaria-chahboun/ayat-design",
+    "description": "A collection of design resources for web and mobile applications.",
+    "stars": 4,
+    "language": "Go",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Includes high-quality UI components\n👍 Provides design inspiration and templates"
+  },
+  "r1di/mawaqit-prayer-display": {
+    "name": "mawaqit-prayer-display",
+    "html_url": "https://github.com/r1di/mawaqit-prayer-display",
+    "description": "Prayer time display for mosquee or home display",
+    "stars": 3,
+    "language": "C++",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🛠️",
+    "top2": "👍 Display prayer times, Show upcoming prayers"
+  },
+  "mdjunayet10/islamquiz": {
+    "name": "IslamQUIZ",
+    "html_url": "https://github.com/mdjunayet10/IslamQUIZ",
+    "description": "Islam Quiz App",
+    "stars": 2,
+    "language": "JavaScript",
+    "category": "Hadith Collection and Study",
+    "deployment": "🌐",
+    "top2": "👍 Interactive quiz experience, Rich content on Islamic topics"
+  },
+  "qariai/landing-page": {
+    "name": "landing-page",
+    "html_url": "https://github.com/qariAI/landing-page",
+    "description": "Qari AI landing page repository",
+    "stars": 1,
+    "language": "HTML",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 AI-powered Quran reading assistant, 🌐 Web deployment"
+  },
+  "sniper1720/khushu": {
+    "name": "khushu",
+    "html_url": "https://github.com/sniper1720/khushu",
+    "description": "Quran Mobile Application Made With Flutter",
+    "stars": 18,
+    "language": "Rust",
+    "category": "Islamic Resources and Community",
+    "deployment": "📱",
+    "top2": "👍 Supports multiple languages, Allows users to listen to recitations"
+  },
+  "lavart/quran-corpus-visualizer": {
+    "name": "Quran-corpus-visualizer",
+    "html_url": "https://github.com/lAvArt/Quran-corpus-visualizer",
+    "description": "Quran Corpus Visualizer is a web application for visualizing Quranic text and related information.",
+    "stars": 4,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Visualization of Quranic text, Interactive search feature"
+  },
+  "m-7-m/iqra": {
+    "name": "iqra",
+    "html_url": "https://github.com/m-7-m/iqra",
+    "description": "An Arabic educational app for learning the Quran.",
+    "stars": 1,
+    "language": "Dart",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Interactive learning experience, Progress tracking feature"
+  },
+  "abdulwahed-s/prayer-time-plus-swift": {
+    "name": "prayer-time-plus-swift",
+    "html_url": "https://github.com/abdulwahed-s/prayer-time-plus-swift",
+    "description": "Prayer Time Plus is a Swift iOS app for calculating and displaying prayer times.",
+    "stars": 0,
+    "language": "Swift",
+    "category": "Hadith Collection and Study",
+    "deployment": "📱",
+    "top2": "👍 Provides accurate prayer times calculation, Supports multiple locations for prayer times"
+  },
+  "ciyoku/ciyoku.github.io": {
+    "name": "ciyoku.github.io",
+    "html_url": "https://github.com/Ciyoku/ciyoku.github.io",
+    "description": "Personal website of Ciyouku",
+    "stars": 4,
+    "language": "JavaScript",
+    "category": "Islamic Resources and Community",
+    "deployment": "🌐",
+    "top2": "👍 Custom design, Dark mode"
+  },
+  "adammlab/hisn": {
+    "name": "Hisn",
+    "html_url": "https://github.com/AdammLab/Hisn",
+    "description": "A collection of Islamic supplications and invocations from the Quran and Sunnah",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Includes a wide range of supplications from Islamic sources, 🌐 Available for web deployment"
+  },
+  "shohanur-abc/quranmazid-backend": {
+    "name": "quranmazid-backend",
+    "html_url": "https://github.com/shohanur-abc/quranmazid-backend",
+    "description": "Quran Mazid Backend is a backend system for a Quran application",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Provides RESTful API for Quranic data retrieval, Supports multiple languages for Quranic text"
+  },
+  "iemprog/itqan": {
+    "name": "itqan",
+    "html_url": "https://github.com/IemProg/itqan",
+    "description": "ITQAN Religious Ceremonies Management System",
+    "stars": 4,
+    "language": "Dart",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Customizable ceremonies management, 🌐 Web deployment"
+  },
+  "mohaneddz/azkari": {
+    "name": "Azkari",
+    "html_url": "https://github.com/mohaneddz/Azkari",
+    "description": "Azkari is a mobile application for daily Azkar.",
+    "stars": 1,
+    "language": "TypeScript",
+    "category": "Islamic Events and Reminders",
+    "deployment": "📱",
+    "top2": "👍 Provides daily Azkar reminders, Includes a variety of Azkar categories"
+  },
+  "abdu-selam/remedan-tracker": {
+    "name": "remedan-tracker",
+    "html_url": "https://github.com/abdu-selam/remedan-tracker",
+    "description": "Remedan Tracker is a project management tool for tracking tasks and projects",
+    "stars": 1,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Easy task tracking, User-friendly interface"
+  },
+  "mlknvd21-bit/aria": {
+    "name": "ARIA",
+    "html_url": "https://github.com/mlknvd21-bit/ARIA",
+    "description": "Augmented Reality Indoor Assistance (ARIA) is an indoor navigation system that uses AR technology to guide users in indoor environments.",
+    "stars": 0,
+    "language": "Python",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Utilizes AR technology for indoor navigation\n👍 Provides assistance in navigating indoor environments"
+  },
+  "joshuacreator/islam_sunnah": {
+    "name": "islam_sunnah",
+    "html_url": "https://github.com/joshuacreator/islam_sunnah",
+    "description": "A collection of authentic Sunnah books in Arabic",
+    "stars": 0,
+    "language": "Dart",
+    "category": "Hadith Collection and Study",
+    "deployment": "🌐",
+    "top2": "👍 Includes multiple authentic Sunnah books, Provides Arabic text for easy reference"
+  },
+  "jassbr/ramadan-mode": {
+    "name": "ramadan-mode",
+    "html_url": "https://github.com/JASSBR/ramadan-mode",
+    "description": "A Ramadan mode plugin for any website",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🛠️",
+    "top2": "👍 Customizable Ramadan mode feature, Easy integration into any website"
+  },
+  "ibnuahkam/mawaqit-prayer-display": {
+    "name": "mawaqit-prayer-display",
+    "html_url": "https://github.com/ibnuahkam/mawaqit-prayer-display",
+    "description": "A tool for displaying prayer times on a monitor",
+    "stars": 0,
+    "language": "C++",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🖥️",
+    "top2": "👍 Customizable display, Multiple city support"
+  },
+  "bugmaker69/about-mishkah-app": {
+    "name": "About-Mishkah-App",
+    "html_url": "https://github.com/BugMaker69/About-Mishkah-App",
+    "description": "About Mishkah App",
+    "stars": 0,
+    "language": "HTML",
+    "category": "Quranic Text and Reading",
+    "deployment": "🖥️",
+    "top2": "👍 Easy to use interface, Real-time updates"
+  },
+  "ummahbuild/hajj-app": {
+    "name": "hajj-app",
+    "html_url": "https://github.com/ummahbuild/hajj-app",
+    "description": "Hajj App is a mobile application for pilgrims performing Hajj.",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Learning and Study Tools",
+    "deployment": "📱",
+    "top2": "👍 Provides real-time information for pilgrims, Offers navigation assistance during Hajj"
+  },
+  "freebird27798/azkar_app": {
+    "name": "azkar_app",
+    "html_url": "https://github.com/FreeBird27798/azkar_app",
+    "description": "Azkar app for Muslims to remember Allah (SWT)",
+    "stars": 0,
+    "language": "Dart",
+    "category": "Islamic Resources and Community",
+    "deployment": "📱",
+    "top2": "👍 Provides a collection of Azkar and Dua'ain Arabic and English,👍 Allows users to customize and schedule notifications for Azkar reminders"
+  },
+  "rabhanz/nahaj-hacs": {
+    "name": "nahaj-hacs",
+    "html_url": "https://github.com/RabHanz/nahaj-hacs",
+    "description": "Nahaj HACS - A home assistant configuration by Rab Hanz",
+    "stars": 0,
+    "language": "Python",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Customized theme, Integrations with various smart devices"
+  },
+  "umitaltinozzz/imsak-prayer-companion": {
+    "name": "imsak-prayer-companion",
+    "html_url": "https://github.com/umitaltinozzz/imsak-prayer-companion",
+    "description": "A prayer companion app for Muslims",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Provides prayer times and qibla direction\n👍 Includes a digital tasbih counter"
+  },
+  "beckzodiy/tasbeeh": {
+    "name": "tasbeeh",
+    "html_url": "https://github.com/beckzodiy/tasbeeh",
+    "description": "Tasbeeh counter app for Android",
+    "stars": 2,
+    "language": "CSS",
+    "category": "Other",
+    "deployment": "📱",
+    "top2": "👍 Simple and easy-to-use interface, Multiple counting modes"
+  },
+  "iamaanahmad/quran-journeys": {
+    "name": "quran-journeys",
+    "html_url": "https://github.com/iamaanahmad/quran-journeys",
+    "description": "A web app for exploring the journeys in the Quran",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Interactive visualization of Quranic journeys, Search functionality for specific journeys"
+  },
+  "mamunul/quran": {
+    "name": "quran",
+    "html_url": "https://github.com/mamunul/quran",
+    "description": "Quran app for Android with translation, Tafsir and audio recitations",
+    "stars": 0,
+    "language": "HTML",
+    "category": "Other",
+    "deployment": "📱",
+    "top2": "👍 Translation and Tafsir included, Audio recitations available"
+  },
+  "itsflaid/mufadz-portal": {
+    "name": "mufadz-portal",
+    "html_url": "https://github.com/itsflaid/mufadz-portal",
+    "description": "Mufadz Portal is a web application for managing school activities and data.",
+    "stars": 29,
+    "language": "TypeScript",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Streamlines school administrative tasks, Provides real-time data access"
+  },
+  "cosmokud/browser-ext-muslim-dashboard": {
+    "name": "browser-ext-muslim-dashboard",
+    "html_url": "https://github.com/cosmokud/browser-ext-muslim-dashboard",
+    "description": "A browser extension for Muslim dashboard",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 provides Islamic features and information, allows customization of the dashboard"
+  },
+  "shalleelutm/un_nabawi_masjid_app": {
+    "name": "un_nabawi_masjid_app",
+    "html_url": "https://github.com/Shalleelutm/un_nabawi_masjid_app",
+    "description": "A mobile app for assisting visitors of the Nabawi Mosque",
+    "stars": 0,
+    "language": "Dart",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Provides information for visitors to the Nabawi Mosque, 👍 Includes a prayer time feature"
+  },
+  "baalwi-id/arabic-honorific-ligatures": {
+    "name": "arabic-honorific-ligatures",
+    "html_url": "https://github.com/baalwi-id/arabic-honorific-ligatures",
+    "description": "Arabic Honorific Ligatures repository on GitHub",
+    "stars": 1,
+    "language": "Unknown",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Collection of Arabic honorific ligatures\n👍 Easy-to-use and customizable"
+  },
+  "azharazziz/donasi-alquran-linktree": {
+    "name": "donasi-alquran-linktree",
+    "html_url": "https://github.com/azharazziz/donasi-alquran-linktree",
+    "description": "A linktree project for donation related to Quran",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Includes multiple donation options, Responsive design for mobile users"
+  },
+  "faidurr22/fstu-arabic-flashcards": {
+    "name": "fstu-arabic-flashcards",
+    "html_url": "https://github.com/faidurr22/fstu-arabic-flashcards",
+    "description": "An Arabic flashcards project for learning Arabic vocabulary",
+    "stars": 1,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🖥️",
+    "top2": "👍 Easy to use interface, Integration with Firebase for data storage"
+  },
+  "avax43/quran-video-generator": {
+    "name": "Quran-Video-Generator",
+    "html_url": "https://github.com/avax43/Quran-Video-Generator",
+    "description": "Quran Video Generator",
+    "stars": 2,
+    "language": "Python",
+    "category": "Quranic Text and Reading",
+    "deployment": "🛠️",
+    "top2": "👍 Generates video from Quran text, Supports multiple translations"
+  },
+  "mahmoud9-dev/eqraa-center-hub": {
+    "name": "eqraa-center-hub",
+    "html_url": "https://github.com/Mahmoud9-dev/eqraa-center-hub",
+    "description": "An online platform for educational centers management",
+    "stars": 9,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Integrated management system, Real-time communication with students and parents"
+  },
+  "ummahbuild/mosquesteps": {
+    "name": "mosquesteps",
+    "html_url": "https://github.com/ummahbuild/mosquesteps",
+    "description": "Mosque application for step-by-step guides, announcements, and discussions",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Hadith Collection and Study",
+    "deployment": "🌐",
+    "top2": "👍 Step-by-step guides, Announcements"
+  },
+  "saadixl/amol": {
+    "name": "Amol",
+    "html_url": "https://github.com/saadixl/Amol",
+    "description": "A simple calculator application",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🖥️",
+    "top2": "👍 Supports basic arithmetic operations, 👍 User-friendly interface"
+  },
+  "alurini/quran-translations": {
+    "name": "quran-translations",
+    "html_url": "https://github.com/alurini/quran-translations",
+    "description": "Quran Translations project on GitHub",
+    "stars": 0,
+    "language": "HTML",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides various translations of the Quran\n👍 Allows users to contribute their own translations"
+  },
+  "msaadahmad358/holy-quran-pdf-mobile-app": {
+    "name": "Holy-Quran-Pdf-Mobile-App",
+    "html_url": "https://github.com/msaadahmad358/Holy-Quran-Pdf-Mobile-App",
+    "description": "A mobile app for reading the Holy Quran in PDF format",
+    "stars": 0,
+    "language": "Dart",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Provides access to the Holy Quran in PDF format, User-friendly interface for easy reading"
+  },
+  "deccandewan/khalafquran": {
+    "name": "khalafquran",
+    "html_url": "https://github.com/deccandewan/khalafquran",
+    "description": "Khalaf Quran is an open-source Quran app focusing on the Khalaf methods of recitation.",
+    "stars": 2,
+    "language": "Unknown",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Focuses on Khalaf methods of recitation, Open-source"
+  },
+  "itzsecretproject/al-nour-islamic-app": {
+    "name": "al-nour-islamic-app",
+    "html_url": "https://github.com/itzSecretProject/al-nour-islamic-app",
+    "description": "Al-Nour Islamic App project on GitHub",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Open-source, Islamic app"
+  },
+  "bismillah-100/maktabah": {
+    "name": "Maktabah",
+    "html_url": "https://github.com/bismillah-100/Maktabah",
+    "description": "An Arabic digital library platform for Islamic books",
+    "stars": 4,
+    "language": "Swift",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Provides access to a wide collection of Islamic books, Supports search functionality for easy navigation"
+  },
+  "theverystarlk/siraj": {
+    "name": "Siraj",
+    "html_url": "https://github.com/TheVeryStarlk/Siraj",
+    "description": "Siraj - An app for all things fashion",
+    "stars": 7,
+    "language": "C#",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "📱",
+    "top2": "👍 Trendy fashion updates, personalized recommendations"
+  },
+  "himmy504/ustadh-islamic-teacher-manager": {
+    "name": "ustadh-islamic-teacher-manager",
+    "html_url": "https://github.com/Himmy504/ustadh-islamic-teacher-manager",
+    "description": "Islamic Teacher Manager for tracking classes, students, teachers and subjects",
+    "stars": 3,
+    "language": "Svelte",
+    "category": "Quranic Text and Reading",
+    "deployment": "🖥️",
+    "top2": "👍 Tracks classes, students, teachers, and subjects\n👍 Generates reports on various metrics"
+  },
+  "abdullah-s-alqahtani/quran-media-player": {
+    "name": "quran-media-player",
+    "html_url": "https://github.com/Abdullah-s-AlQahtani/quran-media-player",
+    "description": "Quran Media Player is a media player for listening to the Quran with translation and Tafseer",
+    "stars": 1,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🖥️",
+    "top2": "👍 Supports listening to the Quran with translation and Tafseer, Provides a user-friendly media player interface"
+  },
+  "afrijaldz/murajaah": {
+    "name": "murajaah",
+    "html_url": "https://github.com/afrijaldz/murajaah",
+    "description": "Murajaah is a Qur'an memorization app",
+    "stars": 1,
+    "language": "Vue",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Interactive memorization progress tracking, Audio recitation playback"
+  },
+  "nedaadevs/quran-image-generator": {
+    "name": "quran-image-generator",
+    "html_url": "https://github.com/NedaaDevs/quran-image-generator",
+    "description": "Generate Quranic verses with beautiful backgrounds",
+    "stars": 1,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🛠️",
+    "top2": "👍 Arabic calligraphy, customizable backgrounds"
+  },
+  "omerturantr/islam-companion": {
+    "name": "islam-companion",
+    "html_url": "https://github.com/omerturantr/islam-companion",
+    "description": "A collection of tools and resources for Muslims",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides tools for Islamic practices and resources for Muslims"
+  },
+  "noor-nights/noor-nights.github.io": {
+    "name": "noor-nights.github.io",
+    "html_url": "https://github.com/Noor-Nights/noor-nights.github.io",
+    "description": "Noor Nights - Personal blog website",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Islamic Resources and Community",
+    "deployment": "🌐",
+    "top2": "👍 Minimalistic design, Dark mode feature"
+  },
+  "ahmedelywa/praycalendar": {
+    "name": "prayCalendar",
+    "html_url": "https://github.com/AhmedElywa/prayCalendar",
+    "description": "A simple Islamic Pray Calendar",
+    "stars": 36,
+    "language": "TypeScript",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🌐",
+    "top2": "👍 Helps users keep track of Islamic prayer times, 🌐 Available for web deployment"
+  },
+  "muhammadhaseebiqbal-dev/quranmajeed": {
+    "name": "QuranMajeed",
+    "html_url": "https://github.com/muhammadhaseebiqbal-dev/QuranMajeed",
+    "description": "A project for reading the Quran",
+    "stars": 4,
+    "language": "Kotlin",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides easy access to the Quran text, Allows users to read the Quran in Arabic and translations"
+  },
+  "adelpro/mushaf-imad-expo": {
+    "name": "mushaf-imad-expo",
+    "html_url": "https://github.com/adelpro/mushaf-imad-expo",
+    "description": "Online Mushaf for Hafiz Quran with various features",
+    "stars": 20,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Quran text with tajweed, Recitation audio player"
+  },
+  "nokibulhasansiam3-sta/sunnahway-app": {
+    "name": "sunnahway-app",
+    "html_url": "https://github.com/nokibulhasansiam3-sta/sunnahway-app",
+    "description": "An app for learning and practicing Sunnah",
+    "stars": 1,
+    "language": "Unknown",
+    "category": "Hadith Collection and Study",
+    "deployment": "📱",
+    "top2": "👍 Interactive Quran with translations, Daily reminders for Sunnah practices"
+  },
+  "ummahbuild/mosqueapi": {
+    "name": "mosqueAPI",
+    "html_url": "https://github.com/ummahbuild/mosqueAPI",
+    "description": "MosqueAPI is an open-source RESTful API for managing mosque data",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🌐",
+    "top2": "👍 Provides a RESTful API for managing mosque data, 👍 Easy to use and deploy"
+  },
+  "eg-mohamed/mosque": {
+    "name": "Mosque",
+    "html_url": "https://github.com/EG-Mohamed/Mosque",
+    "description": "Mosque is an Android app that helps users find nearby mosques and get their prayer times.",
+    "stars": 4,
+    "language": "CSS",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "📱",
+    "top2": "👍 Provides accurate prayer times\n👍 Shows nearby mosques on a map"
+  },
+  "arynzo/quran-english-transliterations-json": {
+    "name": "quran-english-transliterations-json",
+    "html_url": "https://github.com/arynzo/quran-english-transliterations-json",
+    "description": "Quran English Transliterations JSON",
+    "stars": 0,
+    "language": "Unknown",
+    "category": "Quranic Text and Reading",
+    "deployment": "🛠️",
+    "top2": "👍 Provides English transliterations of the Quran verses, Easy to access and use"
+  },
+  "zedsalim/sarayan": {
+    "name": "sarayan",
+    "html_url": "https://github.com/zedsalim/sarayan",
+    "description": "Sarayan is a collection of React Native projects for learning and experimenting with different features and libraries.",
+    "stars": 11,
+    "language": "HTML",
+    "category": "Other",
+    "deployment": "📱",
+    "top2": "👍 Includes various projects for learning and experimenting, Supports React Native development"
+  },
+  "bhantsi/tasmiyah-cli": {
+    "name": "tasmiyah-cli",
+    "html_url": "https://github.com/bhantsi/tasmiyah-cli",
+    "description": "A CLI tool for converting text to Tasmiyah",
+    "stars": 0,
+    "language": "Rust",
+    "category": "Other",
+    "deployment": "🛠️",
+    "top2": "👍 Supports converting text to Tasmiyah pronunciation,👍 Can be used via the command line interface"
+  },
+  "salehgnutux/gt-sqrm": {
+    "name": "GT-SQRM",
+    "html_url": "https://github.com/SalehGNUTUX/GT-SQRM",
+    "description": "coroutines with list.html",
+    "stars": 1,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🛠️",
+    "top2": "👍 support for multiple languages, support for multiple file types"
+  },
+  "saram47/thequranbot": {
+    "name": "TheQuranBot",
+    "html_url": "https://github.com/SaraM47/TheQuranBot",
+    "description": "TheQuranBot is a Telegram bot that helps you read and search the Quran.",
+    "stars": 1,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🛠️",
+    "top2": "👍 Provides access to Quranic text and search functionality, Supports multiple languages"
+  },
+  "abdelrahman-samy-dev/taratil-quran": {
+    "name": "taratil-quran",
+    "html_url": "https://github.com/abdelrahman-samy-dev/taratil-quran",
+    "description": "Taratil Quran project for listening to Quran recitations",
+    "stars": 1,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides a platform to listen to different Quran recitations, Allows users to create playlists of their favorite recitations"
+  },
+  "youssefsz/quran-lake-mobile-app-flutter": {
+    "name": "Quran-Lake-Mobile-App-Flutter",
+    "html_url": "https://github.com/youssefsz/Quran-Lake-Mobile-App-Flutter",
+    "description": "Quran Lake Mobile App Flutter",
+    "stars": 2,
+    "language": "Dart",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Cross-platform, Easy to use"
+  },
+  "muhammadsaadabbasi/noor": {
+    "name": "Noor",
+    "html_url": "https://github.com/MuhammadSaadAbbasi/Noor",
+    "description": "A lightweight and simple JavaScript library for embedding Noor Quranic font.",
+    "stars": 0,
+    "language": "Kotlin",
+    "category": "Quranic Text and Reading",
+    "deployment": "🖥️",
+    "top2": "👍 Easy to use, Lightweight"
+  },
+  "jumanjigobez/noor_mushaf": {
+    "name": "Noor_Mushaf",
+    "html_url": "https://github.com/Jumanjigobez/Noor_Mushaf",
+    "description": "A digital Mushaf app for Muslims to read and recite the Quran",
+    "stars": 1,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Features Tajweed rules, Search functionality"
+  },
+  "bdevgroup/miqaat": {
+    "name": "miqaat",
+    "html_url": "https://github.com/bdevgroup/miqaat",
+    "description": "An open-source project management tool for software development teams",
+    "stars": 4,
+    "language": "TypeScript",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🌐",
+    "top2": "👍 Agile project management features, Real-time collaboration"
+  },
+  "saadamir1/mushaf-platform-fe": {
+    "name": "mushaf-platform-FE",
+    "html_url": "https://github.com/saadamir1/mushaf-platform-FE",
+    "description": "Frontend for Mushaf Platform",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Quran reader, Bookmarks"
+  },
+  "mohammed-dayyan/quran-tracker": {
+    "name": "quran-tracker",
+    "html_url": "https://github.com/Mohammed-Dayyan/quran-tracker",
+    "description": "A Quran tracker app to help users keep track of their Quran reading progress",
+    "stars": 1,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Tracks Quran reading progress, Provides statistics on reading habits"
+  },
+  "sghariayman24-tech/prayer-times-app": {
+    "name": "prayer-times-app",
+    "html_url": "https://github.com/sghariayman24-tech/prayer-times-app",
+    "description": "Prayer Times App on GitHub",
+    "stars": 0,
+    "language": "HTML",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🌐",
+    "top2": "👍 Simple and elegant design, Location-based prayer times calculation"
+  },
+  "ramidevx/noorify_bot": {
+    "name": "Noorify_Bot",
+    "html_url": "https://github.com/RamiDevX/Noorify_Bot",
+    "description": "A Discord bot for Noorify Discord server",
+    "stars": 2,
+    "language": "Python",
+    "category": "Other",
+    "deployment": "🛠️",
+    "top2": "👍 Custom commands for server members, Auto moderation features"
+  },
+  "umerdevhub/ashiyana_e_jannat": {
+    "name": "ashiyana_e_jannat",
+    "html_url": "https://github.com/UmerDevHub/ashiyana_e_jannat",
+    "description": "Ashiyana e Jannat is a real estate website for buying and selling properties in Pakistan.",
+    "stars": 0,
+    "language": "Dart",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 User-friendly interface, Advanced property search filters"
+  },
+  "mesterperfect/ilmquiz": {
+    "name": "IlmQuiz",
+    "html_url": "https://github.com/MesterPerfect/IlmQuiz",
+    "description": "A quiz app for learning Ilm ul Ghaib",
+    "stars": 4,
+    "language": "Python",
+    "category": "Other",
+    "deployment": "📱",
+    "top2": "👍 Multiple-choice questions, Progress tracking"
+  },
+  "syntrojex/raheeq-ul-makhtum": {
+    "name": "raheeq-ul-makhtum",
+    "html_url": "https://github.com/Syntrojex/raheeq-ul-makhtum",
+    "description": "Raheeq ul Makhtum is an Islamic book",
+    "stars": 16,
+    "language": "Unknown",
+    "category": "Hadith Collection and Study",
+    "deployment": "🌐",
+    "top2": "👍 Detailed Biography, Arabic and English translations"
+  },
+  "abdellatif-laghjaj/quran-studio": {
+    "name": "quran-studio",
+    "html_url": "https://github.com/abdellatif-laghjaj/quran-studio",
+    "description": "A Quran study application for memorization and recitation",
+    "stars": 6,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Interactive Quran text, Progress tracking"
+  },
+  "abbosoktambayev/taqwah": {
+    "name": "Taqwah",
+    "html_url": "https://github.com/abbosoktambayev/Taqwah",
+    "description": "Taqwah is a web application for learning the Qur'an.",
+    "stars": 0,
+    "language": "Swift",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🌐",
+    "top2": "👍 Provides interactive lessons, Tracks progress"
+  },
+  "cakgup/task": {
+    "name": "task",
+    "html_url": "https://github.com/cakgup/task",
+    "description": "Modern task manager with Flutter",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Other",
+    "deployment": "📱",
+    "top2": "👍 Cross-platform support, Beautiful UI design"
+  },
+  "canburakyol/huzur": {
+    "name": "Huzur",
+    "html_url": "https://github.com/canburakyol/Huzur",
+    "description": "Huzur is a web application for managing tasks and projects.",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Task and project management, Clean and simple interface"
+  },
+  "salaamalykum/quran-semantic-search": {
+    "name": "quran-semantic-search",
+    "html_url": "https://github.com/salaamalykum/quran-semantic-search",
+    "description": "Quran Semantic Search is a project for searching the Quran using semantic search techniques.",
+    "stars": 3,
+    "language": "HTML",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Semantic search functionality, Accurate search results"
+  },
+  "salim-m/trmnl_quran_verses": {
+    "name": "trmnl_quran_verses",
+    "html_url": "https://github.com/salim-m/trmnl_quran_verses",
+    "description": "Terminal Quran Verses is a command-line tool for displaying Quranic verses in the terminal",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🛠️",
+    "top2": "👍 Provides easy access to Quranic verses on the command line, Supports multiple translations of the Quran"
+  },
+  "hanzala-shadow/islamic_app": {
+    "name": "Islamic_App",
+    "html_url": "https://github.com/Hanzala-Shadow/Islamic_App",
+    "description": "An Islamic app for learning and practicing Islamic teachings",
+    "stars": 0,
+    "language": "Dart",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Includes a wide range of Islamic teachings and practices, User-friendly interface"
+  },
+  "adam0white/prayerviz": {
+    "name": "prayerviz",
+    "html_url": "https://github.com/adam0white/prayerviz",
+    "description": "Visualizing data from prayer studies",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🌐",
+    "top2": "👍 Real-time updates, Interactive visualization"
+  },
+  "salahamassi/prayerstimes": {
+    "name": "PrayersTimes",
+    "html_url": "https://github.com/salahamassi/PrayersTimes",
+    "description": "Python library for computing Islamic prayer times",
+    "stars": 1,
+    "language": "Swift",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🌐",
+    "top2": "👍 Calculation of prayer times based on location and calculation method, 🌐 Python library for easy integration in projects"
+  },
+  "mazin-musleh/utqsystem": {
+    "name": "utqsystem",
+    "html_url": "https://github.com/mazin-musleh/utqsystem",
+    "description": "University Timetable Query System",
+    "stars": 0,
+    "language": "HTML",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Easy to use interface, Efficient timetable management"
+  },
+  "alizafar780/daily-hadith": {
+    "name": "Daily-Hadith",
+    "html_url": "https://github.com/AliZafar780/Daily-Hadith",
+    "description": "Project for displaying a random Hadith daily",
+    "stars": 1,
+    "language": "TypeScript",
+    "category": "Hadith Collection and Study",
+    "deployment": "🌐",
+    "top2": "👍 Daily random Hadith display, Bookmark favorite Hadith"
+  },
+  "muhaiminroshaizad/selawat-hub": {
+    "name": "selawat-hub",
+    "html_url": "https://github.com/MuhaiminRoshaizad/selawat-hub",
+    "description": "A website for users to listen and recite Selawat on Prophet Muhammad SAW",
+    "stars": 1,
+    "language": "Dart",
+    "category": "Islamic Resources and Community",
+    "deployment": "🌐",
+    "top2": "👍 Provides a collection of Selawat audio files, Allows users to submit their own Selawat recordings"
+  },
+  "silentbott/nasaq": {
+    "name": "nasaq",
+    "html_url": "https://github.com/SilentBott/nasaq",
+    "description": "NASA Q - A web app for querying and visualizing NASA data",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Interactive data visualization, User-friendly interface"
+  },
+  "alhussein147/mawaqit": {
+    "name": "Mawaqit",
+    "html_url": "https://github.com/alhussein147/Mawaqit",
+    "description": "Mawaqit is a web application for managing Islamic prayer times and mosques information.",
+    "stars": 0,
+    "language": "Kotlin",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🌐",
+    "top2": "👍 Provides accurate Islamic prayer times, Allows management of mosques information"
+  },
+  "hyya-dev/hyya-prayer-pal-public": {
+    "name": "hYYa-Prayer-Pal-public",
+    "html_url": "https://github.com/hyya-dev/hYYa-Prayer-Pal-public",
+    "description": "A prayer application for Muslims",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍  Tracks prayer times, Provides Qibla direction"
+  },
+  "siteq8/quran_sunna": {
+    "name": "Quran_Sunna",
+    "html_url": "https://github.com/SiteQ8/Quran_Sunna",
+    "description": "Quran and Sunna App",
+    "stars": 1,
+    "language": "Unknown",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides access to Quran and Sunna scriptures, Allows users to search and navigate through the texts"
+  },
+  "emahtab/learning": {
+    "name": "learning",
+    "html_url": "https://github.com/eMahtab/learning",
+    "description": "A collection of learning resources for various topics",
+    "stars": 1,
+    "language": "Unknown",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Curated list of resources, 🌐 Available online"
+  },
+  "itsreallyhex/ayah": {
+    "name": "Ayah",
+    "html_url": "https://github.com/itsreallyhex/Ayah",
+    "description": "Ayah is a tool to easily create and share code snippets that can be embedded in websites or blogs.",
+    "stars": 1,
+    "language": "C#",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Easy code snippet creation, Shareable snippets"
+  },
+  "abdelrahman31/pray-cli": {
+    "name": "pray-cli",
+    "html_url": "https://github.com/AbdElrahmaN31/pray-cli",
+    "description": "A command-line interface for prayer times",
+    "stars": 1,
+    "language": "Go",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🖥️",
+    "top2": "👍 Provides accurate prayer times information, Supports multiple locations"
+  },
+  "amhanathali/alfamous": {
+    "name": "alfamous",
+    "html_url": "https://github.com/amhanathali/alfamous",
+    "description": "A lightweight and fast framework for developing web applications with PHP and MySQL",
+    "stars": 1,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Lightweight and fast framework, Supports PHP and MySQL"
+  },
+  "emadbeltaje/azkary": {
+    "name": "azkary",
+    "html_url": "https://github.com/EmadBeltaje/azkary",
+    "description": "A web app for Islamic remembrances and supplications",
+    "stars": 2,
+    "language": "Dart",
+    "category": "Dua Collection and Reminders",
+    "deployment": "🌐",
+    "top2": "👍 Provides a collection of Islamic remembrances and supplications, Allows users to customize and save their own collections"
+  },
+  "haaruun-cyber/quran-app": {
+    "name": "Quran-App",
+    "html_url": "https://github.com/haaruun-cyber/Quran-App",
+    "description": "Quran App for reading and listening to the Quran",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Multilingual support, Audio recitations"
+  },
+  "ahmetabdullahgultekin/mizan": {
+    "name": "Mizan",
+    "html_url": "https://github.com/ahmetabdullahgultekin/Mizan",
+    "description": "A Python implementation of the Quranic text comparison tool Mizan",
+    "stars": 0,
+    "language": "Python",
+    "category": "Quranic Text and Reading",
+    "deployment": "🛠️",
+    "top2": "👍 Quranic text comparison, User-friendly interface"
+  },
+  "tk85457/shahihmuslim": {
+    "name": "shahihmuslim",
+    "html_url": "https://github.com/tk85457/shahihmuslim",
+    "description": "Shahih Muslim is a collection of hadith compiled by Imam Muslim ibn al-Hajjaj al-Naysaburi.",
+    "stars": 0,
+    "language": "Dart",
+    "category": "Hadith Collection and Study",
+    "deployment": "🌐",
+    "top2": "👍 Provides authentic Hadith collection, Easy navigation through Hadiths"
+  },
+  "sarvar2003/quranpro": {
+    "name": "quranpro",
+    "html_url": "https://github.com/sarvar2003/quranpro",
+    "description": "Quran Pro app for Android",
+    "stars": 1,
+    "language": "Python",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Offline mode, Recitations by top Quran reciters"
+  },
+  "gamingmonster2/madina-quran-warsh-vector": {
+    "name": "Madina-Quran-Warsh-Vector",
+    "html_url": "https://github.com/Gamingmonster2/Madina-Quran-Warsh-Vector",
+    "description": "Madina Quran Warsh Vector is a vectorized version of the Madina Mushaf using the Warsh qira'at.",
+    "stars": 0,
+    "language": "Unknown",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Vectorized version of Madina Mushaf, Uses Warsh qira'at"
+  },
+  "muhwira27/khatam-quran": {
+    "name": "khatam-quran",
+    "html_url": "https://github.com/muhwira27/khatam-quran",
+    "description": "Web application for completing the recitation of the Quran",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Helps users track their progress in reciting the Quran, Provides a platform to connect with other users for motivation"
+  },
+  "siteq8/hawqala": {
+    "name": "Hawqala",
+    "html_url": "https://github.com/SiteQ8/Hawqala",
+    "description": "An open-source project for managing finances",
+    "stars": 0,
+    "language": "Unknown",
+    "category": "Hadith Collection and Study",
+    "deployment": "🌐",
+    "top2": "👍 Expense tracking, Budget management"
+  },
+  "economist-bd/mh-finance": {
+    "name": "MH-Finance",
+    "html_url": "https://github.com/economist-bd/MH-Finance",
+    "description": "Microfinance software built on Django",
+    "stars": 0,
+    "language": "HTML",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Open-source, Django based"
+  },
+  "k7areef/quran.co": {
+    "name": "Quran.co",
+    "html_url": "https://github.com/k7areef/Quran.co",
+    "description": "Quran.co is a website for reading and listening to the Quran online",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides access to the Quran for reading and listening online, User-friendly interface for easy navigation"
+  },
+  "talhazahid/taqwapath": {
+    "name": "taqwapath",
+    "html_url": "https://github.com/talhazahid/taqwapath",
+    "description": "A tool to compare two versions of a directory by recursive checksums",
+    "stars": 0,
+    "language": "Astro",
+    "category": "Quranic Text and Reading",
+    "deployment": "🛠️",
+    "top2": "👍 Fast directory comparison, Recursive checksums"
+  },
+  "zeeyado/quran-word-trainer": {
+    "name": "quran-word-trainer",
+    "html_url": "https://github.com/zeeyado/quran-word-trainer",
+    "description": "Learn Quranic Arabic vocabulary through spaced repetition",
+    "stars": 4,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Interactive quizzes, Spaced Repetition System"
+  },
+  "mustafa56969/school-attendance-dairy-system-": {
+    "name": "School-Attendance-Dairy-System-",
+    "html_url": "https://github.com/mustafa56969/School-Attendance-Dairy-System-",
+    "description": "Attendance Dairy System for Schools",
+    "stars": 1,
+    "language": "Dart",
+    "category": "Other",
+    "deployment": "🖥️",
+    "top2": "👍 Easy to use interface, Real-time attendance tracking"
+  },
+  "neabytelab/quran-data": {
+    "name": "Quran-Data",
+    "html_url": "https://github.com/NeaByteLab/Quran-Data",
+    "description": "Quran Data is a repository for Quranic data for various languages and translations.",
+    "stars": 0,
+    "language": "Unknown",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Collection of Quranic data for different languages and translations, Easy access to Quranic information"
+  },
+  "ehabw57/quranlink": {
+    "name": "QuranLink",
+    "html_url": "https://github.com/Ehabw57/QuranLink",
+    "description": "QuranLink is a project for linking Quranic verses to external resources",
+    "stars": 1,
+    "language": "Vue",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides a way to link Quranic verses to external resources, Allows users to easily access different translations and interpretations of Quranic verses"
+  },
+  "raselshikdar/deen": {
+    "name": "Deen",
+    "html_url": "https://github.com/raselshikdar/Deen",
+    "description": "Deen is a multi-purpose framework for developing desktop, web and mobile applications using C#/.NET and Blazor technologies.",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Islamic Events and Reminders",
+    "deployment": "🌐",
+    "top2": "👍 Cross-platform development, Blazor integration"
+  },
+  "foyzulkarim/hifz-tester": {
+    "name": "hifz-tester",
+    "html_url": "https://github.com/foyzulkarim/hifz-tester",
+    "description": "A tool for testing hifz memorization",
+    "stars": 5,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🛠️",
+    "top2": "👍 Helps in memorizing Quran verses, Tracks progress"
+  },
+  "faha1999/al-quran-database": {
+    "name": "al-quran-database",
+    "html_url": "https://github.com/faha1999/al-quran-database",
+    "description": "Al-Quran Database",
+    "stars": 1,
+    "language": "PLpgSQL",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Comprehensive database of the Quran verses and translations, Search functionality for easy access"
+  },
+  "its3li/aniro": {
+    "name": "Aniro",
+    "html_url": "https://github.com/its3li/Aniro",
+    "description": "Aniro is an open-source anime streaming application.",
+    "stars": 1,
+    "language": "TypeScript",
+    "category": "Other",
+    "deployment": "📱",
+    "top2": "👍 Supports multiple anime sources, Provides schedule for upcoming episodes"
+  },
+  "dk1097846-blip/https-username.github.io-madrasa-kulsoom-ali": {
+    "name": "https-username.github.io-madrasa-kulsoom-ali",
+    "html_url": "https://github.com/dk1097846-blip/https-username.github.io-madrasa-kulsoom-ali",
+    "description": "Madrasa Kulsoom Ali's personal website",
+    "stars": 0,
+    "language": "HTML",
+    "category": "Islamic Resources and Community",
+    "deployment": "🌐",
+    "top2": "👍 Clean and minimalistic design,👍 Mobile responsive layout"
+  },
+  "kabriacid/qurankit": {
+    "name": "qurankit",
+    "html_url": "https://github.com/KabriAcid/qurankit",
+    "description": "An open-source Quran memorization and revision app",
+    "stars": 1,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 Beautiful UI design, Verses highlighting"
+  },
+  "icydrae/islamic": {
+    "name": "Islamic",
+    "html_url": "https://github.com/IcyDrae/Islamic",
+    "description": "Islamic App for all muslims to be able to create events and get notfications on events created by other users allowing them to see their nearest events",
+    "stars": 1,
+    "language": "C#",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍Automated event notifications, Nearby event discovery"
+  },
+  "zencefilefendi/diyanet-offline-namaz-vakitleri-hesaplama": {
+    "name": "Diyanet-Offline-Namaz-Vakitleri-Hesaplama",
+    "html_url": "https://github.com/zencefilefendi/Diyanet-Offline-Namaz-Vakitleri-Hesaplama",
+    "description": "Diyanet Offline Namaz Vakitleri Hesaplama is a tool for calculating offline prayer times based on Diyanet's data.",
+    "stars": 79,
+    "language": "HTML",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🖥️",
+    "top2": "👍 Provides accurate prayer times based on Diyanet's data, Works offline without requiring internet connection"
+  },
+  "mohaneddz/mysalat": {
+    "name": "MySalat",
+    "html_url": "https://github.com/mohaneddz/MySalat",
+    "description": "A simple Islamic prayer times app",
+    "stars": 2,
+    "language": "Lua",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "📱",
+    "top2": "👍 Provides accurate prayer times, 📱 Mobile app deployment"
+  },
+  "muhammadmudassarkhan786/ruhani-dua-and-prayer-app": {
+    "name": "Ruhani-Dua-and-Prayer-App",
+    "html_url": "https://github.com/MuhammadMudassarKhan786/Ruhani-Dua-and-Prayer-App",
+    "description": "Ruhani Dua and Prayer App on GitHub",
+    "stars": 1,
+    "language": "TypeScript",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🌐",
+    "top2": "👍 Provides a collection of spiritual prayers and duas\n👍 Allows users to search and bookmark their favorite prayers"
+  },
+  "emadadeldev/qurandbot": {
+    "name": "QuranDBot",
+    "html_url": "https://github.com/emadadeldev/QuranDBot",
+    "description": "A chatbot that provides information about the Quran",
+    "stars": 1,
+    "language": "Python",
+    "category": "Quranic Text and Reading",
+    "deployment": "🖥️",
+    "top2": "👍 Provides accurate information about the Quran, Supports multiple languages"
+  },
+  "flagodna-developer/fastiquran": {
+    "name": "fastiquran",
+    "html_url": "https://github.com/Flagodna-Developer/fastiquran",
+    "description": "A tool for providing fast access to the Quran",
+    "stars": 1,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Quran text search with rapid response, Convenient interface for Quran reading"
+  },
+  "mahamadayaz/ms-engagement": {
+    "name": "Ms-Engagement",
+    "html_url": "https://github.com/Mahamadayaz/Ms-Engagement",
+    "description": "Ms-Engagement is an engagement tool for measuring customer engagement.",
+    "stars": 4,
+    "language": "CSS",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Real-time customer engagement monitoring, 🚀 Interactive engagement dashboards"
+  },
+  "friedegg796/muslimpaintings": {
+    "name": "MuslimPaintings",
+    "html_url": "https://github.com/friedegg796/MuslimPaintings",
+    "description": "A collection of Muslim paintings",
+    "stars": 0,
+    "language": "Unknown",
+    "category": "Islamic Resources and Community",
+    "deployment": "🌐",
+    "top2": "👍 Features a wide variety of paintings, Allows users to contribute their own paintings"
+  },
+  "ishakismaili/quranjson": {
+    "name": "QuranJSON",
+    "html_url": "https://github.com/IshakiSmaili/QuranJSON",
+    "description": "QuranJSON is a JSON representation of the Quran",
+    "stars": 4,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🛠️",
+    "top2": "👍 Open-source project, Provides JSON representation of the Quran"
+  },
+  "agusibrahim/quran_marker": {
+    "name": "quran_marker",
+    "html_url": "https://github.com/agusibrahim/quran_marker",
+    "description": "Quran Marker is a tool to help mark the Quran when reading or memorizing.",
+    "stars": 0,
+    "language": "HTML",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Helps in marking the Quran for reading or memorizing, Easy to use interface"
+  },
+  "istiqoma-yahya/istiqoma": {
+    "name": "istiqoma",
+    "html_url": "https://github.com/istiqoma-yahya/istiqoma",
+    "description": "A tool for managing software development projects",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Islamic Resources and Community",
+    "deployment": "🌐",
+    "top2": "👍 Agile project management, task tracking"
+  },
+  "neabytelab/quranverse": {
+    "name": "QuranVerse",
+    "html_url": "https://github.com/NeaByteLab/QuranVerse",
+    "description": "A web application for displaying verses from the Holy Quran",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides Arabic text and translations of Quranic verses, Allows users to search for specific verses"
+  },
+  "ali-mahdi-eng/hadith-alhlulbayt": {
+    "name": "Hadith-Alhlulbayt",
+    "html_url": "https://github.com/ali-mahdi-eng/Hadith-Alhlulbayt",
+    "description": "Hadith-Alhlulbayt is a collection of hadiths from the Ahlulbayt, the family of Prophet Muhammad (peace be upon him).",
+    "stars": 2,
+    "language": "JavaScript",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Includes a collection of hadiths from the Ahlulbayt,\n👍 Provides a platform to access and read these hadiths easily"
+  },
+  "zamai-org/islam-paal": {
+    "name": "islam-paal",
+    "html_url": "https://github.com/ZamAI-ORG/islam-paal",
+    "description": "ZamAI-ORG/islam-paal",
+    "stars": 0,
+    "language": "Unknown",
+    "category": "Prayer Times Calculation and Display",
+    "deployment": "🌐",
+    "top2": "👍 Islamic Knowledge Platform, User-friendly Interface"
+  },
+  "rifuroo/prayer-status": {
+    "name": "prayer-status",
+    "html_url": "https://github.com/Rifuroo/prayer-status",
+    "description": "A tool to check the prayer status in given location",
+    "stars": 0,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Uses Geolocation API for accurate prayer timings\n👍 Provides notifications for prayer times"
+  },
+  "hasanmujtaba2006/majmua-aamaal": {
+    "name": "majmua-aamaal",
+    "html_url": "https://github.com/hasanmujtaba2006/majmua-aamaal",
+    "description": "Majmua Amaal project on GitHub",
+    "stars": 0,
+    "language": "HTML",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Comprehensive collection of Amal"
+  },
+  "shadysalman/islamic-knowledge-skill": {
+    "name": "islamic-knowledge-skill",
+    "html_url": "https://github.com/shadysalman/islamic-knowledge-skill",
+    "description": "Islamic knowledge skill for Amazon Alexa, Google Home, and other voice assistants",
+    "stars": 5,
+    "language": "Python",
+    "category": "Quranic Text and Reading",
+    "deployment": "🛠️",
+    "top2": "👍 Provides Islamic knowledge and teachings \n👍 Interacts with voice assistants like Alexa and Google Home"
+  },
+  "quran8vs/fonts": {
+    "name": "fonts",
+    "html_url": "https://github.com/quran8vs/fonts",
+    "description": "Quranic font families for the Web, desktop, and mobile applications",
+    "stars": 0,
+    "language": "Unknown",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 1. Provides Quranic font families for various platforms"
+  },
+  "fsioni/quran-tracker-telegram-bot": {
+    "name": "quran-tracker-telegram-bot",
+    "html_url": "https://github.com/fsioni/quran-tracker-telegram-bot",
+    "description": "A Quran tracker Telegram bot",
+    "stars": 1,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🛠️",
+    "top2": "👍 Tracks Quran reading progress, Sends reminders to read Quran"
+  },
+  "muhiqsimui/kafein-quran": {
+    "name": "kafein-quran",
+    "html_url": "https://github.com/muhiqsimui/kafein-quran",
+    "description": "A web application for reading the Quran with features like translations and tafsir",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Multilanguage translations, Tafsir integration"
+  },
+  "mahmoudfalous/quran-pro": {
+    "name": "quran-pro",
+    "html_url": "https://github.com/mahmoudfalous/quran-pro",
+    "description": "Quran Pro is a mobile app for reading and listening to the Quran.",
+    "stars": 1,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "📱",
+    "top2": "👍 User-friendly interface, Audio recitations"
+  },
+  "abilaaacg/nabil-quran": {
+    "name": "nabil-quran",
+    "html_url": "https://github.com/Abilaaacg/nabil-quran",
+    "description": "A website for reading and listening to the Quran",
+    "stars": 1,
+    "language": "JavaScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Includes both text and audio versions of the Quran, Supports different languages for translations"
+  },
+  "mamunexpert/quranolympiadquizapp": {
+    "name": "QuranOlympiadQuizApp",
+    "html_url": "https://github.com/MamunExpert/QuranOlympiadQuizApp",
+    "description": "A quiz app based on the Quran",
+    "stars": 0,
+    "language": "CSS",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Provides quizzes based on the Quran, Offers leaderboard feature"
+  },
+  "abalpay/qurancircle": {
+    "name": "QuranCircle",
+    "html_url": "https://github.com/abalpay/QuranCircle",
+    "description": "Quran Circle is a tool to help organize and manage Quran learning circles",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Helps organize and manage Quran learning circles, User-friendly interface"
+  },
+  "ani2000/slc": {
+    "name": "slc",
+    "html_url": "https://github.com/ani2000/slc",
+    "description": "An initiative to get cities back on track",
+    "stars": 1,
+    "language": "JavaScript",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Open-source community project, Real-time city data visualization"
+  },
+  "ummeco/chatislam": {
+    "name": "chatislam",
+    "html_url": "https://github.com/ummeco/chatislam",
+    "description": "A chat application for Islamic communities",
+    "stars": 0,
+    "language": "TypeScript",
+    "category": "Other",
+    "deployment": "🌐",
+    "top2": "👍 Real-time chat feature, User authentication system"
+  },
+  "frd98/istigrow": {
+    "name": "IstiGrow",
+    "html_url": "https://github.com/frd98/IstiGrow",
+    "description": "IstiGrow is a plant detection and classification project",
+    "stars": 2,
+    "language": "JavaScript",
+    "category": "Other",
+    "deployment": "🛠️",
+    "top2": "👍 Plant detection using computer vision, Plant classification using deep learning"
+  },
+  "mdj-github/hourlyquran": {
+    "name": "HourlyQuran",
+    "html_url": "https://github.com/MDJ-GitHub/HourlyQuran",
+    "description": "HourlyQuran is a web application that plays the Quran recitation hourly in the background.",
+    "stars": 0,
+    "language": "PowerShell",
+    "category": "Quranic Text and Reading",
+    "deployment": "🌐",
+    "top2": "👍 Automatically plays Quran recitation hourly, Simple user interface"
   }
 }
