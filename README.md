@@ -165,6 +165,8 @@ Auto-Categorized, then sorted by ⭐s.
 
 🌐 **[quran-notes-keeper](https://github.com/AhsanAyaz/quran-notes-keeper)** ⭐ 13 – A note-taking application for the Quran  👍 Supports Quranic text input and note-taking functionality
 
+🛠️ **[quranchecksum](https://github.com/spqrxi/quranchecksum)** ⭐ 0 – Verse-level SHA-256 integrity manifest for the Uthmani Quran text  👍 Lets any app verify its Quran text is byte-exact against the canonical text, Includes generate and verify scripts
+
 ### Dart
 📱 **[the-holy-quran-app](https://github.com/mhmzdev/the-holy-quran-app)** ⭐ 852 – The Holy Quran App is a mobile application for reading and listening to the Quran.  👍 Provides both reading and listening features, User-friendly interface
 
