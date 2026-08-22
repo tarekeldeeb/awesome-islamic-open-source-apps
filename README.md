@@ -12,7 +12,7 @@ Auto-Categorized, then sorted by ⭐s.
 - [Dua Collection and Reminders (2)](#dua-collection-and-reminders)
 - [Qibla Direction and Finder (2)](#qibla-direction-and-finder)
 - [Quranic Learning and Study Tools (2)](#quranic-learning-and-study-tools)
-- [Other (40)](#other)
+- [Other (41)](#other)
 
 <a name='quranic-text-and-reading'></a>
 ## Quranic Text and Reading (170 projects)
@@ -667,7 +667,7 @@ Auto-Categorized, then sorted by ⭐s.
 🖥️ **[othman](https://github.com/ojuba-org/othman)** ⭐ 44 – Othman is a platform for designing and evaluating experiments in reinforcement learning.  👍 Supports designing and evaluating experiments, Provides tools for reinforcement learning
 
 <a name='other'></a>
-## Other (40 projects)
+## Other (41 projects)
 ### JavaScript
 🖥️ **[HaramBlur](https://github.com/alganzory/HaramBlur)** ⭐ 1171 – Blur part of the screen with this tool  👍 Easy to use, Supports blurring specific areas
 
@@ -712,6 +712,8 @@ Auto-Categorized, then sorted by ⭐s.
 
 ### Python
 🛠️ **[pyIslam](https://github.com/abougouffa/pyIslam)** ⭐ 108 – A Python library for Islamic calculations and data retrieval  👍 Accurate Islamic calculations, 🚀 Data retrieval functionality
+
+🌐 **[keel](https://github.com/CodeGateSoftware/keel)** ⭐ 3 – Auditable Shariah-compliance engine for spot crypto trading (attested screening, qabd, purification)  👍 Self-hosted, fail-closed design, 🚀 Website: keeltrading.com
 
 🌐 **[ayah-detection](https://github.com/quran/ayah-detection)** ⭐ 104 – Ayah Detection Dataset.  👍Provides a dataset for Ayah detection., 👍Contains images with bounding boxes around Ayahs.
 
