@@ -1419,15 +1419,15 @@
     "deployment": "📱",
     "top2": "👍 Provides daily Islamic information, Offers prayer times reminder"
   },
-  "alwalxed/qafiyah": {
+  "raaqimorg/qafiyah": {
     "name": "qafiyah",
-    "html_url": "https://github.com/alwalxed/qafiyah",
-    "description": "Qafiyah is a Python library for Arabic Prosody (عروض الشعر).",
-    "stars": 187,
+    "html_url": "https://github.com/raaqimorg/qafiyah",
+    "description": "The Arabic poetry reference, browsable by poet, meter, rhyme, and era.",
+    "stars": 25,
     "language": "TypeScript",
     "category": "Other",
-    "deployment": "🛠️",
-    "top2": "👍 Provides tools for analyzing Arabic poetry metrics, Supports different meter types"
+    "deployment": "🌐",
+    "top2": "👍 Full-text search across poems, Free JSON API"
   },
   "fazlullahmamond/hadith-collection-pashto": {
     "name": "hadith-collection-pashto",
