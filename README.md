@@ -698,11 +698,11 @@ Auto-Categorized, then sorted by ⭐s.
 🛠️ **[pisahkata](https://github.com/mansarip/pisahkata)** ⭐ 10 – A tool to separate Indonesian words into their constituents  👍 Language processing, Indonesian word separation
 
 ### TypeScript
-🛠️ **[qafiyah](https://github.com/alwalxed/qafiyah)** ⭐ 187 – Qafiyah is a Python library for Arabic Prosody (عروض الشعر).  👍 Provides tools for analyzing Arabic poetry metrics, Supports different meter types
-
 🌐 **[mufadz-portal](https://github.com/itsflaid/mufadz-portal)** ⭐ 29 – Mufadz Portal is a web application for managing school activities and data.  👍 Streamlines school administrative tasks, Provides real-time data access
 
 🛠️ **[self-bot](https://github.com/dngda/self-bot)** ⭐ 27 – A self-bot for Discord  👍 Command customization, Easy installation
+
+🌐 **[qafiyah](https://github.com/raaqimorg/qafiyah)** ⭐ 25 – The Arabic poetry reference, browsable by poet, meter, rhyme, and era.  👍 Full-text search across poems, Free JSON API
 
 🌐 **[digitalkhatt.org](https://github.com/DigitalKhatt/digitalkhatt.org)** ⭐ 18 – A personal website showcasing projects and blog posts.  👍 Personal website with projects and blog posts, Responsive design for all devices
 
