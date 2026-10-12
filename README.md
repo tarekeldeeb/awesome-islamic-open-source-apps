@@ -129,6 +129,7 @@ Auto-Categorized, then sorted by ⭐s.
 🌐 **[quran-words](https://github.com/frrahat/quran-words)** ⭐ 11 – Quran Words is a web-based tool for exploring words and their frequencies in the Quran  👍 Provides detailed analysis of word frequencies in the Quran, Allows users to search for specific words
 
 ### TypeScript
+🌐 **[almosaly-open-source](https://github.com/esraamohan78-source/almosaly-open-source)** ⭐ 0 – Arabic RTL Islamic PWA and Android APK reconstruction for prayer times, Quran, azkar, qibla, and Hijri calendar.  👍 Local-first privacy, React/Vite web app, documented Apktool/Smali migration
 🌐 **[baca-quran.id](https://github.com/mazipan/baca-quran.id)** ⭐ 429 – Al-Qur'an digital with Audio version 🎵  👍 Includes audio version of the Quran, Search feature available
 
 🌐 **[quran-validator](https://github.com/yazinsai/quran-validator)** ⭐ 173 – A tool to validate and verify the integrity of Quranic texts  👍 Validates and verifies the integrity of Quranic texts, Provides detailed error reports
