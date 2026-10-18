@@ -383,7 +383,7 @@ Auto-Categorized, then sorted by ⭐s.
 🛠️ **[QuranTree.jl](https://github.com/alstat/QuranTree.jl)** ⭐ 13 – QuranTree.jl is a Julia package for analyzing the Quran  👍 Provides tools for analyzing the Quran passages and structure, Supports visualization of Quranic data
 
 <a name='prayer-times-calculation-and-display'></a>
-## Prayer Times Calculation and Display (44 projects)
+## Prayer Times Calculation and Display (45 projects)
 ### TypeScript
 🛠️ **[adhan-js](https://github.com/batoulapps/adhan-js)** ⭐ 446 – Prayer times library for JavaScript with hijri and gregorian dates support  👍 Calculates prayer times accurately, Supports hijri and gregorian dates
 
@@ -404,6 +404,7 @@ Auto-Categorized, then sorted by ⭐s.
 🌐 **[prayertiming](https://github.com/sh4hids/prayertiming)** ⭐ 11 – A web app to display prayer timings  👍 Provides prayer timings based on user's location, Allows users to customize calculation method
 
 📱 **[salat-now](https://github.com/yani2298/salat-now)** ⭐ 10 – A prayer times app for Muslims  👍 Provides accurate prayer times 👍 Includes various calculation methods
+🛠️ **[Muslim Prayer Reminder MCP](https://github.com/tareq7/muslim-prayer-mcp)** ⭐ 1 – Open-source MCP server for Muslim prayer times with configurable calculation authorities and Asr juristic methods.
 
 ### Kotlin
 📱 **[Prayer-Times-Android-Azan](https://github.com/ahmedeltaher/Prayer-Times-Android-Azan)** ⭐ 373 – Android application that displays Islamic prayer times for any location  👍 Provides accurate prayer times based on location 👍 Includes notifications for prayer times
