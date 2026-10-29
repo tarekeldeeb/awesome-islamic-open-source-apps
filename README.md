@@ -286,6 +286,8 @@ Auto-Categorized, then sorted by ⭐s.
 
 🌐 **[quranwbw.com](https://github.com/marwan/quranwbw.com)** ⭐ 11 – Quran Word by Word website  👍 Arabic text and word by word translation, Search functionality
 
+🛠️ **[Quran Reels](https://github.com/Ansygroup/quran-reels)** ⭐ 0 – Free browser-based Quran video maker that runs in the browser.  👍 Creates vertical 1080×1920 reels with 47 reciters and 8 in-video translation languages, 👍 32 Islamic tools, no watermark, offline PWA
+
 ### PHP
 🛠️ **[phpquran](https://github.com/faizshukri/phpquran)** ⭐ 45 – A PHP library for reading Quran in PHP.  👍 Provides a PHP interface to access Quranic data, Supports multiple translations and recitations
 
