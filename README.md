@@ -129,6 +129,8 @@ Auto-Categorized, then sorted by ⭐s.
 🌐 **[quran-words](https://github.com/frrahat/quran-words)** ⭐ 11 – Quran Words is a web-based tool for exploring words and their frequencies in the Quran  👍 Provides detailed analysis of word frequencies in the Quran, Allows users to search for specific words
 
 ### TypeScript
+🧮 **[zakat-mal](https://github.com/codesbykhairannoor/zakat-mal)** – Authoritative zero-dependency Zakat Mal calculation engine for Islamic finance  👍 Pure TypeScript arbitrary-precision decimal engine, Compliant with AAOIFI Standard No. 35 and Fatwa MUI/BAZNAS, 10 asset categories supported
+
 🌐 **[baca-quran.id](https://github.com/mazipan/baca-quran.id)** ⭐ 429 – Al-Qur'an digital with Audio version 🎵  👍 Includes audio version of the Quran, Search feature available
 
 🌐 **[quran-validator](https://github.com/yazinsai/quran-validator)** ⭐ 173 – A tool to validate and verify the integrity of Quranic texts  👍 Validates and verifies the integrity of Quranic texts, Provides detailed error reports
