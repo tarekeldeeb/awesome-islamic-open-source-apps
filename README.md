@@ -608,6 +608,8 @@ Auto-Categorized, then sorted by ⭐s.
 
 🌐 **[eeman](https://github.com/mkhoirulwafa18/eeman)** ⭐ 22 – Eeman: Easy Event Management System  👍 Event management, User-friendly interface
 
+🛠️ **[moon_phase_ar](https://github.com/arabskypedia2/moon-phase-ar)** ⭐ 0 – Dart package to calculate moon phase, illumination and moon age with Arabic phase names  👍 Arabic and English phase names, 👍 Zero dependencies, published on pub.dev
+
 ### PHP
 🌐 **[laravel-hijri](https://github.com/Pharaonic/laravel-hijri)** ⭐ 13 – A package for converting Gregorian dates to Hijri (Islamic) dates in Laravel applications  👍 Converts Gregorian dates to Hijri dates 👍 Provides helper functions for working with Hijri dates
 
@@ -758,4 +760,3 @@ Auto-Categorized, then sorted by ⭐s.
 
 ### Svelte
 🌐 **[waqt-web](https://github.com/arafatamim/waqt-web)** ⭐ 18 – Waqt is a web application for tracking time spent on tasks and projects.  👍 Real-time tracking, Task management
-
