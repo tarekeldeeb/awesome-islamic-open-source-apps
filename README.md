@@ -83,6 +83,8 @@ Auto-Categorized, then sorted by ⭐s.
 
 🌐 **[al-quran](https://github.com/mrhrifat/al-quran)** ⭐ 10 – A collection of Quranic resources including translations, tafsir, and more  👍 Provides various Quranic resources, Supports multiple languages
 
+🖥️ **[Salah Launcher](https://github.com/abdok30303-coder/apl-plus-musalla)** ⭐ 3 – Samsung Tizen TV launcher (2022+) with a full offline Hafs Mushaf with diacritics and Al-Saadi tafsir  👍 Complete Mushaf works offline, Arabic RTL interface
+
 ### Python
 🌐 **[alfanous](https://github.com/Alfanous-team/alfanous)** ⭐ 267 – Alfanous is a Quranic search engine and research tool  👍 Provides powerful Quran search capabilities, Supports Arabic and English search queries
 
@@ -441,6 +443,8 @@ Auto-Categorized, then sorted by ⭐s.
 🌐 **[iftar](https://github.com/eneserdogan/iftar)** ⭐ 32 – An application to track iftar times during Ramadan  👍 Provides accurate iftar times based on location, Allows users to set reminders for iftar time
 
 🌐 **[prayer-time](https://github.com/NazmusSayad/prayer-time)** ⭐ 19 – A web application to show prayer times  👍 Provides accurate prayer times information, User-friendly interface
+
+🖥️ **[Salah Launcher](https://github.com/abdok30303-coder/apl-plus-musalla)** ⭐ 3 – Free, MIT-licensed Arabic-first launcher for Samsung Tizen TVs (2022+): offline prayer times with countdown on the home screen, Hijri date  👍 Prayer times calculated offline, Built-in Mushaf, tafsir, Quran radio and azkar
 
 ### Java
 🌐 **[PrayerTimes](https://github.com/HouariZegai/PrayerTimes)** ⭐ 182 – Islamic prayer times calculator  👍 Calculates accurate prayer times based on location and method
